@@ -7,6 +7,9 @@ Fall 2018 for 17-19 lectures:
 https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7
 
 02 -
-
+ GROUP BY:
 ![[Pasted image 20230515235041.png]]
+
+HAVING:
+![[Pasted image 20230515235745.png]]
 
