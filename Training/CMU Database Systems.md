@@ -76,3 +76,6 @@ Allocation Policies
 Multiple buffer pool
 ![[Pasted image 20230519182449.png]]
 
+Multiple buffer pool
+Approach: Object ID vs Hasing 
+![[Pasted image 20230519182810.png]]
