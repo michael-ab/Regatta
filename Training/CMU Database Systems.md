@@ -29,3 +29,13 @@ HAVING:
 ### OLAP
 ![[Pasted image 20230519150530.png]]
 
+### N-ARY Storage Model (NSM)
+
+![[Pasted image 20230519151806.png]]
+![[Pasted image 20230519152142.png]]
+
+### Decomposition Storage Model (DSM)
+![[Pasted image 20230519152227.png]]
+
+![[Pasted image 20230519152340.png]]
+
