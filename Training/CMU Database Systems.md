@@ -60,4 +60,16 @@ Pro/cons DSM
 > Memory part (not disk!)
 
 ![[Pasted image 20230519165553.png]]
-Dirty flag: a bit t
+Dirty flag: a bit to know if the page was modified 
+Pin/Reference Counter: number of threads/queries currectly running that want this page in memory
+
+Locks vs Latches
+![[Pasted image 20230519170316.png]]
+
+Page directory: (in disk) map page ID to page location in the database files
+Page table: (in memory) map page ID to copy of the page in buffer pool frames
+![[Pasted image 20230519170516.png]]
+
+
+
+
