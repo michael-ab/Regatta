@@ -70,6 +70,9 @@ Page directory: (in disk) map page ID to page location in the database files
 Page table: (in memory) map page ID to copy of the page in buffer pool frames
 ![[Pasted image 20230519170516.png]]
 
+Allocation Policies
+![[Pasted image 20230519182117.png]]
 
-
+Multiple buffer pool
+![[Pasted image 20230519182449.png]]
 
