@@ -81,5 +81,10 @@ Approach: Object ID vs Hasing
 ![[Pasted image 20230519182810.png]]
 
 Scan sharing:
-1. Queries can reuse data retrieved  fr
-![[Pasted image 20230519185643.png]]
+1. Queries can reuse data retrieved  from storage or operator computations.
+2. Allow multiple queries to attach to a single cursor that scan a table.
+![[Pasted image 20230519185946.png]]
+
+Buffer pool bypass
+![[Pasted image 20230519190359.png]]
+
