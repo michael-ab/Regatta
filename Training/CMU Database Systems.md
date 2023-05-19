@@ -13,3 +13,11 @@ https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7
 HAVING:
 ![[Pasted image 20230515235745.png]]
 
+03 -
+
+#### Page Layout
+1. Tuple-oriented
+![[Pasted image 20230519141253.png]]
+2. Log-structured
+![[Pasted image 20230519141412.png]]
+![[Pasted image 20230519141726.png]]
