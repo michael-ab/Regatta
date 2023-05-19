@@ -32,6 +32,8 @@ HAVING:
 ### N-ARY Storage Model (NSM)
 
 ![[Pasted image 20230519151806.png]]
+
+Pro/cons NSM
 ![[Pasted image 20230519152142.png]]
 
 ### Decomposition Storage Model (DSM)
@@ -39,3 +41,10 @@ HAVING:
 
 ![[Pasted image 20230519152340.png]]
 
+Tuple identification for the DSM method. 
+1. Use offsets no identify the tuple
+2. Each attribute is embedded with the tuple I
+![[Pasted image 20230519152725.png]]
+
+Pro/cons DSM
+![[Pasted image 20230519152935.png]]
