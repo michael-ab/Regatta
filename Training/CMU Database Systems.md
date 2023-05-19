@@ -15,9 +15,17 @@ HAVING:
 
 03 -
 
-#### Page Layout
+### Page Layout
 1. Tuple-oriented
 ![[Pasted image 20230519141253.png]]
 2. Log-structured
+04 - 
 ![[Pasted image 20230519141412.png]]
 ![[Pasted image 20230519141726.png]]
+
+### OLTP
+![[Pasted image 20230519150507.png]]
+
+### OLAP
+![[Pasted image 20230519150530.png]]
+
