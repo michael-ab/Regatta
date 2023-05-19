@@ -79,3 +79,7 @@ Multiple buffer pool
 Multiple buffer pool
 Approach: Object ID vs Hasing 
 ![[Pasted image 20230519182810.png]]
+
+Scan sharing:
+1. Queries can reuse data retrieved  fr
+![[Pasted image 20230519185643.png]]
