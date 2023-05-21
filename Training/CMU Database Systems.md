@@ -89,4 +89,21 @@ Buffer pool bypass
 ![[Pasted image 20230519190359.png]]
 
 ### Buffer Replacement Policies 
-Clock
+1. Clock - Approximation of LRU without needing a separate timestamp per page
+![[Pasted image 20230521163812.png]]
+
+Problem with LRU and CLOCK (See example after)
+![[Pasted image 20230521164005.png]]
+
+2. Better policies: LRU-K
+![[Pasted image 20230521164145.png]]
+
+3. Better policies: localization
+![[Pasted image 20230521164339.png]]
+
+4. Better policies: priority hints
+![[Pasted image 20230521164503.png]]
+
+Dirty Pages
+![[Pasted image 20230521164656.png]]
+
