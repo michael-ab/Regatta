@@ -88,3 +88,5 @@ Scan sharing:
 Buffer pool bypass
 ![[Pasted image 20230519190359.png]]
 
+### Buffer Replacement Policies 
+Clock
