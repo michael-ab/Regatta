@@ -120,3 +120,12 @@ Dirty Pages
 3. Cuckoo Hashing
 ![[Pasted image 20230521173559.png]]
 
+Chained Hashing
+![[Pasted image 20230521180641.png]]
+
+Extendible Hashing
+![[Pasted image 20230521180710.png]]
+
+Linear Hashing 
+![[Pasted image 20230521180813.png]]
+
