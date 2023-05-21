@@ -113,6 +113,10 @@ Dirty Pages
 ### Static Hashing schemes
 1. Linear Probe Hashing
 ![[Pasted image 20230521172113.png]]
+
 2. Robin Hood Hashing
+![[Pasted image 20230521172955.png]]
 
 3. Cuckoo Hashing
+![[Pasted image 20230521173559.png]]
+
