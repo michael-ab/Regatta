@@ -107,3 +107,12 @@ Problem with LRU and CLOCK (See example after)
 Dirty Pages
 ![[Pasted image 20230521164656.png]]
 
+
+## 06 - Hash Tables
+
+### Static Hashing schemes
+1. Linear Probe Hashing
+![[Pasted image 20230521172113.png]]
+2. Robin Hood Hashing
+
+3. Cuckoo Hashing
