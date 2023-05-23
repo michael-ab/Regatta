@@ -129,3 +129,14 @@ Extendible Hashing
 Linear Hashing 
 ![[Pasted image 20230521180813.png]]
 
+## 07 - Tree Indexes I
+
+B+Tree properties
+![[Pasted image 20230523115843.png]]
+
+B+Tree example
+![[Pasted image 20230523115943.png]]
+
+B-Tree vs B+Tree
+![[Pasted image 20230523120503.png]]
+
