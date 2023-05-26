@@ -140,3 +140,8 @@ B+Tree example
 B-Tree vs B+Tree
 ![[Pasted image 20230523120503.png]]
 
+## 08 - Tree Indexes II
+
+
+Inverted index stores a mapping of words to records that contain those words in the target attribute
+![[Pasted image 20230526232210.png]]
