@@ -1,4 +1,4 @@
-Carnegie Mellon University databse systems course
+Carnegie Mellon University database systems course
 
 Fall 2019:
 https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
