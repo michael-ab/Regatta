@@ -148,3 +148,11 @@ Inverted index stores a mapping of words to records that contain those words in 
 
 Locks vs Latches
 ![[Pasted image 20230528152646.png]]
+
+Hash table latching
+![[Pasted image 20230528153711.png]]
+
+![[Pasted image 20230528153738.png]]
+
+Latch crabbing/coupling
+![[Pasted image 20230528154626.png]]
