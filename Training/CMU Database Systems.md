@@ -146,3 +146,5 @@ Inverted index stores a mapping of words to records that contain those words in 
 
 ## 09 - Multi-Threaded Index Concurrency Control
 
+Locks vs Latches
+![[Pasted image 20230528152646.png]]
