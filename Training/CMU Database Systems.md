@@ -144,3 +144,5 @@ B-Tree vs B+Tree
 Inverted index stores a mapping of words to records that contain those words in the target attribute
 ![[Pasted image 20230526232210.png]]
 
+## 09 - Multi-Threaded Index Concurrency Control
+
