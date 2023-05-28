@@ -107,7 +107,6 @@ Problem with LRU and CLOCK (See example after)
 Dirty Pages
 ![[Pasted image 20230521164656.png]]
 
-
 ## 06 - Hash Tables
 
 ### Static Hashing schemes
@@ -142,6 +141,6 @@ B-Tree vs B+Tree
 
 ## 08 - Tree Indexes II
 
-
 Inverted index stores a mapping of words to records that contain those words in the target attribute
 ![[Pasted image 20230526232210.png]]
+
