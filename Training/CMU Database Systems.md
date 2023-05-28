@@ -156,3 +156,7 @@ Hash table latching
 
 Latch crabbing/coupling
 ![[Pasted image 20230528154626.png]]
+
+## 10 - Sorting & Aggregations
+Query Plan
+![[Pasted image 20230528161614.png]]
