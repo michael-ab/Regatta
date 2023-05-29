@@ -190,3 +190,13 @@ Using B+Tree for sorting
 
 ![[Pasted image 20230529220738.png]]
 
+Hashing Aggregate
+![[Pasted image 20230529221222.png]]
+
+External Hashing Aggregate
+![[Pasted image 20230529221258.png]]
+
+![[Pasted image 20230529221421.png]]
+
+![[Pasted image 20230529221655.png]]
+
