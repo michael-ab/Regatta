@@ -306,6 +306,20 @@ Bloom filters
 Grace Hash Join
 ![[Pasted image 20230529233745.png]]
 
+Grace Hash Join
+![[Pasted image 20230529234048.png]]
+
+Recursive Partitioning
+![[Pasted image 20230529234202.png]]
+
+![[Pasted image 20230529234326.png]]
+
+`Cost = 3(M+N)`
+![[Pasted image 20230529234353.png]]
+
+Join Algorithms: Summary
+![[Pasted image 20230529234614.png]]
+
 
 ## 12  - Query Execution I
 
