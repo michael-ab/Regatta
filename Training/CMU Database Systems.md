@@ -294,6 +294,18 @@ Basic Hash Join Algorithm
 Hash Table Contents
 ![[Pasted image 20230529232814.png]]
 
+Hash Table Values
+![[Pasted image 20230529232851.png]]
+
+Bloom filter
+![[Pasted image 20230529233058.png]]
+
+Bloom filters
+![[Pasted image 20230529233158.png]]
+
+Grace Hash Join
+![[Pasted image 20230529233745.png]]
+
 
 ## 12  - Query Execution I
 
