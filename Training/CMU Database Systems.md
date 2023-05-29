@@ -249,7 +249,21 @@ Operator Output - Record IDs
 Called late materialization
 ![[Pasted image 20230529225611.png]]
 
+I/O Cost Analysis
+![[Pasted image 20230529230026.png]]
 
+Join vs Cross-product
+![[Pasted image 20230529230142.png]]
+
+Join Algorithms
+![[Pasted image 20230529230227.png]]
+
+Nested loop join (for {for {}})
+For every tuple in R, it scans S once
+`cost: M + (m*N)`
+![[Pasted image 20230529230451.png]]
+
+![[Pasted image 20230529230838.png]]
 ## 12  - Query Execution I
 
 ## 13 - Query Execution II
