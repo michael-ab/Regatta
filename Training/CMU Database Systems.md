@@ -177,3 +177,10 @@ External Merge Sort
 
 ![[Pasted image 20230529214729.png]]
 
+![[Pasted image 20230529214858.png]]
+
+![[Pasted image 20230529215348.png]]
+
+Using B+Tree for sorting
+![[Pasted image 20230529215810.png]]
+
