@@ -242,6 +242,13 @@ Why do we need to join?
 Join Algorithms
 ![[Pasted image 20230529223010.png]]
 
+Join Operator Output: Data
+![[Pasted image 20230529225248.png]]
+
+Operator Output - Record IDs
+Called late materialization
+![[Pasted image 20230529225611.png]]
+
 
 ## 12  - Query Execution I
 
