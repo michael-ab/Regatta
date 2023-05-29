@@ -6,6 +6,19 @@ https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
 Fall 2018 for 17-19 lectures:
 https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7
 
+[[#01 - Relational model]]
+[[#02 - Advanced SQL]]
+[[#03 - Database Storage I]]
+[[#04 - Database Storage II]]
+[[#05 - Buffer Pool - Memory Management]]
+[[#06 - Hash Tables]]
+[[#07 - Tree Indexes I]]
+[[#08 - Tree Indexes II]]
+[[#09 - Multi-Threaded Index Concurrency Control]]
+[[#10 - Sorting & Aggregations]]
+[[#11 - Join Algorithms]]
+
+
 ## 01 - Relational model
 
 ## 02 - Advanced SQL
@@ -208,4 +221,21 @@ External Hashing Aggregate
 
 ## 11 - Join Algorithms
 
+Why do we need to join?
+![[Pasted image 20230529222901.png]]
 
+Join Algorithms
+![[Pasted image 20230529223010.png]]
+
+
+## 12  - Query Execution I
+
+## 13 - Query Execution II
+
+## 14 - Query Planning & Optimization I
+
+## 15 - Query Planning & Optimization II
+
+## 16 - Concurrency Control Theory
+
+## 17 - # Two-Phase Locking Concurrency Control
