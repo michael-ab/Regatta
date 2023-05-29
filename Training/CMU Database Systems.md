@@ -200,3 +200,12 @@ External Hashing Aggregate
 
 ![[Pasted image 20230529221655.png]]
 
+![[Pasted image 20230529222004.png]]
+
+![[Pasted image 20230529222207.png]]
+
+![[Pasted image 20230529222342.png]]
+
+## 11 - Join Algorithms
+
+
