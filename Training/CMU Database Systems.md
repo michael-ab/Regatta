@@ -17,6 +17,21 @@ https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7
 [[#09 - Multi-Threaded Index Concurrency Control]]
 [[#10 - Sorting & Aggregations]]
 [[#11 - Join Algorithms]]
+[[#12 - Query Execution I]]
+[[#13 - Query Execution II]]
+[[#14 - Query Planning & Optimization I]]
+[[#15 - Query Planning & Optimization II]]
+[[#16 - Concurrency Control Theory]]
+[[#17 - Two-Phase Locking Concurrency Control]]
+[[#18 - Timestamp Ordering Concurrency Control]]
+[[#19 - Multi-Version Concurrency Control]]
+[[#20 - Database Logging Schemes]]
+[[#21 - ARIES Database Recovery]]
+[[#22 - Introduction to Distributed Databases]]
+[[#23 - Distributed OLTP Databases]]
+[[#24 - Distributed OLAP Databases]]
+[[#25 - Shasank Chavan (Oracle In-Memory Databases)]]
+[[#26 - Systems Potpourri]]
 
 
 ## 01 - Relational model
@@ -238,4 +253,25 @@ Join Algorithms
 
 ## 16 - Concurrency Control Theory
 
-## 17 - # Two-Phase Locking Concurrency Control
+## 17 - Two-Phase Locking Concurrency Control
+
+## 18 - Timestamp Ordering Concurrency Control
+
+## 19 - Multi-Version Concurrency Control
+
+## 20 - Database Logging Schemes
+
+## 21 - ARIES Database Recovery
+
+## 22 - Introduction to Distributed Databases
+
+## 23 - Distributed OLTP Databases
+
+## 24 - Distributed OLAP Databases
+
+## 25 - Shasank Chavan (Oracle In-Memory Databases)
+
+## 26 - Systems Potpourri
+
+
+
