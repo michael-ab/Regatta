@@ -164,4 +164,16 @@ Query Plan
 
 ### Sorting algo
 
-Issue for disk: we need to find a good sorting algo that don't do write too much data 
+Issue for disk: we need to find a good sorting algo that don't do write too much data out the disk
+![[Pasted image 20230529213842.png]]
+
+External Merge Sort
+![[Pasted image 20230529213856.png]]
+
+2-way External Merge Sort
+![[Pasted image 20230529214511.png]]
+
+![[Pasted image 20230529214547.png]]
+
+![[Pasted image 20230529214729.png]]
+
