@@ -162,3 +162,6 @@ Latch crabbing/coupling
 Query Plan
 ![[Pasted image 20230528161614.png]]
 
+### Sorting algo
+
+Issue for disk: we need to find a good sorting algo that don't do write too much data 
