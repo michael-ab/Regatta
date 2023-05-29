@@ -263,7 +263,25 @@ For every tuple in R, it scans S once
 `cost: M + (m*N)`
 ![[Pasted image 20230529230451.png]]
 
+Block Nested Loop Join
+This algorithm performs fewer disk accesses
+For every block in R, it scans S once
+`cost: M + (M*N)`
 ![[Pasted image 20230529230838.png]]
+
+Index Nested Loop Join
+Assume the cost of each index probe is some constant C per tuple
+`cost: M + (m*C)`
+![[Pasted image 20230529231442.png]]
+
+Sort-Merge Join
+![[Pasted image 20230529231655.png]]
+
+Sort-Merge Join Algorithm
+![[Pasted image 20230529231812.png]]
+
+
+
 ## 12  - Query Execution I
 
 ## 13 - Query Execution II
