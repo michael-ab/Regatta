@@ -280,6 +280,19 @@ Sort-Merge Join
 Sort-Merge Join Algorithm
 ![[Pasted image 20230529231812.png]]
 
+Cost of Sort-Merge Join
+![[Pasted image 20230529232132.png]]
+
+Hash Join
+![[Pasted image 20230529232509.png]]
+
+Basic Hash Join Algorithm
+![[Pasted image 20230529232649.png]]
+
+![[Pasted image 20230529232748.png]]
+
+Hash Table Contents
+![[Pasted image 20230529232814.png]]
 
 
 ## 12  - Query Execution I
