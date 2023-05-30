@@ -442,6 +442,25 @@ Exchange Operator
 3. Distribute
 ![[Pasted image 20230530172247.png]]
 
+![[Pasted image 20230530172536.png]]
+
+Inter-Operator Parallelism
+2. Inter-Operator (Vertical)
+Called pipelined parallelism
+![[Pasted image 20230530172753.png]]
+
+Example
+![[Pasted image 20230530172833.png]]
+
+3. Bushy Parallelism
+![[Pasted image 20230530172935.png]]
+
+I/O Parallelism
+![[Pasted image 20230530173414.png]]
+
+Multi-Disk Parallelism
+![[Pasted image 20230530173515.png]]
+
 
 
 ## 14 - Query Planning & Optimization I
