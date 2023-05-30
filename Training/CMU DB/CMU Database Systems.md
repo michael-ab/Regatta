@@ -417,6 +417,19 @@ Process Model
 
 ![[Pasted image 20230530152109.png]]
 
+Inter- vs Intra-Query Parallelism
+![[Pasted image 20230530152348.png]]
+
+Inter-Query Parallelism
+![[Pasted image 20230530152521.png]]
+
+Intra-Query Parallelism
+![[Pasted image 20230530152600.png]]
+
+Intra-Query Parallelism
+![[Pasted image 20230530152746.png]]
+
+
 ## 14 - Query Planning & Optimization I
 
 ## 15 - Query Planning & Optimization II
