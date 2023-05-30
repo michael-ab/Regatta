@@ -331,6 +331,12 @@ Processing model
 
 ![[Pasted image 20230530121516.png]]
 
+2. Materialization Model
+![[Pasted image 20230530122313.png]]
+
+![[Pasted image 20230530122509.png]]
+
+
 ## 13 - Query Execution II
 
 ## 14 - Query Planning & Optimization I
