@@ -371,6 +371,9 @@ Late Materialization
 Heap Clustering
 ![[Pasted image 20230530124539.png]]
 
+Index Scan
+![[Pasted image 20230530132238.png]]
+
 
 ## 13 - Query Execution II
 
