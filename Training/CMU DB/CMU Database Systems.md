@@ -401,7 +401,21 @@ Parallel vs Distributed
 
 ![[Pasted image 20230530150903.png]]
 
+Process Model
+![[Pasted image 20230530151209.png]]
 
+![[Pasted image 20230530151405.png]]
+
+1. Process Per Worker
+![[Pasted image 20230530151433.png]]
+
+2. Process Pool
+![[Pasted image 20230530151630.png]]
+
+3. Thread Per Worker
+![[Pasted image 20230530151947.png]]
+
+![[Pasted image 20230530152109.png]]
 
 ## 14 - Query Planning & Optimization I
 
