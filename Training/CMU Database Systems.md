@@ -323,6 +323,11 @@ Join Algorithms: Summary
 
 ## 12  - Query Execution I
 
+Processing model
+![[Pasted image 20230530120316.png]]
+
+1. Iterator Model (Also called Volcano or Pipeline Model)
+![[Pasted image 20230530120416.png]]
 ## 13 - Query Execution II
 
 ## 14 - Query Planning & Optimization I
