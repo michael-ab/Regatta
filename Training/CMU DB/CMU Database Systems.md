@@ -459,7 +459,22 @@ I/O Parallelism
 ![[Pasted image 20230530173414.png]]
 
 Multi-Disk Parallelism
-![[Pasted image 20230530173515.png]]
+![[Pasted image 20230530173611.png]]
+
+Database Partitioning
+![[Pasted image 20230530173704.png]]
+
+Partitioning
+![[Pasted image 20230530173938.png]]
+
+Vertical Partitioning
+![[Pasted image 20230530174113.png]]
+
+Horizontal Partitioning
+![[Pasted image 20230530174152.png]]
+
+
+
 
 
 
