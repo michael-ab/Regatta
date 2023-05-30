@@ -390,11 +390,18 @@ Index Scan Page Sorting
 Expression Evaluation (Expression tree)
 ![[Pasted image 20230530134236.png]]
 
-
-
-
-
 ## 13 - Query Execution II
+
+
+Why Care About Parallel Execution?
+![[Pasted image 20230530150704.png]]
+
+Parallel vs Distributed
+![[Pasted image 20230530150802.png]]
+
+![[Pasted image 20230530150903.png]]
+
+
 
 ## 14 - Query Planning & Optimization I
 
