@@ -331,11 +331,30 @@ Processing model
 
 ![[Pasted image 20230530121516.png]]
 
+Each time compute a single tuple
+![[Pasted image 20230530122703.png]]
+
 2. Materialization Model
 ![[Pasted image 20230530122313.png]]
 
+Compute all tuples together
 ![[Pasted image 20230530122509.png]]
 
+Better for OLTP
+Not Good for OLAP
+![[Pasted image 20230530122844.png]]
+
+3. Vectorization Model
+![[Pasted image 20230530123023.png]]
+
+Each time compute a batch of tuples
+![[Pasted image 20230530123149.png]]
+
+Good for OLAP
+![[Pasted image 20230530123252.png]]
+
+Plan Processing Direction
+![[Pasted image 20230530123419.png]]
 
 ## 13 - Query Execution II
 

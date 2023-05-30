@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "455ff6173431aeaa",
+        "id": "a72c9f6a92e7e1e3",
         "type": "tabs",
         "children": [
           {
-            "id": "eda9c89bdc3a0d76",
+            "id": "1cd623e3718b08c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,6 +31,7 @@
       {
         "id": "2d2560af669e3ad0",
         "type": "tabs",
+        "dimension": 60.858585858585855,
         "children": [
           {
             "id": "6ef9bde2204aa94b",
@@ -66,6 +67,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "e02b3df7d1186ce6",
+        "type": "tabs",
+        "dimension": 39.141414141414145,
+        "children": [
+          {
+            "id": "eda9c89bdc3a0d76",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/CMU Database Systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/CMU Database Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Training/CMU Database Systems.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,18 +170,17 @@
   },
   "active": "eda9c89bdc3a0d76",
   "lastOpenFiles": [
+    "Training/CMU Database Systems.md",
+    "Images/Pasted image 20230530123419.png",
+    "Images/Pasted image 20230530123252.png",
+    "Images/Pasted image 20230530123149.png",
+    "Images/Pasted image 20230530123023.png",
+    "Images/Pasted image 20230530122844.png",
+    "Images/Pasted image 20230530122703.png",
     "Images/Pasted image 20230530122509.png",
     "Images/Pasted image 20230530122313.png",
     "Images/Pasted image 20230530121516.png",
     "Images/Pasted image 20230530120416.png",
-    "Images/Pasted image 20230530120316.png",
-    "Images/Pasted image 20230529234614.png",
-    "Images/Pasted image 20230529234353.png",
-    "Images/Pasted image 20230529234326.png",
-    "Images/Pasted image 20230529234202.png",
-    "Images/Pasted image 20230529234048.png",
-    "Images/Pasted image 20230529233745.png",
-    "Training/CMU Database Systems.md",
     "Training/CMU Database Systems",
     "Images",
     "Training"
