@@ -430,6 +430,20 @@ Intra-Query Parallelism
 ![[Pasted image 20230530152746.png]]
 
 
+Intra-Operator Parallelism
+1. Intra-Operator (Horizontal)
+![[Pasted image 20230530171754.png]]
+
+![[Pasted image 20230530172013.png]]
+
+Exchange Operator
+1. Gather
+2. Repartition
+3. Distribute
+![[Pasted image 20230530172247.png]]
+
+
+
 ## 14 - Query Planning & Optimization I
 
 ## 15 - Query Planning & Optimization II
