@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "locking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,8 +173,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a06ac150dc06166f",
+  "active": "db806e4b9ea4f2b9",
   "lastOpenFiles": [
+    "Images/Pasted image 20230530134236.png",
+    "Images/Pasted image 20230530134131.png",
+    "Images/Pasted image 20230530133917.png",
+    "Images/Pasted image 20230530133804.png",
     "Images/Pasted image 20230530133705.png",
     "Images/Pasted image 20230530133433.png",
     "Images/Pasted image 20230530133331.png",
@@ -192,10 +196,6 @@
     "Images/Pasted image 20230530132238.png",
     "Images/Pasted image 20230530124539.png",
     "Images/Pasted image 20230530124436.png",
-    "Images/Pasted image 20230530124047.png",
-    "Images/Pasted image 20230530123843.png",
-    "Images/Pasted image 20230530123721.png",
-    "Images/Pasted image 20230530123419.png",
-    "Images/Pasted image 20230530123252.png"
+    "Images/Pasted image 20230530124047.png"
   ]
 }

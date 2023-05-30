@@ -381,6 +381,17 @@ Multi-index Scan (Bitmap Scan)
 
 ![[Pasted image 20230530133705.png]]
 
+Multi-index scan example
+![[Pasted image 20230530133804.png]]
+
+Index Scan Page Sorting
+![[Pasted image 20230530133917.png]]
+
+Expression Evaluation (Expression tree)
+![[Pasted image 20230530134236.png]]
+
+
+
 
 
 ## 13 - Query Execution II
