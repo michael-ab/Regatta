@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a72c9f6a92e7e1e3",
+        "id": "11d1da9a37c6c5d8",
         "type": "tabs",
         "children": [
           {
-            "id": "1cd623e3718b08c9",
+            "id": "a06ac150dc06166f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -172,29 +173,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ef9bde2204aa94b",
+  "active": "a06ac150dc06166f",
   "lastOpenFiles": [
-    "Training/16-concurrencycontrol.pdf",
-    "Training/Unconfirmed 24643.crdownload",
-    "Training/15-optimization2.pdf",
-    "Training/Unconfirmed 831910.crdownload",
-    "Training/14-optimization1.pdf",
-    "Training/Unconfirmed 448974.crdownload",
-    "Training/13-queryexecution2.pdf",
-    "Training/Unconfirmed 131541.crdownload",
-    "Training/12-queryexecution1.pdf",
-    "Training/Unconfirmed 758852.crdownload",
-    "Training/11-joins.pdf",
+    "Images/Pasted image 20230530133705.png",
+    "Images/Pasted image 20230530133433.png",
+    "Images/Pasted image 20230530133331.png",
+    "Training/19-multiversioning.pdf",
+    "Training/Unconfirmed 885008.crdownload",
+    "Training/18-timestampordering.pdf",
+    "Training/Unconfirmed 255548.crdownload",
+    "Training/Unconfirmed 652559.crdownload",
+    "Training/01-introduction.pdf",
+    "Training/CMU DB/CMU Database Systems.md",
+    "Training/26-potpourri.pdf",
+    "Training/Unconfirmed 664152.crdownload",
+    "Training/25-oracle.pdf",
+    "Training/Unconfirmed 873691.crdownload",
     "Images/Pasted image 20230530132238.png",
     "Images/Pasted image 20230530124539.png",
     "Images/Pasted image 20230530124436.png",
     "Images/Pasted image 20230530124047.png",
     "Images/Pasted image 20230530123843.png",
     "Images/Pasted image 20230530123721.png",
-    "Training/CMU DB/CMU Database Systems.md",
     "Images/Pasted image 20230530123419.png",
-    "Images/Pasted image 20230530123252.png",
-    "Images/Pasted image 20230530123149.png",
-    "Images/Pasted image 20230530123023.png"
+    "Images/Pasted image 20230530123252.png"
   ]
 }

@@ -374,6 +374,14 @@ Heap Clustering
 Index Scan
 ![[Pasted image 20230530132238.png]]
 
+![[Pasted image 20230530133331.png]]
+
+Multi-index Scan (Bitmap Scan)
+![[Pasted image 20230530133433.png]]
+
+![[Pasted image 20230530133705.png]]
+
+
 
 ## 13 - Query Execution II
 
