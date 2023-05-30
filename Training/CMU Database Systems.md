@@ -356,6 +356,22 @@ Good for OLAP
 Plan Processing Direction
 ![[Pasted image 20230530123419.png]]
 
+Sequential Scan
+![[Pasted image 20230530123721.png]]
+
+Sequential Scan: Optimizations
+![[Pasted image 20230530123843.png]]
+
+Zone Maps
+![[Pasted image 20230530124047.png]]
+
+Late Materialization
+![[Pasted image 20230530124436.png]]
+
+Heap Clustering
+![[Pasted image 20230530124539.png]]
+
+
 ## 13 - Query Execution II
 
 ## 14 - Query Planning & Optimization I

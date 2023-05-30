@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Training/CMU Database Systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Training/CMU Database Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Training/CMU Database Systems.md"
+              }
             }
           }
         ],
@@ -168,8 +172,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eda9c89bdc3a0d76",
+  "active": "1cd623e3718b08c9",
   "lastOpenFiles": [
+    "Images/Pasted image 20230530124539.png",
+    "Images/Pasted image 20230530124436.png",
+    "Images/Pasted image 20230530124047.png",
+    "Images/Pasted image 20230530123843.png",
+    "Images/Pasted image 20230530123721.png",
     "Training/CMU Database Systems.md",
     "Images/Pasted image 20230530123419.png",
     "Images/Pasted image 20230530123252.png",
@@ -177,10 +186,6 @@
     "Images/Pasted image 20230530123023.png",
     "Images/Pasted image 20230530122844.png",
     "Images/Pasted image 20230530122703.png",
-    "Images/Pasted image 20230530122509.png",
-    "Images/Pasted image 20230530122313.png",
-    "Images/Pasted image 20230530121516.png",
-    "Images/Pasted image 20230530120416.png",
     "Training/CMU Database Systems",
     "Images",
     "Training"
