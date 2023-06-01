@@ -483,6 +483,18 @@ Query Optimization:
 1. Heuristics/Rules
 2. Cost-based Search
 ![[Pasted image 20230601105149.png]]
+
+Architecture Overview
+![[Pasted image 20230601124001.png]]
+
+Logical vs Physical Plans
+![[Pasted image 20230601124059.png]]
+
+Query Optimization is NP-HARD
+![[Pasted image 20230601124328.png]]
+
+Relational Algebra Equivalen
+![[Pasted image 20230601124655.png]]
 ## 15 - Query Planning & Optimization II
 
 ## 16 - Concurrency Control Theory
