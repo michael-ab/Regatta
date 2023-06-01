@@ -473,13 +473,16 @@ Vertical Partitioning
 Horizontal Partitioning
 ![[Pasted image 20230530174152.png]]
 
-
-
-
-
-
 ## 14 - Query Planning & Optimization I
 
+Query Optimization
+SQL is declarative 
+![[Pasted image 20230601104932.png]]
+
+Query Optimization:
+1. Heuristics/Rules
+2. Cost-based Search
+![[Pasted image 20230601105149.png]]
 ## 15 - Query Planning & Optimization II
 
 ## 16 - Concurrency Control Theory
