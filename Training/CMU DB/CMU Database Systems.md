@@ -493,8 +493,18 @@ Logical vs Physical Plans
 Query Optimization is NP-HARD
 ![[Pasted image 20230601124328.png]]
 
-Relational Algebra Equivalen
+Relational Algebra Equivalences
 ![[Pasted image 20230601124655.png]]
+
+Predicate Pushdown
+![[Pasted image 20230601124904.png]]
+
+Relational Algebra Equivalences
+![[Pasted image 20230601125126.png]]
+
+![[Pasted image 20230601125453.png]]
+
+
 ## 15 - Query Planning & Optimization II
 
 ## 16 - Concurrency Control Theory
