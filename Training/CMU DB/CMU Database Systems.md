@@ -569,6 +569,15 @@ Histograms with Quantiles
 
 ![[Pasted image 20230602160405.png]]
 
+Sampling
+We collect a small part of a big table to estimate selectivity.
+![[Pasted image 20230602160647.png]]
+
+Query Optimization
+![[Pasted image 20230602160934.png]]
+
+Single-Relation Query Planning
+![[Pasted image 20230602161146.png]]
 
 
 
