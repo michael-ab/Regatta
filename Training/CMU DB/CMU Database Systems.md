@@ -546,8 +546,28 @@ Selections - Complex Predicates
 Disjunction
 ![[Pasted image 20230602155119.png]]
 
+Slection Cardinality:
+3 Assumption
+1. Uniform Data
+2. Independent Predicates
+3. Inclusion Principle
+![[Pasted image 20230602155423.png]]
 
+Correlated Attributes
+![[Pasted image 20230602155700.png]]
 
+Cost Estimations
+In real life data isn't uniform so we need to store for each column the number of tuple in each row.
+This is also too much so be divided the rows in buckets.
+![[Pasted image 20230602160010.png]]
+
+Bucket Ranges
+![[Pasted image 20230602160159.png]]
+
+Histograms with Quantiles
+![[Pasted image 20230602160321.png]]
+
+![[Pasted image 20230602160405.png]]
 
 
 
