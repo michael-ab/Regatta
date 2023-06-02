@@ -526,6 +526,31 @@ Complex Predicates
 Selectivity (sel)
 ![[Pasted image 20230602154207.png]]
 
+Selection - Complex Predicates
+(Assuming uniform data)
+![[Pasted image 20230602154452.png]]
+
+Selections - Complex Predicates
+Range Predicate: (WRONG)
+![[Pasted image 20230602154644.png]]
+
+Selections - Complex Predicates
+Negation Query:
+![[Pasted image 20230602154733.png]]
+
+Selections - Complex Predicates
+Conjunction
+![[Pasted image 20230602155054.png]]
+
+Selections - Complex Predicates
+Disjunction
+![[Pasted image 20230602155119.png]]
+
+
+
+
+
+
 
 ## 16 - Concurrency Control Theory
 
