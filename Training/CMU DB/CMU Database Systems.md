@@ -580,6 +580,7 @@ Single-Relation Query Planning
 ![[Pasted image 20230602161146.png]]
 
 OLTP Query Planning
+Query planning for OLTP queries is easy because they are sargable (Seach Argument Able)
 ![[Pasted image 20230602161520.png]]
 
 
