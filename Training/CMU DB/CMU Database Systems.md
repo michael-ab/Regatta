@@ -506,8 +506,27 @@ Relational Algebra Equivalences
 
 ## 15 - Query Planning & Optimization II
 
-Cost-based Sea
+Cost-based Search
 ![[Pasted image 20230602153409.png]]
+
+Cost Estimation
+![[Pasted image 20230602153551.png]]
+
+Statistics
+![[Pasted image 20230602153808.png]]
+
+Selection cardinality
+
+> [!NOTE] 
+> The formula is true only for uniform data. In real world the data is not uniform.
+
+![[Pasted image 20230602153939.png]]
+
+Complex Predicates
+Selectivity (sel)
+![[Pasted image 20230602154207.png]]
+
+
 ## 16 - Concurrency Control Theory
 
 ## 17 - Two-Phase Locking Concurrency Control
