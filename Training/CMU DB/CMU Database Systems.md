@@ -504,9 +504,10 @@ Relational Algebra Equivalences
 
 ![[Pasted image 20230601125453.png]]
 
-
 ## 15 - Query Planning & Optimization II
 
+Cost-based Sea
+![[Pasted image 20230602153409.png]]
 ## 16 - Concurrency Control Theory
 
 ## 17 - Two-Phase Locking Concurrency Control
