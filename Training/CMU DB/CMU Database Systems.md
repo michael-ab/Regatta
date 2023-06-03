@@ -583,6 +583,37 @@ OLTP Query Planning
 Query planning for OLTP queries is easy because they are sargable (Seach Argument Able)
 ![[Pasted image 20230602161520.png]]
 
+Multi-Relation Query Planning
+![[Pasted image 20230603155720.png]]
+
+Multi-Relation Query Planning
+System R (IBM DB) only consider left-deeep join trees 
+![[Pasted image 20230603155813.png]]
+
+Multi-Relation Query Planning
+![[Pasted image 20230603160046.png]]
+
+Candidate Plan Example
+![[Pasted image 20230603160326.png]]
+
+Candidate Plans
+Step 1
+![[Pasted image 20230603160445.png]]
+
+Candidate Plans
+Step 2
+![[Pasted image 20230603160515.png]]
+
+Candidate Plans
+Step 3
+![[Pasted image 20230603160552.png]]
+
+
+
+
+
+
+
 
 ## 16 - Concurrency Control Theory
 
