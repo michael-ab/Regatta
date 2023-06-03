@@ -689,8 +689,31 @@ Two-phase Locking (2PL)
 
 Two-phase Locking
 Phase 1: Growing
-Phase 2: 
+Phase 2: Shrinking
 ![[Pasted image 20230603193202.png]]
+
+![[Pasted image 20230603193318.png]]
+
+![[Pasted image 20230603193424.png]]
+
+Cascading aborts
+![[Pasted image 20230603193559.png]]
+
+2PL - Cascading Aborts
+![[Pasted image 20230603193719.png]]
+
+2PL - Observations
+![[Pasted image 20230603193821.png]]
+
+
+Strict Two-Phase Locking
+![[Pasted image 20230603193919.png]]
+![[Pasted image 20230603194041.png]]
+
+
+
+
+
 
 
 
