@@ -608,10 +608,18 @@ Candidate Plans
 Step 3
 ![[Pasted image 20230603160552.png]]
 
+Postgres Optimizer
+![[Pasted image 20230603160832.png]]
 
+Nested Sub-Queries
+![[Pasted image 20230603161144.png]]
 
+Nested Sub-Queries - Approach 1: Rewrite 
+![[Pasted image 20230603161250.png]]
 
-
+Nested Sub-Queries - Approach 2: Decompose 
+![[Pasted image 20230603161349.png]]
+![[Pasted image 20230603161424.png]]
 
 
 
