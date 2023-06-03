@@ -655,7 +655,42 @@ Isolation
 
 Isolation
 Concurrency Control
-![[Pasted image 20230603185443.png]]## 17 - Two-Phase Locking Concurrency Control
+![[Pasted image 20230603185443.png]]
+
+Isolation
+Conflict Serializable Schedules
+![[Pasted image 20230603190733.png]]
+![[Pasted image 20230603190810.png]]
+
+Isolation
+Serializability
+![[Pasted image 20230603190842.png]]
+
+Isolation
+Dependency graph (DAG)
+![[Pasted image 20230603190949.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 17 - Two-Phase Locking Concurrency Control
 
 ## 18 - Timestamp Ordering Concurrency Control
 
