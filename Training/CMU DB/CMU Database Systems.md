@@ -636,6 +636,25 @@ txn stops with either COMMIT or ABORT
 
 ACID (Atomicity, Consistency, Isolation, Durability)
 ![[Pasted image 20230603164257.png]]
+
+Atomic
+![[Pasted image 20230603184349.png]]
+
+Mechanisms for Ensuring Atomicty
+1. Logging
+![[Pasted image 20230603184517.png]]
+
+2. Shadow Paging
+![[Pasted image 20230603184719.png]]
+
+Consistency
+![[Pasted image 20230603185051.png]]
+
+
+
+
+
+
 ## 17 - Two-Phase Locking Concurrency Control
 
 ## 18 - Timestamp Ordering Concurrency Control
