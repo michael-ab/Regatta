@@ -723,6 +723,23 @@ Approch 1: Deadlock Detection (waits for graph)
 Deadlock Handling
 ![[Pasted image 20230603195143.png]]
 
+Deadlock Handling: Victim Selection
+![[Pasted image 20230603195238.png]]
+
+Deadlock Handling:  Rollback length
+![[Pasted image 20230603195345.png]]
+
+Appro
+![[Pasted image 20230603200213.png]]
+
+
+
+
+
+
+
+
+
 
 
 ## 18 - Timestamp Ordering Concurrency Control
