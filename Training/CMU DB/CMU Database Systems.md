@@ -621,9 +621,16 @@ Nested Sub-Queries - Approach 2: Decompose
 ![[Pasted image 20230603161349.png]]
 ![[Pasted image 20230603161424.png]]
 
-
-
 ## 16 - Concurrency Control Theory
+
+![[Pasted image 20230603162540.png]]
+
+Concurrency Control & Recovery
+ACID
+![[Pasted image 20230603162610.png]]
+
+
+
 
 ## 17 - Two-Phase Locking Concurrency Control
 
