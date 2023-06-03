@@ -670,27 +670,11 @@ Isolation
 Dependency graph (DAG)
 ![[Pasted image 20230603190949.png]]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 17 - Two-Phase Locking Concurrency Control
+
+Lock
+![[Pasted image 20230603192120.png]]
+
 
 ## 18 - Timestamp Ordering Concurrency Control
 
