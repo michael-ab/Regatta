@@ -711,15 +711,17 @@ Strict Two-Phase Locking
 ![[Pasted image 20230603194041.png]]
 
 
+Universe of Schedules
+![[Pasted image 20230603194509.png]]
 
+2PL Deadlocks
+![[Pasted image 20230603194604.png]]
 
+Approch 1: Deadlock Detection (waits for graph)
+![[Pasted image 20230603194647.png]]
 
-
-
-
-
-
-
+Deadlock Handling
+![[Pasted image 20230603195143.png]]
 
 
 
