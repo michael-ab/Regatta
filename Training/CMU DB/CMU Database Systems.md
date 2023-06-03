@@ -629,9 +629,13 @@ Concurrency Control & Recovery
 ACID
 ![[Pasted image 20230603162610.png]]
 
+Transaction in SQL
+txn starts with BEGIN command
+txn stops with either COMMIT or ABORT
+![[Pasted image 20230603164056.png]]
 
-
-
+ACID (Atomicity, Consistency, Isolation, Durability)
+![[Pasted image 20230603164257.png]]
 ## 17 - Two-Phase Locking Concurrency Control
 
 ## 18 - Timestamp Ordering Concurrency Control
