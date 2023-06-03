@@ -675,6 +675,30 @@ Dependency graph (DAG)
 Lock
 ![[Pasted image 20230603192120.png]]
 
+![[Pasted image 20230603192244.png]]
+
+Lock Types
+1. S-Lock - Shared locks for reads
+2. X-Lock - Exclusive locks for writes
+![[Pasted image 20230603192711.png]]
+
+
+Concurrency Control Protocol
+Two-phase Locking (2PL)
+![[Pasted image 20230603193031.png]]
+
+Two-phase Locking
+Phase 1: Growing
+Phase 2: 
+![[Pasted image 20230603193202.png]]
+
+
+
+
+
+
+
+
 
 ## 18 - Timestamp Ordering Concurrency Control
 
