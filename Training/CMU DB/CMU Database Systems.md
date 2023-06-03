@@ -650,12 +650,12 @@ Mechanisms for Ensuring Atomicty
 Consistency
 ![[Pasted image 20230603185051.png]]
 
+Isolation 
+![[Pasted image 20230603185419.png]]
 
-
-
-
-
-## 17 - Two-Phase Locking Concurrency Control
+Isolation
+Concurrency Control
+![[Pasted image 20230603185443.png]]## 17 - Two-Phase Locking Concurrency Control
 
 ## 18 - Timestamp Ordering Concurrency Control
 
