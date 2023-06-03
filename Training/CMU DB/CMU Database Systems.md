@@ -729,12 +729,24 @@ Deadlock Handling: Victim Selection
 Deadlock Handling:  Rollback length
 ![[Pasted image 20230603195345.png]]
 
-Appro
+Approch 2: Deadlock Prevention
 ![[Pasted image 20230603200213.png]]
 
+![[Pasted image 20230603200320.png]]
 
+![[Pasted image 20230603200522.png]]
 
+Lock Granularities
+![[Pasted image 20230603200622.png]]
 
+Database Lock Hierarchy
+![[Pasted image 20230603200730.png]]
+
+Intention Locks
+![[Pasted image 20230603200929.png]]
+![[Pasted image 20230603201020.png]]
+![[Pasted image 20230603201038.png]]
+![[Pasted image 20230603201057.png]]
 
 
 
