@@ -748,13 +748,15 @@ Intention Locks
 ![[Pasted image 20230603201038.png]]
 ![[Pasted image 20230603201057.png]]
 
-
-
-
-
-
+Multiple Lock Granularities
+![[Pasted image 20230603201455.png]]
 
 ## 18 - Timestamp Ordering Concurrency Control
+
+
+
+
+
 
 ## 19 - Multi-Version Concurrency Control
 
