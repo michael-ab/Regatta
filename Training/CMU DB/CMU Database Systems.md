@@ -781,6 +781,22 @@ Basic T/O
 
 Recoverable Schedules
 ![[Pasted image 20230604223922.png]]
+
+Basic T/O - Performance Issues
+![[Pasted image 20230604224211.png]]
+
+
+![[Pasted image 20230604224422.png]]
+
+Optimistic Concurrency Control (OCC)
+![[Pasted image 20230604224531.png]]
+
+OCC Phases
+![[Pasted image 20230604224623.png]]
+
+OCC - Validation Phase
+![[Pasted image 20230604224911.png]]
+
 ## 19 - Multi-Version Concurrency Control
 
 ## 20 - Database Logging Schemes
