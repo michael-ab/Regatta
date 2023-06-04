@@ -753,10 +753,16 @@ Multiple Lock Granularities
 
 ## 18 - Timestamp Ordering Concurrency Control
 
+Concurrency Control Approaches
+2PL -> Pessimistic protocol
+Timestamp Ordering (T/O) -> Optimistic
+![[Pasted image 20230604221607.png]]
+
+T/O Concurrency Control
+![[Pasted image 20230604221747.png]]
 
 
-
-
+![[Pasted image 20230604221913.png]]
 
 ## 19 - Multi-Version Concurrency Control
 
