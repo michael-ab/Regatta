@@ -803,7 +803,17 @@ OCC - Serial Validation
 OCC - Observations
 ![[Pasted image 20230604225956.png]]
 
+OCC - Perfomance Issues
+![[Pasted image 20230604230121.png]]
 
+Parititio-Based T/O (horizontal partitions aka shards)
+![[Pasted image 20230604230233.png]]
+
+Horizontal Partitioning
+![[Pasted image 20230604230633.png]]
+
+Partition-Based T/O
+![[Pasted image 20230604230947.png]]
 
 
 
