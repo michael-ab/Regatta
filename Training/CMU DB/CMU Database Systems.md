@@ -761,8 +761,19 @@ Timestamp Ordering (T/O) -> Optimistic
 T/O Concurrency Control
 ![[Pasted image 20230604221747.png]]
 
-
+Timestamp Allocation
 ![[Pasted image 20230604221913.png]]
+
+Basic T/O
+![[Pasted image 20230604222422.png]]
+
+Basic T/O - Reads
+![[Pasted image 20230604222540.png]]
+
+Basic T/O - Writes
+![[Pasted image 20230604222759.png]]
+
+
 
 ## 19 - Multi-Version Concurrency Control
 
