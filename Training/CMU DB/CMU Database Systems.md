@@ -773,8 +773,14 @@ Basic T/O - Reads
 Basic T/O - Writes
 ![[Pasted image 20230604222759.png]]
 
+Thomas Write Rule
+![[Pasted image 20230604223624.png]]
 
+Basic T/O
+![[Pasted image 20230604223814.png]]
 
+Recoverable Schedules
+![[Pasted image 20230604223922.png]]
 ## 19 - Multi-Version Concurrency Control
 
 ## 20 - Database Logging Schemes
