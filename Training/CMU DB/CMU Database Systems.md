@@ -837,6 +837,24 @@ Index Locking
 
 Locking without an Index
 ![[Pasted image 20230604231944.png]]
+
+Repeating Scans
+![[Pasted image 20230604232045.png]]
+
+Weaker Levels of Isolation
+![[Pasted image 20230604232229.png]]
+
+Isolation Levels
+![[Pasted image 20230604232306.png]]
+![[Pasted image 20230604232414.png]]
+![[Pasted image 20230604232443.png]]
+![[Pasted image 20230604232510.png]]
+![[Pasted image 20230604232559.png]]
+
+Access Modes
+![[Pasted image 20230604232749.png]]
+
+
 ## 19 - Multi-Version Concurrency Control
 
 ## 20 - Database Logging Schemes
