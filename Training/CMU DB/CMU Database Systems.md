@@ -815,8 +815,28 @@ Horizontal Partitioning
 Partition-Based T/O
 ![[Pasted image 20230604230947.png]]
 
+Partition-Based T/O - Reads
+![[Pasted image 20230604231054.png]]
 
+Partition-Based T/O - Writes
+![[Pasted image 20230604231122.png]]
 
+Partition-Based T/O - Performance Issues
+![[Pasted image 20230604231329.png]]
+
+The Phantom problem
+![[Pasted image 20230604231626.png]]
+![[Pasted image 20230604231710.png]]
+
+Predicate Locking
+Hard to implement -> Nobody do it
+![[Pasted image 20230604231724.png]]
+
+Index Locking
+![[Pasted image 20230604231825.png]]
+
+Locking without an Index
+![[Pasted image 20230604231944.png]]
 ## 19 - Multi-Version Concurrency Control
 
 ## 20 - Database Logging Schemes
