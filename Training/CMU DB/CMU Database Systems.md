@@ -797,6 +797,16 @@ OCC Phases
 OCC - Validation Phase
 ![[Pasted image 20230604224911.png]]
 
+OCC - Serial Validation
+![[Pasted image 20230604225031.png]]
+
+OCC - Observations
+![[Pasted image 20230604225956.png]]
+
+
+
+
+
 ## 19 - Multi-Version Concurrency Control
 
 ## 20 - Database Logging Schemes
