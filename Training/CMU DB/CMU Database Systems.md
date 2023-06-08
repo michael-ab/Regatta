@@ -883,8 +883,33 @@ Version Storage
 3. Delta Storage
 ![[Pasted image 20230608172941.png]]
 
-A
+Append-ONLY Storage
 ![[Pasted image 20230608173156.png]]
+
+Version Chain Ordering
+1. Oldest-to-Newest (O2N)
+2. Newest-to-Oldest (N2O)
+![[Pasted image 20230608173311.png]]
+
+Time-Travel Storage
+![[Pasted image 20230608173524.png]]
+
+Delta Storage
+![[Pasted image 20230608173744.png]]
+
+Garbage Collection
+![[Pasted image 20230608173815.png]]
+
+Garbage Collection
+1. Tuple-Level
+2. Transaction-Level
+![[Pasted image 20230608173914.png]]
+
+Tuple-Level GC
+(Dirty page BitMap)
+![[Pasted image 20230608174137.png]]
+
+
 ## 20 - Database Logging Schemes
 
 ## 21 - ARIES Database Recovery
