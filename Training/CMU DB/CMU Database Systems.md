@@ -955,6 +955,19 @@ Steal Policy
 Force Policy
 ![[Pasted image 20230608182050.png]]
 
+No-Steal + Force
+![[Pasted image 20230608182203.png]]
+![[Pasted image 20230608182513.png]]
+
+Shadow Paging
+![[Pasted image 20230608182601.png]]
+![[Pasted image 20230608182709.png]]
+
+Shadow Paging - Disadvantages
+![[Pasted image 20230608183121.png]]
+
+
+
 
 ## 21 - ARIES Database Recovery
 
