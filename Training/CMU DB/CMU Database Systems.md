@@ -922,6 +922,26 @@ Secondary Indexes
 
 ## 20 - Database Logging Schemes
 
+Crash Recovery
+![[Pasted image 20230608175230.png]]
+
+Crash Recovery
+![[Pasted image 20230608175412.png]]
+
+Failure Classification
+1. Transaction Failures
+2. System Failures
+3. Storage Media Failures
+![[Pasted image 20230608175509.png]]
+
+Transaction Failures
+![[Pasted image 20230608175605.png]]
+
+System Failures
+![[Pasted image 20230608175700.png]]
+
+
+
 ## 21 - ARIES Database Recovery
 
 ## 22 - Introduction to Distributed Databases
