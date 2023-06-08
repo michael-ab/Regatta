@@ -872,6 +872,19 @@ Concurrency Control Protocol
 2. Optimistic Concurrency Control
 3. Two-Phase Locking
 ![[Pasted image 20230608171243.png]]
+
+Version Storage
+version chain
+![[Pasted image 20230608172846.png]]
+
+Version Storage
+1. Append-Only Storage
+2. Time-Travel Storage
+3. Delta Storage
+![[Pasted image 20230608172941.png]]
+
+A
+![[Pasted image 20230608173156.png]]
 ## 20 - Database Logging Schemes
 
 ## 21 - ARIES Database Recovery
