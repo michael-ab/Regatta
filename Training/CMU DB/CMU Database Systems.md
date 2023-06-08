@@ -867,7 +867,11 @@ snapshot
 time-travel
 ![[Pasted image 20230608163838.png]]
 
-
+Concurrency Control Protocol
+1. Timestamp Ordering
+2. Optimistic Concurrency Control
+3. Two-Phase Locking
+![[Pasted image 20230608171243.png]]
 ## 20 - Database Logging Schemes
 
 ## 21 - ARIES Database Recovery
