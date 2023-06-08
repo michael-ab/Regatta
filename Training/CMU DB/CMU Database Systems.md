@@ -966,6 +966,16 @@ Shadow Paging
 Shadow Paging - Disadvantages
 ![[Pasted image 20230608183121.png]]
 
+Write-Ahead Log
+![[Pasted image 20230608183340.png]]
+
+Wal Protocol
+![[Pasted image 20230608183510.png]]
+![[Pasted image 20230608183537.png]]
+![[Pasted image 20230608183622.png]]
+![[Pasted image 20230608183819.png]]
+![[Pasted image 20230608184029.png]]
+
 
 
 
