@@ -909,6 +909,16 @@ Tuple-Level GC
 (Dirty page BitMap)
 ![[Pasted image 20230608174137.png]]
 
+Cooperative Cleaning
+![[Pasted image 20230608174414.png]]
+
+Index Management
+![[Pasted image 20230608174503.png]]
+
+Secondary Indexes
+1. Logical Pointers
+2. Physical Pointers
+![[Pasted image 20230608174539.png]]
 
 ## 20 - Database Logging Schemes
 
