@@ -976,7 +976,23 @@ Wal Protocol
 ![[Pasted image 20230608183819.png]]
 ![[Pasted image 20230608184029.png]]
 
+Buffer Pool Policies
+![[Pasted image 20230608184501.png]]
 
+Logging Schemes
+![[Pasted image 20230608184640.png]]
+
+Physical vs Logical Logging
+![[Pasted image 20230608184732.png]]
+
+Physiological Logging
+![[Pasted image 20230608184835.png]]
+
+Logging Schemes
+![[Pasted image 20230608184953.png]]
+
+Checkpoints
+![[Pasted image 20230608185117.png]]
 
 
 ## 21 - ARIES Database Recovery
