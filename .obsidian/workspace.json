@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "942b3e3fead3d0ab",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,8 +173,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "942b3e3fead3d0ab",
+  "active": "a06ac150dc06166f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230608163838.png",
+    "Images/Pasted image 20230608163625.png",
+    "Images/Pasted image 20230608163414.png",
+    "Images/Pasted image 20230608163413.png",
     "Images/Pasted image 20230604232749.png",
     "Images/Pasted image 20230604232559.png",
     "Images/Pasted image 20230604232510.png",
@@ -193,10 +186,6 @@
     "Images/Pasted image 20230604232414.png",
     "Images/Pasted image 20230604232306.png",
     "Images/Pasted image 20230604232229.png",
-    "Images/Pasted image 20230604232045.png",
-    "Images/Pasted image 20230604231944.png",
-    "Images/Pasted image 20230604231825.png",
-    "Images/Pasted image 20230604231724.png",
     "Training/19-multiversioning.pdf",
     "Training/Unconfirmed 885008.crdownload",
     "Training/18-timestampordering.pdf",

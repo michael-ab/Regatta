@@ -854,8 +854,19 @@ Isolation Levels
 Access Modes
 ![[Pasted image 20230604232749.png]]
 
-
 ## 19 - Multi-Version Concurrency Control
+
+Multi-version Concurrency Control
+![[Pasted image 20230608163413.png]]
+
+MVCC History
+![[Pasted image 20230608163625.png]]
+
+Multi-version Concurrency Control 
+snapshot
+time-travel
+![[Pasted image 20230608163838.png]]
+
 
 ## 20 - Database Logging Schemes
 
