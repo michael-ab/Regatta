@@ -993,6 +993,15 @@ Logging Schemes
 
 Checkpoints
 ![[Pasted image 20230608185117.png]]
+![[Pasted image 20230608185206.png]]
+![[Pasted image 20230608185331.png]]
+![[Pasted image 20230608185401.png]]
+
+Checkpoints - Frequency
+![[Pasted image 20230608185438.png]]
+
+
+
 
 
 ## 21 - ARIES Database Recovery
