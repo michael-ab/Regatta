@@ -943,6 +943,18 @@ System Failures
 Storage Media Failure
 ![[Pasted image 20230608180306.png]]
 
+Undo vs Redo
+![[Pasted image 20230608181643.png]]
+
+Buffer Pool
+![[Pasted image 20230608181851.png]]
+
+Steal Policy
+![[Pasted image 20230608182009.png]]
+
+Force Policy
+![[Pasted image 20230608182050.png]]
+
 
 ## 21 - ARIES Database Recovery
 
