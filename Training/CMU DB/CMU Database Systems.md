@@ -940,6 +940,8 @@ Transaction Failures
 System Failures
 ![[Pasted image 20230608175700.png]]
 
+Storage Media Failure
+![[Pasted image 20230608180306.png]]
 
 
 ## 21 - ARIES Database Recovery
