@@ -1010,6 +1010,12 @@ ARIES
 
 ARIES
 ![[Pasted image 20230611190127.png]]
+
+WAL Records
+Log Sequence Number (LSN)
+![[Pasted image 20230611190511.png]]
+
+
 ## 22 - Introduction to Distributed Databases
 
 ## 23 - Distributed OLTP Databases
