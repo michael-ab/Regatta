@@ -1000,12 +1000,16 @@ Checkpoints
 Checkpoints - Frequency
 ![[Pasted image 20230608185438.png]]
 
-
-
-
-
 ## 21 - ARIES Database Recovery
 
+Crash Recovery
+![[Pasted image 20230611185813.png]]
+
+ARIES
+![[Pasted image 20230611185847.png]]
+
+ARIES
+![[Pasted image 20230611190127.png]]
 ## 22 - Introduction to Distributed Databases
 
 ## 23 - Distributed OLTP Databases
