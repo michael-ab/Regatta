@@ -1032,6 +1032,15 @@ Writing Log Records
 Writing Log Records
 ![[Pasted image 20230613193301.png]]
 
+Transaction Commit
+![[Pasted image 20230613193540.png]]
+
+Transaction Abort
+![[Pasted image 20230613193733.png]]
+
+Compensation Log Records (CLR)
+![[Pasted image 20230613194102.png]]
+
 
 ## 22 - Introduction to Distributed Databases
 
