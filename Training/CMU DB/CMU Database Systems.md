@@ -1015,6 +1015,23 @@ WAL Records
 Log Sequence Number (LSN)
 ![[Pasted image 20230611190511.png]]
 
+Log Sequence Numbers
+FlushedLSN 
+PageLSN 
+RecLSN 
+LastLSN 
+MasterRecord
+![[Pasted image 20230613192412.png]]
+
+Writing Log Records
+![[Pasted image 20230613192531.png]]
+
+Writing Log Records
+![[Pasted image 20230613192832.png]]
+
+Writing Log Records
+![[Pasted image 20230613193301.png]]
+
 
 ## 22 - Introduction to Distributed Databases
 
