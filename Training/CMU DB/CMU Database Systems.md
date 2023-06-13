@@ -1080,6 +1080,16 @@ DPT
 
 Redo Phase
 ![[Pasted image 20230613203232.png]]
+
+Redo Phase
+![[Pasted image 20230613205021.png]]
+![[Pasted image 20230613205116.png]]
+
+Undo Phase
+![[Pasted image 20230613205151.png]]
+
+Additional Crash Issues 
+![[Pasted image 20230613205540.png]]
 ## 22 - Introduction to Distributed Databases
 
 ## 23 - Distributed OLTP Databases
