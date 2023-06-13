@@ -1041,6 +1041,14 @@ Transaction Abort
 Compensation Log Records (CLR)
 ![[Pasted image 20230613194102.png]]
 
+Abort Algorithm
+![[Pasted image 20230613201050.png]]
+
+Non-Fuzzy Checkpoints
+![[Pasted image 20230613201249.png]]
+![[Pasted image 20230613201329.png]]
+
+
 
 ## 22 - Introduction to Distributed Databases
 
