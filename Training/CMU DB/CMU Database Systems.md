@@ -1088,9 +1088,14 @@ Redo Phase
 Undo Phase
 ![[Pasted image 20230613205151.png]]
 
-Additional Crash Issues 
+Additional Crash Issues (1)
 ![[Pasted image 20230613205540.png]]
+
+Additional Crash Issues (2)
+![[Pasted image 20230613205641.png]]
+
 ## 22 - Introduction to Distributed Databases
+
 
 ## 23 - Distributed OLTP Databases
 
