@@ -1067,7 +1067,19 @@ ARIES - Recovery Phases
 3. Undo
 ![[Pasted image 20230613202333.png]]
 
+ARIES - Overview
+![[Pasted image 20230613202600.png]]
 
+Analysis Phase
+![[Pasted image 20230613202642.png]]
+
+Analysis Phase
+ATT
+DPT
+![[Pasted image 20230613202806.png]]
+
+Redo Phase
+![[Pasted image 20230613203232.png]]
 ## 22 - Introduction to Distributed Databases
 
 ## 23 - Distributed OLTP Databases
