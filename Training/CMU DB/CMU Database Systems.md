@@ -1047,7 +1047,25 @@ Abort Algorithm
 Non-Fuzzy Checkpoints
 ![[Pasted image 20230613201249.png]]
 ![[Pasted image 20230613201329.png]]
+![[Pasted image 20230613201624.png]]
 
+Active Transaction Table
+![[Pasted image 20230613201800.png]]
+
+Dirty Page Table
+![[Pasted image 20230613201857.png]]
+
+Fuzzy Checkpoints
+![[Pasted image 20230613202033.png]]
+
+Fuzzy Checkpoints
+![[Pasted image 20230613202203.png]]
+
+ARIES - Recovery Phases
+1. Analysis
+2. Redo
+3. Undo
+![[Pasted image 20230613202333.png]]
 
 
 ## 22 - Introduction to Distributed Databases
