@@ -1113,6 +1113,20 @@ Shared Nothing
 ![[Pasted image 20230614213312.png]]
 ![[Pasted image 20230614213620.png]]
 
+Homogenous vs Heterogenous
+![[Pasted image 20230614214719.png]]
+
+MongoDB Heterogenous Architecture
+![[Pasted image 20230614214904.png]]
+
+Data Transparency
+![[Pasted image 20230614215023.png]]
+
+Database Partitioning
+![[Pasted image 20230614215140.png]]
+
+Naïve Table Partitioning
+![[Pasted image 20230614215405.png]]
 
 
 ## 23 - Distributed OLTP Databases
