@@ -1109,6 +1109,9 @@ Shared Memory
 Shared Disk
 ![[Pasted image 20230614211218.png]]
 
+Shared Nothing
+![[Pasted image 20230614213312.png]]
+
 
 ## 23 - Distributed OLTP Databases
 
