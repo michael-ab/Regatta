@@ -1111,6 +1111,8 @@ Shared Disk
 
 Shared Nothing
 ![[Pasted image 20230614213312.png]]
+![[Pasted image 20230614213620.png]]
+
 
 
 ## 23 - Distributed OLTP Databases
