@@ -1096,6 +1096,19 @@ Additional Crash Issues (2)
 
 ## 22 - Introduction to Distributed Databases
 
+System Architecture
+1. Shared Everything
+2. Shared Memory
+3. Shared Disk
+4. Shared Nothing
+![[Pasted image 20230614210644.png]]
+
+Shared Memory
+![[Pasted image 20230614210728.png]]
+
+Shared Disk
+![[Pasted image 20230614211218.png]]
+
 
 ## 23 - Distributed OLTP Databases
 
