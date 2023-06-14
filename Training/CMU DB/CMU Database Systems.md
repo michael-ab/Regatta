@@ -1128,6 +1128,11 @@ Database Partitioning
 Naïve Table Partitioning
 ![[Pasted image 20230614215405.png]]
 
+Horizontal Partitioning
+![[Pasted image 20230614215525.png]]
+![[Pasted image 20230614215617.png]]
+
+
 
 ## 23 - Distributed OLTP Databases
 
