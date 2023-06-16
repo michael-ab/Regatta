@@ -1281,6 +1281,16 @@ Federated Databases Example
 
 ## 24 - Distributed OLAP Databases
 
+Bifurcated Environment
+![[Pasted image 20230616163729.png]]
+
+Decision Support Systems
+Star Schema vs Snowflake Schema
+![[Pasted image 20230616163936.png]]
+
+Star Schema
+![[Pasted image 20230616164231.png]]
+
 
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
 
