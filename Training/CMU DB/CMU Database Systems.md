@@ -1306,7 +1306,19 @@ Push vs Pull
 Push Query to Data
 ![[Pasted image 20230616165240.png]]
 
+Pull Data to Query
+![[Pasted image 20230616165517.png]]
 
+Query Fault Tolerance
+![[Pasted image 20230616165835.png]]
+
+Query Planning
+![[Pasted image 20230616170136.png]]
+
+Query Plan Fragments
+1. Physical Operators
+2. SQL
+![[Pasted image 20230616170303.png]]
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
 
 ## 26 - Systems Potpourri
