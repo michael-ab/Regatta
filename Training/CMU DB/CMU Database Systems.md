@@ -1291,6 +1291,21 @@ Star Schema vs Snowflake Schema
 Star Schema
 ![[Pasted image 20230616164231.png]]
 
+Snowflake Schema
+![[Pasted image 20230616164422.png]]
+
+Star vs Snowflake Schema
+Issues:
+1. Normalization
+2. Query Complexity
+![[Pasted image 20230616164456.png]]
+
+Push vs Pull
+![[Pasted image 20230616164950.png]]
+
+Push Query to Data
+![[Pasted image 20230616165240.png]]
+
 
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
 
