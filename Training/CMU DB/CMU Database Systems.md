@@ -1326,8 +1326,15 @@ Query Plan Fragments (approch 2 - SQL)
 Distributed Join Algorithms
 ![[Pasted image 20230616170832.png]]
 
+Semi-Join
+![[Pasted image 20230616174208.png]]
 
+Relational Algebra: Semi-Join
+![[Pasted image 20230616174500.png]]
 
+Cloud Systems
+data-as-a-service DBaas
+![[Pasted image 20230616174544.png]]
 
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
 
