@@ -1141,6 +1141,38 @@ Consistent Hashing
 Consistent Hashing
 Replication Factor=3
 ![[Pasted image 20230616125836.png]]
+
+Logical Partitioning
+![[Pasted image 20230616130114.png]]
+
+Physical Partitioning
+![[Pasted image 20230616130146.png]]
+
+Single-Node vs Distributed
+![[Pasted image 20230616130220.png]]
+
+Transaction Coordination
+Centralized
+Decentralized
+![[Pasted image 20230616130345.png]]
+
+TP Monitors
+Example of centralized coordinator
+![[Pasted image 20230616130458.png]]
+
+Centralized Coordinator 
+![[Pasted image 20230616130628.png]]
+![[Pasted image 20230616130712.png]]
+
+Centralized Coordinator
+Another example with middleware
+![[Pasted image 20230616130859.png]]
+
+Decentralized Coordinator
+![[Pasted image 20230616131035.png]]
+
+
+
 ## 23 - Distributed OLTP Databases
 
 ## 24 - Distributed OLAP Databases
