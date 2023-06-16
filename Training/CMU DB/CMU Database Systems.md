@@ -1201,6 +1201,20 @@ Two-Phase Commit (Abort)
 Early Acknowledgement 
 ![[Pasted image 20230616154313.png]]
 
+Two-Phase Commit
+![[Pasted image 20230616154707.png]]
+
+Paxos
+![[Pasted image 20230616154751.png]]
+
+Paxos
+![[Pasted image 20230616155121.png]]
+
+Paxos
+Example:
+![[Pasted image 20230616155239.png]]
+
+
 ## 24 - Distributed OLAP Databases
 
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
