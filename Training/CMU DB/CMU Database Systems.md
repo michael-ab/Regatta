@@ -1171,6 +1171,9 @@ Another example with middleware
 Decentralized Coordinator
 ![[Pasted image 20230616131035.png]]
 
+Distributed 2PL
+![[Pasted image 20230616131234.png]]
+
 
 
 ## 23 - Distributed OLTP Databases
