@@ -1319,6 +1319,16 @@ Query Plan Fragments
 1. Physical Operators
 2. SQL
 ![[Pasted image 20230616170303.png]]
+
+Query Plan Fragments (approch 2 - SQL)
+![[Pasted image 20230616170546.png]]
+
+Distributed Join Algorithms
+![[Pasted image 20230616170832.png]]
+
+
+
+
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
 
 ## 26 - Systems Potpourri
