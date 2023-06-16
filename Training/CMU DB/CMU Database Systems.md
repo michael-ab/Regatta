@@ -1214,7 +1214,19 @@ Paxos
 Example:
 ![[Pasted image 20230616155239.png]]
 
+Multi-Paxos
+![[Pasted image 20230616155415.png]]
 
+2PC vs Paxos
+![[Pasted image 20230616155705.png]]
+
+Replication
+![[Pasted image 20230616155907.png]]
+
+Replica Configurations
+1. Master-Replica
+2. Multi-Master
+![[Pasted image 20230616160013.png]]
 ## 24 - Distributed OLAP Databases
 
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
