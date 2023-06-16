@@ -1132,8 +1132,15 @@ Horizontal Partitioning
 ![[Pasted image 20230614215525.png]]
 ![[Pasted image 20230614215617.png]]
 
+Consistent Hashing
+![[Pasted image 20230616125610.png]]
 
+Consistent Hashing
+![[Pasted image 20230616125753.png]]
 
+Consistent Hashing
+Replication Factor=3
+![[Pasted image 20230616125836.png]]
 ## 23 - Distributed OLTP Databases
 
 ## 24 - Distributed OLAP Databases
