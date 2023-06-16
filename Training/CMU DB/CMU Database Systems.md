@@ -1179,6 +1179,14 @@ Distributed 2PL
 OLTP vs OLAP
 ![[Pasted image 20230616152006.png]]
 
+Byzantine Fault Tolerant Protocol for txns (blockchain)
+![[Pasted image 20230616152453.png]]
+
+Atomic Commit Protocol
+![[Pasted image 20230616152746.png]]
+
+Two-Phase Commit (Success)
+![[Pasted image 20230616153318.png]]
 ## 24 - Distributed OLAP Databases
 
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
