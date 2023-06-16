@@ -1186,7 +1186,21 @@ Atomic Commit Protocol
 ![[Pasted image 20230616152746.png]]
 
 Two-Phase Commit (Success)
+Coordinator
+Participant
 ![[Pasted image 20230616153318.png]]
+
+Two-Phase Commit (Abort)
+![[Pasted image 20230616153451.png]]
+
+2PC Optimizations
+1. Early Prepare Voting
+2. Early Acknowledgement After Prepare
+![[Pasted image 20230616153828.png]]
+
+Early Acknowledgement 
+![[Pasted image 20230616154313.png]]
+
 ## 24 - Distributed OLAP Databases
 
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
