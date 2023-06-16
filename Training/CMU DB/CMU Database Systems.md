@@ -1174,9 +1174,10 @@ Decentralized Coordinator
 Distributed 2PL
 ![[Pasted image 20230616131234.png]]
 
-
-
 ## 23 - Distributed OLTP Databases
+
+OLTP vs OLAP
+![[Pasted image 20230616152006.png]]
 
 ## 24 - Distributed OLAP Databases
 
