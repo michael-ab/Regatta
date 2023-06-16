@@ -1264,9 +1264,23 @@ CAP Theorem
 CAP - Consistency
 ![[Pasted image 20230616162314.png]]
 
-CAP - Availabi
+CAP - Availability
 ![[Pasted image 20230616162356.png]]
+
+CAP - Partition Tolerance
+![[Pasted image 20230616162548.png]]
+
+CAP for OLTP DBMs
+![[Pasted image 20230616162732.png]]
+
+Federated Databases
+![[Pasted image 20230616162938.png]]
+
+Federated Databases Example
+![[Pasted image 20230616163117.png]]
+
 ## 24 - Distributed OLAP Databases
+
 
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
 
