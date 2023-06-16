@@ -1344,9 +1344,13 @@ Cloud Systems
 Serverless Databases
 ![[Pasted image 20230616175300.png]]
 
-Disaggrated Components
-
+Disaggregated Components
 ![[Pasted image 20230616175556.png]]
+
+Universal Formats
+![[Pasted image 20230616175801.png]]
+![[Pasted image 20230616175934.png]]
+
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
 
 ## 26 - Systems Potpourri
