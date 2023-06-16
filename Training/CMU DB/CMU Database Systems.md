@@ -1333,9 +1333,20 @@ Relational Algebra: Semi-Join
 ![[Pasted image 20230616174500.png]]
 
 Cloud Systems
-data-as-a-service DBaas
+database-as-a-service DBaaS
 ![[Pasted image 20230616174544.png]]
 
+Cloud Systems
+1. Managed DBMS
+2. Cloud-Native DBMS
+![[Pasted image 20230616175017.png]]
+
+Serverless Databases
+![[Pasted image 20230616175300.png]]
+
+Disaggrated Components
+
+![[Pasted image 20230616175556.png]]
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
 
 ## 26 - Systems Potpourri
