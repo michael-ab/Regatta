@@ -1247,7 +1247,25 @@ Propagation Scheme
 2. Asynchronous
 ![[Pasted image 20230616161322.png]]
 
+Propagation Timing
+1. Continuous
+2. On commit
+![[Pasted image 20230616161550.png]]
 
+Active vs Passive
+![[Pasted image 20230616161733.png]]
+
+CAP Theorem
+![[Pasted image 20230616162110.png]]
+
+CAP Theorem
+![[Pasted image 20230616162200.png]]
+
+CAP - Consistency
+![[Pasted image 20230616162314.png]]
+
+CAP - Availabi
+![[Pasted image 20230616162356.png]]
 ## 24 - Distributed OLAP Databases
 
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
