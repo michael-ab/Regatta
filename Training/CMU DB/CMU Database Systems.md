@@ -1227,6 +1227,27 @@ Replica Configurations
 1. Master-Replica
 2. Multi-Master
 ![[Pasted image 20230616160013.png]]
+
+1. Master-Replica
+2. Multi-Master
+![[Pasted image 20230616160436.png]]
+
+K-Safety
+threshold
+![[Pasted image 20230616160848.png]]
+
+Propagation Scheme
+Propagation Levels:
+- Synchronous (Strong Consistency)
+- Asynchronous (Eventual Consistency)
+![[Pasted image 20230616161014.png]]
+
+Propagation Scheme
+1. Synchronous
+2. Asynchronous
+![[Pasted image 20230616161322.png]]
+
+
 ## 24 - Distributed OLAP Databases
 
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
