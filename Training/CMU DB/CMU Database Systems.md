@@ -950,6 +950,8 @@ Buffer Pool
 ![[Pasted image 20230608181851.png]]
 
 Steal Policy
+steal=voler
+When a txn need more space in the buffer pool, can we allow the eviction of uncomitted txn to the disk to have more space for the first txn?
 ![[Pasted image 20230608182009.png]]
 
 Force Policy
