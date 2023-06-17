@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11d1da9a37c6c5d8",
+        "id": "d0a1570a9eda15d9",
         "type": "tabs",
         "children": [
           {
-            "id": "a06ac150dc06166f",
+            "id": "f2dffd8d4aaaa299",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Training/19-multiversioning.pdf"
+                "file": "Training/04-storage2.pdf"
               }
             }
           }
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "re-orders",
+                "query": "slotted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,11 +101,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/19-multiversioning.pdf",
+                "file": "Training/04-storage2.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/19-multiversioning.pdf",
+                "file": "Training/04-storage2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,12 +130,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/19-multiversioning.pdf"
+                "file": "Training/04-storage2.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "567e0bb3f1e1aacb",
@@ -168,14 +167,18 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "db806e4b9ea4f2b9",
   "lastOpenFiles": [
-    "Training/02-advancedsql.pdf",
+    "Training/04-storage2.pdf",
+    "2023-06-17.md",
+    "Training/15-optimization2.pdf",
     "Training/CMU DB/CMU Database Systems.md",
     "Training/19-multiversioning.pdf",
+    "Training/02-advancedsql.pdf",
     "Training/20-logging.pdf",
     "Images/Pasted image 20230617151809.png",
     "Images/Pasted image 20230616175934.png",
@@ -192,8 +195,6 @@
     "Training/Unconfirmed 255548.crdownload",
     "Training/Unconfirmed 652559.crdownload",
     "Training/01-introduction.pdf",
-    "Training/26-potpourri.pdf",
-    "Training/Unconfirmed 664152.crdownload",
-    "Training/25-oracle.pdf"
+    "Training/26-potpourri.pdf"
   ]
 }
