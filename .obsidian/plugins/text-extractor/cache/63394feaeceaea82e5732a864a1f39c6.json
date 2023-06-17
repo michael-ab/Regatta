@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/63394feaeceaea82e5732a864a1f39c6.json","text":"OCC — SERIAL VALIDATION Maintain global view of all active txns. Record read set and write set while txns are running and write into private workspace. Execute Validation and Write phase inside a protected critical section. | uŸ AI MLU E @8 =00","libVersion":"0.2.2","langs":"eng+fra"}
