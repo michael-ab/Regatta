@@ -1353,6 +1353,10 @@ Universal Formats
 
 ## 25 - Shasank Chavan (Oracle In-Memory Databases)
 
+- Oracle innovations
+Intel Optane
+![[Pasted image 20230617151809.png]]
+
 ## 26 - Systems Potpourri
 
 
