@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0a1570a9eda15d9",
+        "id": "6cf0cfd9345a3afb",
         "type": "tabs",
         "children": [
           {
-            "id": "f2dffd8d4aaaa299",
+            "id": "2b56104897578b81",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Training/04-storage2.pdf"
+                "file": "Training/20-logging.pdf"
               }
             }
           }
@@ -64,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/04-storage2.pdf",
+                "file": "Training/20-logging.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/04-storage2.pdf",
+                "file": "Training/20-logging.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/04-storage2.pdf"
+                "file": "Training/20-logging.pdf"
               }
             }
           }
@@ -171,9 +170,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "db806e4b9ea4f2b9",
+  "active": "2b56104897578b81",
   "lastOpenFiles": [
+    "Training/17-twophaselocking.pdf",
+    "Training/13-queryexecution2.pdf",
     "Training/04-storage2.pdf",
+    "Training/03-storage1.pdf",
     "2023-06-17.md",
     "Training/15-optimization2.pdf",
     "Training/CMU DB/CMU Database Systems.md",
@@ -192,9 +194,6 @@
     "Images/Pasted image 20230616170832.png",
     "Training/Unconfirmed 885008.crdownload",
     "Training/18-timestampordering.pdf",
-    "Training/Unconfirmed 255548.crdownload",
-    "Training/Unconfirmed 652559.crdownload",
-    "Training/01-introduction.pdf",
-    "Training/26-potpourri.pdf"
+    "Training/Unconfirmed 255548.crdownload"
   ]
 }
