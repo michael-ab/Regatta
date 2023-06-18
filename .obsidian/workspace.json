@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7bb403455d3d840b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +180,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7bb403455d3d840b",
+  "active": "b45d5ffee931656b",
   "lastOpenFiles": [
     "2023-06-18.md",
     "Training/CMU DB/CMU Database Systems.md",
