@@ -94,7 +94,7 @@
       {
         "id": "ba96b3a4d9624fe4",
         "type": "tabs",
-        "dimension": 31.346153846153847,
+        "dimension": 35.09615384615385,
         "children": [
           {
             "id": "e4441df6de92dae8",
@@ -143,12 +143,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "567e0bb3f1e1aacb",
         "type": "tabs",
-        "dimension": 68.65384615384616,
+        "dimension": 64.90384615384616,
         "children": [
           {
             "id": "357b8d2113de26e6",
@@ -165,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e4441df6de92dae8",
+  "active": "b45d5ffee931656b",
   "lastOpenFiles": [
+    "2023-06-18.md",
+    "Training/CMU DB/CMU Database Systems.md",
     "Training/Confluence Training.md",
     "Training/CMU DB/slides/01-introduction.pdf",
     "Training/08-trees2.pdf",
@@ -193,7 +195,6 @@
     "Training/CMU DB/slides/21-recovery.pdf",
     "Training/CMU DB/slides/20-logging.pdf",
     "Training/CMU DB/slides/19-multiversioning.pdf",
-    "Training/CMU DB/CMU Database Systems.md",
     "Images/Pasted image 20230608182009.png",
     "2023-06-17.md",
     "Images/Pasted image 20230617151809.png",
