@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "omnisearch",
-  "text-extractor"
+  "text-extractor",
+  "obsidian-style-settings",
+  "calendar"
 ]

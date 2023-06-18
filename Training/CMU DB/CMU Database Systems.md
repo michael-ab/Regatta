@@ -1,5 +1,8 @@
 Carnegie Mellon University database systems course
 
+All DBs:
+https://dbdb.io/
+
 Fall 2019:
 https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
 
@@ -76,7 +79,7 @@ Pro/cons NSM
 
 Tuple identification for the DSM method. 
 1. Use offsets no identify the tuple
-2. Each attribute is embedded with the tuple I
+2. Each attribute is embedded with the tuple IDs
 ![[Pasted image 20230519152725.png]]
 
 Pro/cons DSM
@@ -87,9 +90,9 @@ Pro/cons DSM
 > [!NOTE] Title
 > Memory part (not disk!)
 
-![[Pasted image 20230519165553.png]]
 Dirty flag: a bit to know if the page was modified 
-Pin/Reference Counter: number of threads/queries currectly running that want this page in memory
+Pin/Reference Counter: number of threads/queries correctly running that want this page in memory
+![[Pasted image 20230519165553.png]]
 
 Locks vs Latches
 ![[Pasted image 20230519170316.png]]
@@ -190,7 +193,7 @@ Latch crabbing/coupling
 Query Plan
 ![[Pasted image 20230528161614.png]]
 
-### Sorting algo
+### Sorting Algo
 
 Issue for disk: we need to find a good sorting algo that don't do write too much data out the disk
 ![[Pasted image 20230529213842.png]]
@@ -198,7 +201,7 @@ Issue for disk: we need to find a good sorting algo that don't do write too much
 External Merge Sort
 ![[Pasted image 20230529213856.png]]
 
-2-way External Merge Sort
+2-Way External Merge Sort
 ![[Pasted image 20230529214511.png]]
 
 ![[Pasted image 20230529214547.png]]
@@ -240,6 +243,7 @@ Why do we need to join?
 ![[Pasted image 20230529222901.png]]
 
 Join Algorithms
+inner equijoin algorithms
 ![[Pasted image 20230529223010.png]]
 
 Join Operator Output: Data
@@ -258,7 +262,7 @@ Join vs Cross-product
 Join Algorithms
 ![[Pasted image 20230529230227.png]]
 
-Nested loop join (for {for {}})
+Nested loop join (for {for {}}) 
 For every tuple in R, it scans S once
 `cost: M + (m*N)`
 ![[Pasted image 20230529230451.png]]
@@ -297,6 +301,7 @@ Hash Table Contents
 Hash Table Values
 ![[Pasted image 20230529232851.png]]
 
+Probe Phase Optimization
 Bloom filter
 ![[Pasted image 20230529233058.png]]
 
@@ -368,7 +373,7 @@ Zone Maps
 Late Materialization
 ![[Pasted image 20230530124436.png]]
 
-Heap Clustering
+Heap Clustering (clustering index)
 ![[Pasted image 20230530124539.png]]
 
 Index Scan
@@ -392,8 +397,8 @@ Expression Evaluation (Expression tree)
 
 ## 13 - Query Execution II
 
-
 Why Care About Parallel Execution?
+total cost of ownership (TCO)
 ![[Pasted image 20230530150704.png]]
 
 Parallel vs Distributed
