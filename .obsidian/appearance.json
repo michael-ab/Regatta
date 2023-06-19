@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "baseFontSize": 13,
-  "cssTheme": "Sanctum"
+  "cssTheme": "Sanctum",
+  "enabledCssSnippets": [
+    "image_snippets"
+  ]
 }

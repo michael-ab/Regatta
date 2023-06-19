@@ -1,0 +1,4 @@
+.theme-dark .markdown-rendered img:not(:hover),
+.theme-dark .workspace-leaf-content img:not(:hover) {
+    opacity: unset;
+}
