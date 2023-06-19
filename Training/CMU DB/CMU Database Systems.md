@@ -868,8 +868,8 @@ MVCC History
 ![[Pasted image 20230608163625.png]]
 
 Multi-version Concurrency Control 
-snapshot
-time-travel
+Snapshot
+Time-travel
 ![[Pasted image 20230608163838.png]]
 
 Concurrency Control Protocol
