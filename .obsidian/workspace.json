@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Confluence Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Confluence Training.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Confluence Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md"
+                "file": "Training/Confluence Training.md"
               }
             }
           },
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +182,10 @@
   },
   "active": "b45d5ffee931656b",
   "lastOpenFiles": [
+    "Training/CMU DB/CMU Database Systems.md",
     "Training/Confluence Training.md",
     "2023-06-18.md",
     "2023-06-19.md",
-    "Training/CMU DB/CMU Database Systems.md",
     "Training/CMU DB/slides/01-introduction.pdf",
     "Training/08-trees2.pdf",
     "Training/CMU DB/slides/26-potpourri.pdf",
