@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90e58e782e9e6c0d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-19 15.09.27.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regatta Lunch.md",
+                "file": "Excalidraw/Drawing 2023-06-19 15.09.27.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regatta Lunch.md",
+                "file": "Excalidraw/Drawing 2023-06-19 15.09.27.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regatta Lunch.md"
+                "file": "Excalidraw/Drawing 2023-06-19 15.09.27.excalidraw.md"
               }
             }
           },
@@ -193,10 +203,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b53de96fda3fb514",
+  "active": "90e58e782e9e6c0d",
   "lastOpenFiles": [
-    "Training/Erez Webman’s lectures.md",
     "Regatta Lunch.md",
+    "Excalidraw/Drawing 2023-06-19 15.09.27.excalidraw.md",
+    "Excalidraw",
+    "Training/Erez Webman’s lectures.md",
     "Training/Confluence Training.md",
     "Training/CMU DB/CMU Database Systems.md",
     "2023-06-18.md",
@@ -210,7 +222,6 @@
     "Training/CMU DB/slides/22-distributed.pdf",
     "Training/CMU DB/slides/21-recovery.pdf",
     "Training/CMU DB/slides/20-logging.pdf",
-    "Training/CMU DB/slides/19-multiversioning.pdf",
     "Images/Pasted image 20230608182009.png",
     "2023-06-17.md",
     "Images/Pasted image 20230617151809.png",
