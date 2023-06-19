@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Erez Webman’s lectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Erez Webman’s lectures.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Erez Webman’s lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md"
+                "file": "Training/Erez Webman’s lectures.md"
               }
             }
           },
@@ -181,12 +180,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "db806e4b9ea4f2b9",
+  "active": "b45d5ffee931656b",
   "lastOpenFiles": [
+    "Training/Confluence Training.md",
+    "Training/Erez Webman’s lectures.md",
+    "Training/CMU DB/CMU Database Systems.md",
     "2023-06-18.md",
     "2023-06-19.md",
-    "Training/CMU DB/CMU Database Systems.md",
-    "Training/Confluence Training.md",
     "Training/CMU DB/slides/01-introduction.pdf",
     "Training/08-trees2.pdf",
     "Training/CMU DB/slides/26-potpourri.pdf",
