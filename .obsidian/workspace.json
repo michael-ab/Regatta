@@ -35,9 +35,11 @@
             "id": "90e58e782e9e6c0d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-19 15.09.27.excalidraw.md"
+                "file": "Training/Erez Webman’s lectures.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-19 15.09.27.excalidraw.md",
+                "file": "Training/Erez Webman’s lectures.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-19 15.09.27.excalidraw.md",
+                "file": "Training/Erez Webman’s lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-19 15.09.27.excalidraw.md"
+                "file": "Training/Erez Webman’s lectures.md"
               }
             }
           },
@@ -206,13 +208,14 @@
   "active": "90e58e782e9e6c0d",
   "lastOpenFiles": [
     "Regatta Lunch.md",
-    "Excalidraw/Drawing 2023-06-19 15.09.27.excalidraw.md",
-    "Excalidraw",
-    "Training/Erez Webman’s lectures.md",
-    "Training/Confluence Training.md",
-    "Training/CMU DB/CMU Database Systems.md",
     "2023-06-18.md",
     "2023-06-19.md",
+    "Training/Erez Webman’s lectures.md",
+    "Excalidraw/Drawing 2023-06-19 15.18.10.excalidraw.md",
+    "Excalidraw/Erez - Intro and block device.md",
+    "Excalidraw",
+    "Training/Confluence Training.md",
+    "Training/CMU DB/CMU Database Systems.md",
     "Training/CMU DB/slides/01-introduction.pdf",
     "Training/08-trees2.pdf",
     "Training/CMU DB/slides/26-potpourri.pdf",
