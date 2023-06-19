@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slotted",
+                "query": "b-tree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,10 +182,10 @@
   },
   "active": "b45d5ffee931656b",
   "lastOpenFiles": [
+    "Training/Confluence Training.md",
     "2023-06-18.md",
     "2023-06-19.md",
     "Training/CMU DB/CMU Database Systems.md",
-    "Training/Confluence Training.md",
     "Training/CMU DB/slides/01-introduction.pdf",
     "Training/08-trees2.pdf",
     "Training/CMU DB/slides/26-potpourri.pdf",
