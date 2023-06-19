@@ -10,5 +10,5 @@ Block Device
 ![[Erez - Intro and block device]]
 
 LSA -> Log Structured File System
-L2P -> Logical to physical
+L2P (L-to-P) -> Logical to physical
 
