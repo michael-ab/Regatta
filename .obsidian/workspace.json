@@ -20,6 +20,26 @@
             }
           },
           {
+            "id": "a287651c5dcc2713",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Conflict Serializable.md"
+              }
+            }
+          },
+          {
+            "id": "e5daa1f10b5dab6a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-20 18.04.40.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "2f21b514a416ea61",
             "type": "leaf",
             "state": {
@@ -128,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Excalidraw/Drawing 2023-06-20 18.04.40.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Excalidraw/Drawing 2023-06-20 18.04.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md"
+                "file": "Excalidraw/Drawing 2023-06-20 18.04.40.excalidraw.md"
               }
             }
           },
@@ -206,15 +226,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5312c114f051cd30",
+  "active": "e5daa1f10b5dab6a",
   "lastOpenFiles": [
+    "Excalidraw/Conflict Serializable.md",
+    "Excalidraw/Drawing 2023-06-20 18.04.40.excalidraw.md",
     "Training/Erez Webman's Lectures/Consistency.md",
+    "Training/CMU DB/CMU Database Systems.md",
     "Excalidraw/Strict 2PL.md",
     "Training/Erez Webman's Lectures/Storage.md",
-    "Training/CMU DB/CMU Database Systems.md",
     "Regatta Lunch.md",
     "Training/Confluence Training.md",
-    "Excalidraw/Conflict Serializable.md",
     "Training/Erez Webman's Lectures",
     "Excalidraw/LSA.md",
     "Excalidraw/Drawing 2023-06-19 15.18.10.excalidraw.md",
