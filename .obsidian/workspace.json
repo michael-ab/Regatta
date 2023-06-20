@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ACA",
+                "query": "strict",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -215,7 +214,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "db806e4b9ea4f2b9",
+  "active": "6ef9bde2204aa94b",
   "lastOpenFiles": [
     "Excalidraw/Conflict Serializable.md",
     "Excalidraw/Not recoverable txn example.md",
