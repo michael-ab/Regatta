@@ -37,24 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/CMU DB/CMU Database Systems.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7f04b1ab8acf33b3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Strict 2PL.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -137,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Strict 2PL.md",
+                "file": "Training/CMU DB/CMU Database Systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Strict 2PL.md",
+                "file": "Training/CMU DB/CMU Database Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Strict 2PL.md"
+                "file": "Training/CMU DB/CMU Database Systems.md"
               }
             }
           },
@@ -215,7 +206,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7f04b1ab8acf33b3",
+  "active": "5312c114f051cd30",
   "lastOpenFiles": [
     "Training/Erez Webman's Lectures/Consistency.md",
     "Excalidraw/Strict 2PL.md",
