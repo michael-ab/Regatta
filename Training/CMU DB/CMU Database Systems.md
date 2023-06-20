@@ -717,6 +717,8 @@ Strict Two-Phase Locking
 
 
 Universe of Schedules
+Serial
+Conflict Serializable
 ![[Pasted image 20230603194509.png]]
 
 2PL Deadlocks
