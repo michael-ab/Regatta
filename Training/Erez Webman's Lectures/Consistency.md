@@ -28,4 +28,5 @@ Not recoverable transaction example:
 If T_i reads x from T_j , then commit_j< read_i(x)
 
 See [[DMS-HS20-Transactions_CCR.pdf]]
+
 ![[Pasted image 20230620183847.png]]
