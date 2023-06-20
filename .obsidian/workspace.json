@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md"
+                "file": "Training/Erez Webman's Lectures/Consistency.md"
               }
             }
           },
@@ -207,9 +207,9 @@
   },
   "active": "5312c114f051cd30",
   "lastOpenFiles": [
+    "Training/Erez Webman's Lectures/Storage.md",
     "Training/Erez Webman's Lectures/Consistency.md",
     "Training/CMU DB/CMU Database Systems.md",
-    "Training/Erez Webman's Lectures/Storage.md",
     "Regatta Lunch.md",
     "Training/Confluence Training.md",
     "Excalidraw/Conflict Serializable.md",
