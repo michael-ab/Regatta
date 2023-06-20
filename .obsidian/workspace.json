@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "fbc17defceb0b302",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Conflict Serializable.md"
+              }
+            }
+          },
+          {
             "id": "5312c114f051cd30",
             "type": "leaf",
             "state": {
@@ -43,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Excalidraw/Conflict Serializable.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Excalidraw/Conflict Serializable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md"
+                "file": "Excalidraw/Conflict Serializable.md"
               }
             }
           },
@@ -204,11 +215,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b45d5ffee931656b",
+  "active": "fbc17defceb0b302",
   "lastOpenFiles": [
+    "Training/Erez Webman's Lectures/Consistency.md",
     "Training/Confluence Training.md",
     "Excalidraw/Conflict Serializable.md",
-    "Training/Erez Webman's Lectures/Consistency.md",
     "Training/CMU DB/CMU Database Systems.md",
     "Training/Erez Webman's Lectures/Storage.md",
     "Training/Erez Webman's Lectures",
