@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f04b1ab8acf33b3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Strict 2PL.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Excalidraw/Strict 2PL.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Excalidraw/Strict 2PL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md"
+                "file": "Excalidraw/Strict 2PL.md"
               }
             }
           },
@@ -205,10 +215,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5312c114f051cd30",
+  "active": "7f04b1ab8acf33b3",
   "lastOpenFiles": [
-    "Training/Erez Webman's Lectures/Storage.md",
     "Training/Erez Webman's Lectures/Consistency.md",
+    "Excalidraw/Strict 2PL.md",
+    "Training/Erez Webman's Lectures/Storage.md",
     "Training/CMU DB/CMU Database Systems.md",
     "Regatta Lunch.md",
     "Training/Confluence Training.md",
