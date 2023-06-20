@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +56,7 @@
       {
         "id": "2d2560af669e3ad0",
         "type": "tabs",
-        "dimension": 60.858585858585855,
+        "dimension": 61.84782608695652,
         "children": [
           {
             "id": "6ef9bde2204aa94b",
@@ -90,13 +91,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e02b3df7d1186ce6",
         "type": "tabs",
-        "dimension": 39.141414141414145,
+        "dimension": 38.15217391304348,
         "children": [
           {
             "id": "eda9c89bdc3a0d76",
@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.5
   },
   "right": {
     "id": "0e6de43b8ef65008",
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/Erez Webman's Lectures/Storage.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/Erez Webman's Lectures/Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md"
+                "file": "Training/Erez Webman's Lectures/Storage.md"
               }
             }
           },
@@ -205,13 +205,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b45d5ffee931656b",
+  "active": "5312c114f051cd30",
   "lastOpenFiles": [
+    "Training/Erez Webman's Lectures/Consistency.md",
     "Training/CMU DB/CMU Database Systems.md",
     "Training/Erez Webman's Lectures/Storage.md",
     "Regatta Lunch.md",
     "Training/Confluence Training.md",
-    "Training/Erez Webman's Lectures/Consistency.md",
     "Excalidraw/Conflict Serializable.md",
     "Training/Erez Webman's Lectures",
     "Excalidraw/LSA.md",
