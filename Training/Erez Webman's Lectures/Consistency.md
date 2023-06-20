@@ -4,3 +4,7 @@ Conflict Serializable iff no circle in the dependencies graph
 Example:
 ![[Conflict Serializable]]
 
+Conflict:
+1. R/W
+2. W/R
+3. W/W
