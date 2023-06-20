@@ -9,6 +9,7 @@ Block Volume
 Block Device
 ![[Erez - Intro and block device]]
 
-LSA -> Log Structured File System
+LSA -> Log Structured Array
+Log Structured File System
 L2P (L-to-P) -> Logical to physical
 

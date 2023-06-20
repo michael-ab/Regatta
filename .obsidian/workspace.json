@@ -11,6 +11,16 @@
             "id": "b45d5ffee931656b",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/LSA.md"
+              }
+            }
+          },
+          {
+            "id": "5312c114f051cd30",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Training/Erez Webman’s lectures.md",
@@ -30,21 +40,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "90e58e782e9e6c0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training/Erez Webman’s lectures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Erez Webman’s lectures.md",
+                "file": "Excalidraw/LSA.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Erez Webman’s lectures.md",
+                "file": "Excalidraw/LSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Erez Webman’s lectures.md"
+                "file": "Excalidraw/LSA.md"
               }
             }
           },
@@ -205,13 +202,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "90e58e782e9e6c0d",
+  "active": "b45d5ffee931656b",
   "lastOpenFiles": [
+    "Training/Erez Webman’s lectures.md",
+    "Excalidraw/LSA.md",
+    "Excalidraw/Drawing 2023-06-19 15.18.10.excalidraw.md",
     "Regatta Lunch.md",
     "2023-06-18.md",
     "2023-06-19.md",
-    "Training/Erez Webman’s lectures.md",
-    "Excalidraw/Drawing 2023-06-19 15.18.10.excalidraw.md",
     "Excalidraw/Erez - Intro and block device.md",
     "Excalidraw",
     "Training/Confluence Training.md",
