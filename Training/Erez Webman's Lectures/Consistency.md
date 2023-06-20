@@ -14,5 +14,10 @@ Nobody use the 2PL as is but strict 2PL or SS2LP
 
 ![[Strict 2PL]]
 
-Recoverabilit
+Recoverability
+
+Not recoverable transaction example:
+![[Not recoverable txn example]]
+
+
 

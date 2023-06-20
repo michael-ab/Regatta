@@ -36,6 +36,12 @@ COM ^XaBlds9A
 
 ABORT ^zafQOxv2
 
+NOT RECOVERABLE
+BECAUSE TR2 ALREADY
+USE TR1 WRITE (X=100 AND Y=200)
+AND TR2 ALREADY COMMITTED.
+COMMITTED TR CANNOT BE REVERTED ^qsOWIfV2
+
 %%
 # Drawing
 ```json
@@ -1083,6 +1089,42 @@ ABORT ^zafQOxv2
 			"lineHeight": 1.25
 		},
 		{
+			"id": "qsOWIfV2",
+			"type": "text",
+			"x": 5.115546218487566,
+			"y": -244.22058823529449,
+			"width": 587.69189453125,
+			"height": 175,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "#fa5252",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 760286539,
+			"version": 252,
+			"versionNonce": 1289235557,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1687273900844,
+			"link": null,
+			"locked": false,
+			"text": "NOT RECOVERABLE\nBECAUSE TR2 ALREADY\nUSE TR1 WRITE (X=100 AND Y=200)\nAND TR2 ALREADY COMMITTED.\nCOMMITTED TR CANNOT BE REVERTED",
+			"rawText": "NOT RECOVERABLE\nBECAUSE TR2 ALREADY\nUSE TR1 WRITE (X=100 AND Y=200)\nAND TR2 ALREADY COMMITTED.\nCOMMITTED TR CANNOT BE REVERTED",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 165,
+			"containerId": null,
+			"originalText": "NOT RECOVERABLE\nBECAUSE TR2 ALREADY\nUSE TR1 WRITE (X=100 AND Y=200)\nAND TR2 ALREADY COMMITTED.\nCOMMITTED TR CANNOT BE REVERTED",
+			"lineHeight": 1.25
+		},
+		{
 			"type": "text",
 			"version": 82,
 			"versionNonce": 202731339,
@@ -1170,10 +1212,10 @@ ABORT ^zafQOxv2
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 725.5882352941178,
-		"scrollY": 453.1176470588238,
+		"scrollX": 927.0273109243702,
+		"scrollY": 633.1491596638662,
 		"zoom": {
-			"value": 0.8499999999999999
+			"value": 0.6999999999999997
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

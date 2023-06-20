@@ -30,16 +30,6 @@
             }
           },
           {
-            "id": "e5daa1f10b5dab6a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-06-20 18.04.40.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "2f21b514a416ea61",
             "type": "leaf",
             "state": {
@@ -63,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "seria",
+                "query": "ACA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-20 18.04.40.excalidraw.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-20 18.04.40.excalidraw.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-20 18.04.40.excalidraw.md"
+                "file": "Training/Erez Webman's Lectures/Consistency.md"
               }
             }
           },
@@ -226,10 +215,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e5daa1f10b5dab6a",
+  "active": "db806e4b9ea4f2b9",
   "lastOpenFiles": [
     "Excalidraw/Conflict Serializable.md",
-    "Excalidraw/Drawing 2023-06-20 18.04.40.excalidraw.md",
+    "Excalidraw/Not recoverable txn example.md",
     "Training/Erez Webman's Lectures/Consistency.md",
     "Training/CMU DB/CMU Database Systems.md",
     "Excalidraw/Strict 2PL.md",
