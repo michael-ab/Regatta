@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8ee00aa2c7650269",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-20 11.06.14.excalidraw.md"
               }
             }
           },
@@ -43,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -127,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Excalidraw/Drawing 2023-06-20 11.06.14.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Excalidraw/Drawing 2023-06-20 11.06.14.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md"
+                "file": "Excalidraw/Drawing 2023-06-20 11.06.14.excalidraw.md"
               }
             }
           },
@@ -205,9 +215,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b45d5ffee931656b",
+  "active": "8ee00aa2c7650269",
   "lastOpenFiles": [
     "Training/Erez Webman's Lectures/Consistency.md",
+    "Excalidraw/Drawing 2023-06-20 11.06.14.excalidraw.md",
+    "Training/CMU DB/CMU Database Systems.md",
     "Training/Erez Webman's Lectures/Storage.md",
     "Training/Erez Webman's Lectures",
     "Excalidraw/LSA.md",
@@ -218,7 +230,6 @@
     "Excalidraw/Erez - Intro and block device.md",
     "Excalidraw",
     "Training/Confluence Training.md",
-    "Training/CMU DB/CMU Database Systems.md",
     "Training/CMU DB/slides/01-introduction.pdf",
     "Training/08-trees2.pdf",
     "Training/CMU DB/slides/26-potpourri.pdf",
