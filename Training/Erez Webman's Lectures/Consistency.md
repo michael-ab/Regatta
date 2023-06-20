@@ -2,3 +2,5 @@
 
 Conflict Serializable iff no circle in the graph
 Example:
+![[Conflict Serializable]]
+
