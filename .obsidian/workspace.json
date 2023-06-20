@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/CMU DB/CMU Database Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b53de96fda3fb514",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regatta Lunch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Confluence Training.md"
+                "file": "Training/Erez Webman's Lectures/Consistency.md"
               }
             }
           },
@@ -217,17 +205,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f21b514a416ea61",
+  "active": "b45d5ffee931656b",
   "lastOpenFiles": [
-    "Training/Erez Webman's Lectures/Consistency.md",
-    "Excalidraw/Conflict Serializable.md",
-    "Training/Confluence Training.md",
     "Training/CMU DB/CMU Database Systems.md",
     "Training/Erez Webman's Lectures/Storage.md",
+    "Regatta Lunch.md",
+    "Training/Confluence Training.md",
+    "Training/Erez Webman's Lectures/Consistency.md",
+    "Excalidraw/Conflict Serializable.md",
     "Training/Erez Webman's Lectures",
     "Excalidraw/LSA.md",
     "Excalidraw/Drawing 2023-06-19 15.18.10.excalidraw.md",
-    "Regatta Lunch.md",
     "2023-06-18.md",
     "2023-06-19.md",
     "Excalidraw/Erez - Intro and block device.md",
