@@ -18,53 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "37ea8473cfa019f7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-06-21 09.34.08.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a287651c5dcc2713",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Conflict Serializable.md"
-              }
-            }
-          },
-          {
-            "id": "2f21b514a416ea61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5312c114f051cd30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-21 09.34.08.excalidraw.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-21 09.34.08.excalidraw.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-21 09.34.08.excalidraw.md"
+                "file": "Training/Erez Webman's Lectures/Consistency.md"
               }
             }
           },
@@ -225,17 +180,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "37ea8473cfa019f7",
+  "active": "b45d5ffee931656b",
   "lastOpenFiles": [
+    "Excalidraw/Conflict Serializable.md",
+    "Training/CMU DB/CMU Database Systems.md",
     "Training/Erez Webman's Lectures/Consistency.md",
-    "Excalidraw/Drawing 2023-06-21 09.34.08.excalidraw.md",
+    "Excalidraw/MVCC.md",
     "Images/Pasted image 20230620183847.png",
     "Training/Erez Webman's Lectures/Storage.md",
     "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
     "Training/Web Research",
-    "Excalidraw/Conflict Serializable.md",
     "Excalidraw/Not recoverable txn example.md",
-    "Training/CMU DB/CMU Database Systems.md",
     "Excalidraw/Strict 2PL.md",
     "Regatta Lunch.md",
     "Training/Confluence Training.md",

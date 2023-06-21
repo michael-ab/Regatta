@@ -40,3 +40,6 @@ See [[DMS-HS20-Transactions_CCR.pdf]]
 - Read-after-Writes
 - Commitment
 
+![[MVCC]]
+
+
