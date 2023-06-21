@@ -42,4 +42,4 @@ See [[DMS-HS20-Transactions_CCR.pdf]]
 
 ![[MVCC]]
 
-
+Snapshot delete/ Reclamation -> Need to be efficient and "just on time"
