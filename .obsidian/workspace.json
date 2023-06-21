@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0cb5c8c2ea9e23f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Training/Confluence Training.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/Confluence Training.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/Confluence Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md"
+                "file": "Training/Confluence Training.md"
               }
             }
           },
@@ -180,10 +193,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b45d5ffee931656b",
+  "active": "b0cb5c8c2ea9e23f",
   "lastOpenFiles": [
-    "Training/Confluence Training.md",
     "Training/Erez Webman's Lectures/Consistency.md",
+    "Training/Confluence Training.md",
     "Excalidraw/Conflict Serializable.md",
     "Training/CMU DB/CMU Database Systems.md",
     "Excalidraw/MVCC.md",
