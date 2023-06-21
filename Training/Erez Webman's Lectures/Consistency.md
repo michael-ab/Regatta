@@ -54,4 +54,7 @@ For i in all ID of all active txns
 		Abort TX*
 
 ### MR2OW
+See TP Consistency #14 - Manipulation to understand why:
+No need for MR2OW
+No need for snapshots
 

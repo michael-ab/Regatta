@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Confluence Training.md"
+                "file": "Training/Erez Webman's Lectures/Consistency.md"
               }
             }
           },
@@ -193,10 +192,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "62d50dd702552c32",
+  "active": "b45d5ffee931656b",
   "lastOpenFiles": [
-    "Training/Erez Webman's Lectures/Consistency.md",
     "Training/Confluence Training.md",
+    "Training/Erez Webman's Lectures/Consistency.md",
     "Excalidraw/Conflict Serializable.md",
     "Training/CMU DB/CMU Database Systems.md",
     "Excalidraw/MVCC.md",
