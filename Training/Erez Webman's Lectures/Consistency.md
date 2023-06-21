@@ -43,3 +43,10 @@ See [[DMS-HS20-Transactions_CCR.pdf]]
 ![[MVCC]]
 
 Snapshot delete/ Reclamation -> Need to be efficient and "just on time"
+
+
+### OR2MW (Other Reads to My Writes)
+Regatta Algo
+When a txn finish, we compare the write vector W(x1, x2, ..., xn) with the read vector Ri(x1, x2, ..., xn) of all active txns.
+For i in all ID of all active txns
+	if W(x1, x2, ..., xn) intersection Ri(x1, x2, ..., xn) -> 
