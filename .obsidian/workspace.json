@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "37ea8473cfa019f7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-21 09.34.08.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "a287651c5dcc2713",
             "type": "leaf",
             "state": {
@@ -53,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Excalidraw/Drawing 2023-06-21 09.34.08.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Excalidraw/Drawing 2023-06-21 09.34.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md"
+                "file": "Excalidraw/Drawing 2023-06-21 09.34.08.excalidraw.md"
               }
             }
           },
@@ -214,12 +225,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b45d5ffee931656b",
+  "active": "37ea8473cfa019f7",
   "lastOpenFiles": [
+    "Training/Erez Webman's Lectures/Consistency.md",
+    "Excalidraw/Drawing 2023-06-21 09.34.08.excalidraw.md",
     "Images/Pasted image 20230620183847.png",
     "Training/Erez Webman's Lectures/Storage.md",
     "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
-    "Training/Erez Webman's Lectures/Consistency.md",
     "Training/Web Research",
     "Excalidraw/Conflict Serializable.md",
     "Excalidraw/Not recoverable txn example.md",
@@ -249,7 +261,6 @@
     "Images/Pasted image 20230616175300.png",
     "Images/Pasted image 20230616175017.png",
     "Images/Pasted image 20230616174544.png",
-    "Images/Pasted image 20230616174500.png",
-    "Images/Pasted image 20230616174208.png"
+    "Images/Pasted image 20230616174500.png"
   ]
 }
