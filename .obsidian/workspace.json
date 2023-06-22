@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "62d50dd702552c32",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Commit in a distributed clustered.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Commit in a distributed clustered.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Commit in a distributed clustered.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Commit in a distributed clustered.md"
+                "file": "Training/Erez Webman's Lectures/Consistency.md"
               }
             }
           },
@@ -191,11 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "62d50dd702552c32",
+  "active": "b9cae5126922dde9",
   "lastOpenFiles": [
-    "Training/Confluence Training.md",
+    "Excalidraw/Commit in Distributed Clustered.md",
     "Training/Erez Webman's Lectures/Consistency.md",
-    "Excalidraw/Commit in a distributed clustered.md",
+    "Training/Confluence Training.md",
     "Training/CMU DB/CMU Database Systems.md",
     "Excalidraw/Txn Work Cycle.md",
     "Excalidraw/Conflict Serializable.md",

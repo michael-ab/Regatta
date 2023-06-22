@@ -64,6 +64,11 @@ TrMgr
 
 
 Transaction work cycle
-(TR Consistency #16 - 37:00)
+(TR Consistency #16 - 0:37:00)
 ![[Txn Work Cycle]]
+
+
+### Commit in Distributed Clustered
+(TR Consistency #16 - 1:02:00)
+![[Commit in Distributed Clustered]]
 
