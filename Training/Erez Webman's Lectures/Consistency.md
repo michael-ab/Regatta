@@ -58,7 +58,9 @@ See TP Consistency #14 - Manipulation to understand why:
 No need for MR2OW
 No need for snapshots
 
-soft lock/ hard lock ??
+###### Michael Adda explication
+Soft Lock: Block writers in the validation state
+Hard Lock: Block everyone (writers and readers) in the validation state to commit
 
 TrMgr
 
