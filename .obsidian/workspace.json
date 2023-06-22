@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "da3ad9d1c43db78c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Txn Work Cycle.md"
+              }
+            }
+          },
+          {
             "id": "b9cae5126922dde9",
             "type": "leaf",
             "state": {
@@ -125,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-22 10.19.47.excalidraw.md",
+                "file": "Excalidraw/Txn Work Cycle.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-22 10.19.47.excalidraw.md",
+                "file": "Excalidraw/Txn Work Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-22 10.19.47.excalidraw.md"
+                "file": "Excalidraw/Txn Work Cycle.md"
               }
             }
           },
@@ -203,7 +213,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b9cae5126922dde9",
+  "active": "da3ad9d1c43db78c",
   "lastOpenFiles": [
     "Training/Erez Webman's Lectures/Consistency.md",
     "Excalidraw/Drawing 2023-06-22 10.19.47.excalidraw.md",
