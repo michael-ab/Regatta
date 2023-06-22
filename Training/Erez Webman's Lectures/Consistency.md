@@ -58,5 +58,9 @@ See TP Consistency #14 - Manipulation to understand why:
 No need for MR2OW
 No need for snapshots
 
+soft lock/ hard lock ??
+
+TrMgr
 
 
+Transaction work cycle
