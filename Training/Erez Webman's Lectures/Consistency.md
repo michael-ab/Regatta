@@ -75,5 +75,8 @@ Transaction work cycle
 ![[Commit in Distributed Clustered]]
 
 
-### Post-
+### Post Commit
+![[Post Commit]]
+
+
 

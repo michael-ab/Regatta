@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9cae5126922dde9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-06-22 16.35.24.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "d010b348eabfaf8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/CMU DB/CMU Database Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rep",
+                "query": "phanto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -112,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-22 16.35.24.excalidraw.md",
+                "file": "Training/CMU DB/CMU Database Systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-22 16.35.24.excalidraw.md",
+                "file": "Training/CMU DB/CMU Database Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-22 16.35.24.excalidraw.md"
+                "file": "Training/CMU DB/CMU Database Systems.md"
               }
             }
           },
@@ -190,12 +181,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b9cae5126922dde9",
+  "active": "d010b348eabfaf8f",
   "lastOpenFiles": [
     "Training/Erez Webman's Lectures/Consistency.md",
     "Training/Confluence Training.md",
+    "Excalidraw/Post Commit.md",
     "Training/CMU DB/CMU Database Systems.md",
-    "Excalidraw/Drawing 2023-06-22 16.35.24.excalidraw.md",
     "Excalidraw/Commit in Distributed Clustered.md",
     "Excalidraw/Txn Work Cycle.md",
     "Excalidraw/Conflict Serializable.md",
