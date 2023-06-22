@@ -74,3 +74,6 @@ Transaction work cycle
 (TR Consistency #16 - 1:02:00)
 ![[Commit in Distributed Clustered]]
 
+
+### Post-
+
