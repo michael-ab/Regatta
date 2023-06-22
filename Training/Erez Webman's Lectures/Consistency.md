@@ -83,3 +83,8 @@ Transaction work cycle
 If there is 2 transactions that want to write the same row in the same time, the first to write will write and the second transaction will failed.
 
 working phase | validation (validation for commit) | Commit | Post Commit
+
+### Break Hard Lock
+
+If one of the nodes can't be hard locked, we released the hard locks from the other nodes for this transaction.
+If break hard lock happens x times, the transaction is aborted.
