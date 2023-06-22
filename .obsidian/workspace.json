@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phanto",
+                "query": "repe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +181,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d010b348eabfaf8f",
+  "active": "db806e4b9ea4f2b9",
   "lastOpenFiles": [
     "Training/Erez Webman's Lectures/Consistency.md",
     "Training/Confluence Training.md",
