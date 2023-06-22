@@ -64,3 +64,6 @@ TrMgr
 
 
 Transaction work cycle
+(TR Consistency #16 - 37:00)
+![[Txn Work Cycle]]
+
