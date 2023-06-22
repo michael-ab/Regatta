@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/CMU DB/CMU Database Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strict",
+                "query": "rep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Txn Work Cycle.md",
+                "file": "Training/Confluence Training.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Txn Work Cycle.md",
+                "file": "Training/Confluence Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Txn Work Cycle.md"
+                "file": "Training/Confluence Training.md"
               }
             }
           },
@@ -213,14 +214,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "da3ad9d1c43db78c",
+  "active": "62d50dd702552c32",
   "lastOpenFiles": [
+    "Training/CMU DB/CMU Database Systems.md",
     "Training/Erez Webman's Lectures/Consistency.md",
-    "Excalidraw/Drawing 2023-06-22 10.19.47.excalidraw.md",
     "Excalidraw/Txn Work Cycle.md",
+    "Excalidraw/Drawing 2023-06-22 10.19.47.excalidraw.md",
     "Training/Confluence Training.md",
     "Excalidraw/Conflict Serializable.md",
-    "Training/CMU DB/CMU Database Systems.md",
     "Excalidraw/MVCC.md",
     "Images/Pasted image 20230620183847.png",
     "Training/Erez Webman's Lectures/Storage.md",
