@@ -78,5 +78,6 @@ Transaction work cycle
 ### Post Commit
 ![[Post Commit]]
 
+### First Committer Wins
 
-
+If there is 2 transactions that want to write the same row in the same time, the first to write will write and the second transaction will failed.
