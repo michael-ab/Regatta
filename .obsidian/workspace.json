@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/Eran's Lectures/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/Eran's Lectures/Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/Eran's Lectures/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Confluence Training.md"
+                "file": "Training/Eran's Lectures/Notes.md"
               }
             }
           },
@@ -182,8 +182,11 @@
   },
   "active": "d010b348eabfaf8f",
   "lastOpenFiles": [
-    "Training/CMU DB/CMU Database Systems.md",
+    "Images/Pasted image 20230625164449.png",
     "Training/Confluence Training.md",
+    "Training/Eran's Lectures/Notes.md",
+    "Training/Eran's Lectures",
+    "Training/CMU DB/CMU Database Systems.md",
     "Training/Erez Webman's Lectures/Consistency.md",
     "Training/Erez Webman's Lectures/Storage.md",
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
@@ -210,7 +213,6 @@
     "Training/CMU DB/slides/26-potpourri.pdf",
     "Training/CMU DB/slides/25-oracle.pdf",
     "Training/CMU DB/slides/24-distributedolap.pdf",
-    "Training/CMU DB/slides/23-distributedoltp.pdf",
     "Images/Pasted image 20230608182009.png",
     "2023-06-17.md",
     "Images/Pasted image 20230617151809.png",
