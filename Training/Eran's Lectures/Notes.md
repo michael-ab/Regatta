@@ -8,3 +8,4 @@ For example row 0 is mapping to set 0 and can be in the rows range [0, 2] in the
 
 ### False Sharing
 
+![[False Sharing]]
