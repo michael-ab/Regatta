@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c37e8c15ba287b8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-25 18.14.21.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Eran's Lectures/Notes.md",
+                "file": "Excalidraw/Drawing 2023-06-25 18.14.21.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Eran's Lectures/Notes.md",
+                "file": "Excalidraw/Drawing 2023-06-25 18.14.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Eran's Lectures/Notes.md"
+                "file": "Excalidraw/Drawing 2023-06-25 18.14.21.excalidraw.md"
               }
             }
           },
@@ -180,11 +191,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d010b348eabfaf8f",
+  "active": "7c37e8c15ba287b8",
   "lastOpenFiles": [
+    "Training/Eran's Lectures/Notes.md",
+    "Excalidraw/Drawing 2023-06-25 18.14.21.excalidraw.md",
     "Images/Pasted image 20230625164449.png",
     "Training/Confluence Training.md",
-    "Training/Eran's Lectures/Notes.md",
     "Training/Eran's Lectures",
     "Training/CMU DB/CMU Database Systems.md",
     "Training/Erez Webman's Lectures/Consistency.md",
@@ -220,7 +232,6 @@
     "Images/Pasted image 20230616175801.png",
     "Images/Pasted image 20230616175556.png",
     "Images/Pasted image 20230616175300.png",
-    "Images/Pasted image 20230616175017.png",
-    "Images/Pasted image 20230616174544.png"
+    "Images/Pasted image 20230616175017.png"
   ]
 }
