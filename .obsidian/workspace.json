@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Confluence Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Confluence Training.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Confluence Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md"
+                "file": "Training/Confluence Training.md"
               }
             }
           },
@@ -183,11 +182,11 @@
   },
   "active": "d010b348eabfaf8f",
   "lastOpenFiles": [
+    "Training/CMU DB/CMU Database Systems.md",
     "Training/Confluence Training.md",
     "Training/Erez Webman's Lectures/Consistency.md",
     "Training/Erez Webman's Lectures/Storage.md",
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
-    "Training/CMU DB/CMU Database Systems.md",
     "Excalidraw/Post Commit.md",
     "Excalidraw/Commit in Distributed Clustered.md",
     "Excalidraw/Txn Work Cycle.md",
