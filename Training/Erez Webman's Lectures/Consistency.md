@@ -92,3 +92,5 @@ If break hard lock happens x times, the transaction is aborted.
 ### Prepare for update
 Lock every table that fit the predicate
 Not a solution for phantom
+
+
