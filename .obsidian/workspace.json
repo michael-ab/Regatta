@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -183,8 +182,9 @@
   },
   "active": "d010b348eabfaf8f",
   "lastOpenFiles": [
-    "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
+    "Training/Erez Webman's Lectures/Storage.md",
     "Training/Erez Webman's Lectures/Consistency.md",
+    "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
     "Training/CMU DB/CMU Database Systems.md",
     "Training/Confluence Training.md",
     "Excalidraw/Post Commit.md",
@@ -193,7 +193,6 @@
     "Excalidraw/Conflict Serializable.md",
     "Excalidraw/MVCC.md",
     "Images/Pasted image 20230620183847.png",
-    "Training/Erez Webman's Lectures/Storage.md",
     "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
     "Training/Web Research",
     "Excalidraw/Not recoverable txn example.md",
