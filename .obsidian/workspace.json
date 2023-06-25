@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/Confluence Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/Confluence Training.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/Confluence Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md"
+                "file": "Training/Confluence Training.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "d010b348eabfaf8f",
   "lastOpenFiles": [
-    "Training/Erez Webman's Lectures/Storage.md",
     "Training/Erez Webman's Lectures/Consistency.md",
+    "Training/Erez Webman's Lectures/Storage.md",
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
     "Training/CMU DB/CMU Database Systems.md",
     "Training/Confluence Training.md",
