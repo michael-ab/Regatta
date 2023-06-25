@@ -853,6 +853,13 @@ Weaker Levels of Isolation
 
 Isolation Levels
 ![[Pasted image 20230604232306.png]]
+
+
+Isolation Levels
+1. Serializable
+2. Repeatable Reads
+3. Read Committed
+4. Read Uncommitted
 ![[Pasted image 20230604232414.png]]
 ![[Pasted image 20230604232443.png]]
 ![[Pasted image 20230604232510.png]]
