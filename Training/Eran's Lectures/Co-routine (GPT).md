@@ -13,9 +13,7 @@ Here's a step-by-step explanation of how coroutines work in C++:
     
     For example, here's a simple coroutine function that suspends and yields a sequence of numbers:
     
-    cppCopy code
-    
-```
+```cpp
 #include <iostream> #include <experimental/coroutine>  
 // Coroutine declaration std::experimental::coroutine_handle<> generator;
 
@@ -31,28 +29,28 @@ std::experimental::suspend_always sequence(int start, int end) {
 4. Coroutine Execution: To execute a coroutine, you need to obtain a coroutine handle and call its `resume()` function. This will start or resume the execution of the coroutine until it reaches a suspend point.
     
     Continuing from the previous example, here's how you can execute the `sequence` coroutine:
-    
-    cppCopy code
 
-```
+```cpp
 int main() {     
 	// Obtain the coroutine handle     
 	generator = sequence(1, 5).coro_handle();
       
 	// Resume the coroutine until it completes    
 	while (!generator.done()) {        
-	generator.resume();         
-	int value = generator.promise().value;         
-	std::cout << value << std::endl;     
-	}      
+		generator.resume();         
+		int value = generator.promise().value;         
+		std::cout << value << std::endl;     
+	} 
+     
 	// Deallocate the coroutine handle     
-	generator.destroy();      
+	generator.destroy();
+      
 	return 0; 
 }
 ````
 ``
     
-    In this example, the coroutine `sequence` is executed in the `main` function. The `resume()` function is called repeatedly until the coroutine is done. Each time `resume()` is called, the coroutine executes until it reaches a `co_yield` statement, at which point it suspends and returns the yielded value.
+In this example, the coroutine `sequence` is executed in the `main` function. The `resume()` function is called repeatedly until the coroutine is done. Each time `resume()` is called, the coroutine executes until it reaches a `co_yield` statement, at which point it suspends and returns the yielded value.
     
 5. Coroutine Promise: The promise is an object associated with each coroutine that is responsible for managing its state and providing its return value. You can access the promise object of a coroutine through the `promise()` function of its handle.
     
