@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Eran's Lectures/Notes.md",
+                "file": "2023-06-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Eran's Lectures/Notes.md",
+                "file": "2023-06-26.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Eran's Lectures/Notes.md",
+                "file": "2023-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Eran's Lectures/Notes.md"
+                "file": "2023-06-26.md"
               }
             }
           },
@@ -195,8 +195,9 @@
   },
   "active": "7c37e8c15ba287b8",
   "lastOpenFiles": [
-    "Excalidraw/False Sharing.md",
     "Training/Eran's Lectures/Notes.md",
+    "2023-06-26.md",
+    "Excalidraw/False Sharing.md",
     "Images/Pasted image 20230625164449.png",
     "Training/Confluence Training.md",
     "Training/Eran's Lectures",
