@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "83135490da213aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wifi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Eran's Lectures/Co-routine (GPT).md",
+                "file": "Wifi.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Eran's Lectures/Co-routine (GPT).md",
+                "file": "Wifi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Eran's Lectures/Co-routine (GPT).md"
+                "file": "Wifi.md"
               }
             }
           },
@@ -205,11 +217,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d51d897502c76561",
+  "active": "83135490da213aa1",
   "lastOpenFiles": [
+    "Training/Eran's Lectures/Co-routine (GPT).md",
+    "Wifi.md",
     "Regatta Lunch.md",
     "Training/Eran's Lectures/SetJmp() and LongJmp().md",
-    "Training/Eran's Lectures/Co-routine (GPT).md",
     "2023-06-26.md",
     "Training/Eran's Lectures/Notes.md",
     "Excalidraw/False Sharing.md",
