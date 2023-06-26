@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Eran's Lectures/Co-routine (GPT).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83135490da213aa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wifi.md",
+                "file": "Daily Notes/2023-06-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wifi.md",
+                "file": "Daily Notes/2023-06-26.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wifi.md",
+                "file": "Daily Notes/2023-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wifi.md"
+                "file": "Daily Notes/2023-06-26.md"
               }
             }
           },
@@ -217,13 +205,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "83135490da213aa1",
+  "active": "6ef9bde2204aa94b",
   "lastOpenFiles": [
+    "Daily Notes/2023-06-18.md",
+    "Daily Notes/2023-06-19.md",
+    "Daily Notes/2023-06-26.md",
     "Training/Eran's Lectures/Co-routine (GPT).md",
+    "Untitled.md",
+    "Daily Notes",
     "Wifi.md",
     "Regatta Lunch.md",
     "Training/Eran's Lectures/SetJmp() and LongJmp().md",
-    "2023-06-26.md",
     "Training/Eran's Lectures/Notes.md",
     "Excalidraw/False Sharing.md",
     "Images/Pasted image 20230625164449.png",
@@ -246,15 +238,12 @@
     "Training/Erez Webman's Lectures",
     "Excalidraw/LSA.md",
     "Excalidraw/Drawing 2023-06-19 15.18.10.excalidraw.md",
-    "2023-06-18.md",
-    "2023-06-19.md",
     "Excalidraw/Erez - Intro and block device.md",
     "Excalidraw",
     "Training/CMU DB/slides/01-introduction.pdf",
     "Training/08-trees2.pdf",
     "Training/CMU DB/slides/26-potpourri.pdf",
     "Training/CMU DB/slides/25-oracle.pdf",
-    "Training/CMU DB/slides/24-distributedolap.pdf",
     "Images/Pasted image 20230608182009.png",
     "2023-06-17.md",
     "Images/Pasted image 20230617151809.png",
