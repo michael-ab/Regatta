@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d51d897502c76561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Training/Eran's Lectures/Co-routine (GPT).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regatta Lunch.md",
+                "file": "Training/Eran's Lectures/Co-routine (GPT).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regatta Lunch.md",
+                "file": "Training/Eran's Lectures/Co-routine (GPT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regatta Lunch.md"
+                "file": "Training/Eran's Lectures/Co-routine (GPT).md"
               }
             }
           },
@@ -193,8 +205,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7c37e8c15ba287b8",
+  "active": "d51d897502c76561",
   "lastOpenFiles": [
+    "Regatta Lunch.md",
     "Training/Eran's Lectures/SetJmp() and LongJmp().md",
     "Training/Eran's Lectures/Co-routine (GPT).md",
     "2023-06-26.md",
@@ -217,7 +230,6 @@
     "Training/Web Research",
     "Excalidraw/Not recoverable txn example.md",
     "Excalidraw/Strict 2PL.md",
-    "Regatta Lunch.md",
     "Training/Erez Webman's Lectures",
     "Excalidraw/LSA.md",
     "Excalidraw/Drawing 2023-06-19 15.18.10.excalidraw.md",
