@@ -127,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Eran's Lectures/Regatta's Convention Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Eran's Lectures/Regatta's Convention Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Training/Eran's Lectures/Regatta's Convention Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,10 +201,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d51d897502c76561",
+  "active": "eda9c89bdc3a0d76",
   "lastOpenFiles": [
-    "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
     "Training/Eran's Lectures/Regatta's Convention Notes.md",
+    "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
     "Training/Eran's Lectures/Intro notes.md",
     "Daily Notes/2023-06-18.md",
     "Daily Notes/2023-06-26.md",
