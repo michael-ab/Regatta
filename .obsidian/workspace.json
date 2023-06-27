@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Eran's Lectures/Regatta's Convention Notes.md",
+                "file": "Training/Eran's Lectures/Intro notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Training/Eran's Lectures/Intro notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Training/Eran's Lectures/Intro notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Training/Eran's Lectures/Intro notes.md"
+              }
             }
           },
           {
@@ -201,7 +205,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eda9c89bdc3a0d76",
+  "active": "d51d897502c76561",
   "lastOpenFiles": [
     "Training/Eran's Lectures/Regatta's Convention Notes.md",
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
