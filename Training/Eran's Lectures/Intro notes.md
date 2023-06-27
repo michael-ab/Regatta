@@ -15,4 +15,4 @@ Fiber -> Thread only in User Mode
 cpu -> Thread
 
 ### FastLock
-Spinlock for very small CC
+Spinlock for very small CS
