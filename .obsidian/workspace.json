@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "repea",
+                "query": "fast",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -205,7 +206,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d51d897502c76561",
+  "active": "db806e4b9ea4f2b9",
   "lastOpenFiles": [
     "Daily Notes/2023-06-26.md",
     "Daily Notes/2023-06-18.md",
