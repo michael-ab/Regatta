@@ -35,9 +35,11 @@
             "id": "d51d897502c76561",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/LSA.md"
+                "file": "Training/Eran's Lectures/Arena Pool.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/LSA.md",
+                "file": "Training/Eran's Lectures/Arena Pool.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/LSA.md",
+                "file": "Training/Eran's Lectures/Arena Pool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/LSA.md"
+                "file": "Training/Eran's Lectures/Arena Pool.md"
               }
             }
           },
@@ -206,6 +207,8 @@
   },
   "active": "d51d897502c76561",
   "lastOpenFiles": [
+    "Excalidraw/LSA.md",
+    "Training/Eran's Lectures/Arena Pool.md",
     "Training/Eran's Lectures/Intro notes.md",
     "Training/Eran's Lectures/Regatta's Convention Notes.md",
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
@@ -236,7 +239,6 @@
     "Excalidraw/Not recoverable txn example.md",
     "Excalidraw/Strict 2PL.md",
     "Training/Erez Webman's Lectures",
-    "Excalidraw/LSA.md",
     "Excalidraw/Drawing 2023-06-19 15.18.10.excalidraw.md",
     "Excalidraw/Erez - Intro and block device.md",
     "Excalidraw",
