@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Eran's Lectures/Arena Pool.md",
+                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Eran's Lectures/Arena Pool.md",
+                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Eran's Lectures/Arena Pool.md",
+                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Eran's Lectures/Arena Pool.md"
+                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md"
               }
             }
           },
@@ -207,8 +207,9 @@
   },
   "active": "d51d897502c76561",
   "lastOpenFiles": [
-    "Excalidraw/LSA.md",
     "Training/Eran's Lectures/Arena Pool.md",
+    "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
+    "Excalidraw/LSA.md",
     "Training/Eran's Lectures/Intro notes.md",
     "Training/Eran's Lectures/Regatta's Convention Notes.md",
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
@@ -240,7 +241,6 @@
     "Excalidraw/Strict 2PL.md",
     "Training/Erez Webman's Lectures",
     "Excalidraw/Drawing 2023-06-19 15.18.10.excalidraw.md",
-    "Excalidraw/Erez - Intro and block device.md",
     "Excalidraw",
     "Training/CMU DB/slides/01-introduction.pdf",
     "Training/08-trees2.pdf",
