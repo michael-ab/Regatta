@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md",
+                "file": "Training/Eran's Lectures/Block Diagram.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md",
+                "file": "Training/Eran's Lectures/Block Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md"
+                "file": "Training/Eran's Lectures/Block Diagram.md"
               }
             }
           },
@@ -203,10 +204,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bd3a50a7d944a5be",
+  "active": "dc8bb95476a1d62c",
   "lastOpenFiles": [
-    "Training/CMU DB/slides/04-storage2.pdf",
     "Training/Erez Webman's Lectures/Storage.md",
+    "Training/CMU DB/slides/04-storage2.pdf",
     "Training/Eran's Lectures/Block Diagram.md",
     "Training/Compute & Operators/Plan & Execution.md",
     "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
