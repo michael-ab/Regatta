@@ -18,6 +18,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d6c353439e56c5d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Training/CMU DB/slides/04-storage2.pdf"
+              }
+            }
+          },
+          {
+            "id": "dc8bb95476a1d62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Training/Eran's Lectures/Block Diagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -49,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "segment",
+                "query": "catalog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -182,9 +205,11 @@
   },
   "active": "bd3a50a7d944a5be",
   "lastOpenFiles": [
+    "Training/CMU DB/slides/04-storage2.pdf",
+    "Training/Erez Webman's Lectures/Storage.md",
+    "Training/Eran's Lectures/Block Diagram.md",
     "Training/Compute & Operators/Plan & Execution.md",
     "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
-    "Training/Erez Webman's Lectures/Storage.md",
     "Training/Erez Webman's Lectures/Consistency.md",
     "Training/CMU DB/slides/19-multiversioning.pdf",
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
@@ -194,7 +219,6 @@
     "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
     "Training/Eran's Lectures/Intro notes.md",
     "Training/CMU DB/CMU Database Systems.md",
-    "Training/CMU DB/slides/04-storage2.pdf",
     "Excalidraw/LSA.md",
     "Excalidraw/Erez - Intro and block device.md",
     "Training/Eran's Lectures/Regatta's Convention Notes.md",
@@ -203,7 +227,6 @@
     "Training/CMU DB/slides/24-distributedolap.pdf",
     "Training/CMU DB/slides/15-optimization2.pdf",
     "Images/Pasted image 20230629111902.png",
-    "Training/Eran's Lectures/Block Diagram.md",
     "Training/Compute & Operators",
     "Images/Pasted image 20230629101323.png",
     "Images/Pasted image 20230530172935.png",
