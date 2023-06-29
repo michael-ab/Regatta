@@ -37,14 +37,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
+                "file": "Training/Eran's Lectures/Block Diagram.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc1c569b4d033b53",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230608173744.png"
+              }
+            }
+          },
+          {
+            "id": "3208db634e2a022c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Training/CMU DB/slides/19-multiversioning.pdf"
+              }
+            }
+          },
+          {
+            "id": "06b69c0f3903ba46",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230530172935.png"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -74,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lsa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -127,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
+                "file": "Images/Pasted image 20230530172935.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
+                "file": "Images/Pasted image 20230530172935.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md"
+                "file": "Images/Pasted image 20230530172935.png"
               }
             }
           },
@@ -205,10 +236,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d51d897502c76561",
+  "active": "06b69c0f3903ba46",
   "lastOpenFiles": [
-    "Training/Eran's Lectures/Arena Pool.md",
+    "Training/CMU DB/slides/19-multiversioning.pdf",
+    "Images/Pasted image 20230608173744.png",
+    "Training/Eran's Lectures/Block Diagram.md",
+    "Images/diagram_block_1.png",
     "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
+    "Training/Eran's Lectures/Arena Pool.md",
     "Excalidraw/LSA.md",
     "Training/Eran's Lectures/Intro notes.md",
     "Training/Eran's Lectures/Regatta's Convention Notes.md",
@@ -238,9 +273,7 @@
     "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
     "Training/Web Research",
     "Excalidraw/Not recoverable txn example.md",
-    "Excalidraw/Strict 2PL.md",
     "Training/Erez Webman's Lectures",
-    "Excalidraw/Drawing 2023-06-19 15.18.10.excalidraw.md",
     "Excalidraw",
     "Training/CMU DB/slides/01-introduction.pdf",
     "Training/08-trees2.pdf",
@@ -250,8 +283,6 @@
     "Images/Pasted image 20230617151809.png",
     "Images/Pasted image 20230616175934.png",
     "Images/Pasted image 20230616175801.png",
-    "Images/Pasted image 20230616175556.png",
-    "Images/Pasted image 20230616175300.png",
-    "Images/Pasted image 20230616175017.png"
+    "Images/Pasted image 20230616175556.png"
   ]
 }
