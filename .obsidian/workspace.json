@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4fdfee1d63998669",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Training/CMU DB/slides/04-storage2.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/CMU DB/slides/04-storage2.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/CMU DB/slides/04-storage2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Confluence Training.md"
+                "file": "Training/CMU DB/slides/04-storage2.pdf"
               }
             }
           },
@@ -205,8 +215,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d51d897502c76561",
+  "active": "4fdfee1d63998669",
   "lastOpenFiles": [
+    "Training/Confluence Training.md",
     "Training/Erez Webman's Lectures/Consistency.md",
     "Training/Eran's Lectures/Block Diagram.md",
     "Images/Pasted image 20230629101323.png",
@@ -231,7 +242,6 @@
     "Training/Eran's Lectures/SetJmp() and LongJmp().md",
     "Excalidraw/False Sharing.md",
     "Images/Pasted image 20230625164449.png",
-    "Training/Confluence Training.md",
     "Training/Eran's Lectures",
     "Training/CMU DB/CMU Database Systems.md",
     "Training/Erez Webman's Lectures/Storage.md",
