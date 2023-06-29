@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "L2P",
+                "query": "LSA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,7 +216,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3542fc7ae7fe9b31",
+  "active": "db806e4b9ea4f2b9",
   "lastOpenFiles": [
     "Training/CMU DB/CMU Database Systems.md",
     "Excalidraw/Commit in Distributed Clustered.md",
