@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Eran's Lectures/Untitled.md",
+                "file": "Training/Eran's Lectures/Eran Flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Eran's Lectures/Untitled.md",
+                "file": "Training/Eran's Lectures/Eran Flow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Eran's Lectures/Untitled.md",
+                "file": "Training/Eran's Lectures/Eran Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Eran's Lectures/Untitled.md"
+                "file": "Training/Eran's Lectures/Eran Flow.md"
               }
             }
           },
@@ -205,7 +205,7 @@
   "active": "bd3a50a7d944a5be",
   "lastOpenFiles": [
     "Training/Erez Webman's Lectures/Storage.md",
-    "Training/Eran's Lectures/Untitled.md",
+    "Training/Eran's Lectures/Eran Flow.md",
     "Training/CMU DB/slides/04-storage2.pdf",
     "Training/Eran's Lectures/Block Diagram.md",
     "Training/Compute & Operators/Plan & Execution.md",

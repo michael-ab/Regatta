@@ -22,7 +22,7 @@ client agents chose a Transaction manager in one of the node
 
 RDB                                                                                DCM
 NORTH
-Client Agents
+Client Agents                                                  DCM / SMM / SAM
 Transaction Manager
 Statement Processor
 Parser
@@ -30,11 +30,12 @@ Builder DCA (DDL and show stop here to the DCM)
 static optimizer
 dynamic optimizer
 Exec Builder / Planner / Execution Mgr (same thing) (Ben and Yuval)
+Output/Data Collector
 -----------------------//
 SOUTH
 Exec Agent (Ben and Yuval)
 Transaction Agent (Naama)
-Operator (Hilla, Amit, Eran G.)
+Operator Pipe (Output/Data Collector) (Hilla, Amit, Eran G.)
 Consistency (Barak, Nitsan)
 ------------------------//
 NSM/SPA (Alex)
@@ -42,7 +43,15 @@ DataStore/IndexStore (Alon, Roy, Sari, etc.) (row store for now later maybe also
 B-Tree (R2P) (Michael)
 LSA (Roy)
 ----------------------//
-Ranger (Eddy) (1 per module today/ maybe 1 per devic)
+Ranger (Eddy) (1 per module today/ maybe 1 per device in the future)
+
+
+CORE (Eran)
+NET (Alone & Ariel K.)
+
+
+
+
 
 
 
