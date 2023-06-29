@@ -15,3 +15,10 @@ L2P (L-to-P) (Call also R2P row to physical) -> Logical to physical
 > [!NOTE] 
 > Implementation of R2P is B-Tree at Regatta
 > See in confluence why we don't using a Hash Table https://rdbproject.atlassian.net/wiki/spaces/RDBRD/pages/1061814291 
+
+
+> [!NOTE] Segment
+> R2P is per segment at Regatta
+> Each segment as is own R2P and LSA
+> Segment have a size between 1 GB to 10 GB
+> Catalog map tables to segments
