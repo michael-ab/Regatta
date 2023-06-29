@@ -35,11 +35,9 @@
             "id": "d51d897502c76561",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Training/Confluence Training.md",
-                "mode": "source",
-                "source": false
+                "file": "Training/CMU DB/slides/15-optimization2.pdf"
               }
             }
           },
@@ -137,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/CMU DB/slides/15-optimization2.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/CMU DB/slides/15-optimization2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Confluence Training.md"
+                "file": "Training/CMU DB/slides/15-optimization2.pdf"
               }
             }
           },
@@ -217,11 +215,11 @@
   },
   "active": "d51d897502c76561",
   "lastOpenFiles": [
+    "Training/Confluence Training.md",
     "Training/Compute & Operators/Plan & Execution.md",
     "Images/Pasted image 20230629111902.png",
     "Training/Eran's Lectures/Block Diagram.md",
     "Training/Compute & Operators",
-    "Training/Confluence Training.md",
     "Training/CMU DB/slides/04-storage2.pdf",
     "Training/Erez Webman's Lectures/Consistency.md",
     "Images/Pasted image 20230629101323.png",
