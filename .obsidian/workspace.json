@@ -25,19 +25,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regatta Lunch.md",
+                "file": "Training/CMU DB/CMU Database Systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d51d897502c76561",
+            "id": "3542fc7ae7fe9b31",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Training/CMU DB/slides/15-optimization2.pdf"
+                "file": "Training/CMU DB/CMU Database Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09ba0177835a211b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Training/CMU DB/CMU Database Systems.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -52,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "block diagram",
+                "query": "lookup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -135,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/CMU DB/slides/15-optimization2.pdf",
+                "file": "Training/CMU DB/CMU Database Systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/CMU DB/slides/15-optimization2.pdf",
+                "file": "Training/CMU DB/CMU Database Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/CMU DB/slides/15-optimization2.pdf"
+                "file": "Training/CMU DB/CMU Database Systems.md"
               }
             }
           },
@@ -213,8 +228,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d51d897502c76561",
+  "active": "09ba0177835a211b",
   "lastOpenFiles": [
+    "Training/CMU DB/slides/24-distributedolap.pdf",
+    "Training/CMU DB/slides/15-optimization2.pdf",
     "Training/Confluence Training.md",
     "Training/Compute & Operators/Plan & Execution.md",
     "Images/Pasted image 20230629111902.png",
@@ -257,7 +274,6 @@
     "Training/Web Research",
     "Training/Erez Webman's Lectures",
     "Excalidraw",
-    "Training/CMU DB/slides/01-introduction.pdf",
     "Images/Pasted image 20230608182009.png",
     "Images/Pasted image 20230617151809.png"
   ]
