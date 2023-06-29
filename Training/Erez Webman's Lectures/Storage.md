@@ -7,7 +7,10 @@ Block Device
 
 LSA -> Log Structured Array
 Log Structured File System
-L2P (L-to-P) -> Logical to physical
+L2P (L-to-P) (Call also R2P row to physical) -> Logical to physical
 
 ![[LSA]]
 
+
+> [!NOTE] 
+> Implementation of R2P is B-Tree at Regatta

@@ -37,19 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Erez Webman's Lectures/Storage.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "09ba0177835a211b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Commit in Distributed Clustered.md"
               }
             }
           },
@@ -64,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "to physical",
+                "query": "L2P",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Commit in Distributed Clustered.md",
+                "file": "Training/Erez Webman's Lectures/Storage.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Commit in Distributed Clustered.md",
+                "file": "Training/Erez Webman's Lectures/Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Commit in Distributed Clustered.md"
+                "file": "Training/Erez Webman's Lectures/Storage.md"
               }
             }
           },
@@ -226,11 +216,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "db806e4b9ea4f2b9",
+  "active": "3542fc7ae7fe9b31",
   "lastOpenFiles": [
+    "Training/CMU DB/CMU Database Systems.md",
+    "Excalidraw/Commit in Distributed Clustered.md",
     "Training/Compute & Operators/Plan & Execution.md",
     "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
-    "Training/CMU DB/CMU Database Systems.md",
     "Training/CMU DB/slides/24-distributedolap.pdf",
     "Training/CMU DB/slides/15-optimization2.pdf",
     "Training/Confluence Training.md",
@@ -264,7 +255,6 @@
     "Training/Eran's Lectures",
     "Training/Erez Webman's Lectures/Storage.md",
     "Excalidraw/Post Commit.md",
-    "Excalidraw/Commit in Distributed Clustered.md",
     "Excalidraw/Txn Work Cycle.md",
     "Excalidraw/Conflict Serializable.md",
     "Excalidraw/MVCC.md",
