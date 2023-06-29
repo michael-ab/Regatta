@@ -21,5 +21,5 @@ L2P (L-to-P) (Call also R2P row to physical) -> Logical to physical
 > R2P is per segment at Regatta
 > Each segment as is own R2P and LSA
 > Segment have a size between 1 GB to 10 GB
-> Catalog map tables to segments
+> NSM (Node Storage Manager) map tables to segments
 > A table is store in one or more segments
