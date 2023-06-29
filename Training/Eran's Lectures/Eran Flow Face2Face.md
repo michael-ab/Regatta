@@ -4,8 +4,8 @@ Several sort of queries:
 3. DQL
 4. (SHOW)
 ![[Pasted image 20230629180714.png]]
-
-## Only 1 in the system:
+RDB module
+Only 1 in the system:
 1. Sequencer
 2. GDB (Global Deadlock Detector)
 3. SPM/DCM
