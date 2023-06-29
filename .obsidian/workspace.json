@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Compute & Operators/Plan & Execution.md",
+                "file": "Training/Confluence Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Compute & Operators/Plan & Execution.md",
+                "file": "Training/Confluence Training.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Compute & Operators/Plan & Execution.md",
+                "file": "Training/Confluence Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Compute & Operators/Plan & Execution.md"
+                "file": "Training/Confluence Training.md"
               }
             }
           },
@@ -217,9 +217,9 @@
   },
   "active": "d51d897502c76561",
   "lastOpenFiles": [
+    "Training/Compute & Operators/Plan & Execution.md",
     "Images/Pasted image 20230629111902.png",
     "Training/Eran's Lectures/Block Diagram.md",
-    "Training/Compute & Operators/Plan & Execution.md",
     "Training/Compute & Operators",
     "Training/Confluence Training.md",
     "Training/CMU DB/slides/04-storage2.pdf",
@@ -261,7 +261,6 @@
     "Excalidraw",
     "Training/CMU DB/slides/01-introduction.pdf",
     "Images/Pasted image 20230608182009.png",
-    "Images/Pasted image 20230617151809.png",
-    "Images/Pasted image 20230616175934.png"
+    "Images/Pasted image 20230617151809.png"
   ]
 }
