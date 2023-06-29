@@ -47,11 +47,9 @@
             "id": "09ba0177835a211b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Commit in Distributed Clustered.md"
               }
             }
           },
@@ -96,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lookup",
+                "query": "to physical",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
+                "file": "Excalidraw/Commit in Distributed Clustered.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
+                "file": "Excalidraw/Commit in Distributed Clustered.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Compute & Operators/Index Lookup vs. Full Scan.md"
+                "file": "Excalidraw/Commit in Distributed Clustered.md"
               }
             }
           },
@@ -227,14 +226,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "09ba0177835a211b",
+  "active": "db806e4b9ea4f2b9",
   "lastOpenFiles": [
-    "Training/CMU DB/CMU Database Systems.md",
+    "Training/Compute & Operators/Plan & Execution.md",
     "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
+    "Training/CMU DB/CMU Database Systems.md",
     "Training/CMU DB/slides/24-distributedolap.pdf",
     "Training/CMU DB/slides/15-optimization2.pdf",
     "Training/Confluence Training.md",
-    "Training/Compute & Operators/Plan & Execution.md",
     "Images/Pasted image 20230629111902.png",
     "Training/Eran's Lectures/Block Diagram.md",
     "Training/Compute & Operators",
