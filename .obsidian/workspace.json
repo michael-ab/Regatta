@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md",
+                "file": "Training/Eran's Lectures/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md",
+                "file": "Training/Eran's Lectures/Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md",
+                "file": "Training/Eran's Lectures/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md"
+                "file": "Training/Eran's Lectures/Untitled.md"
               }
             }
           },
@@ -205,8 +204,9 @@
   },
   "active": "bd3a50a7d944a5be",
   "lastOpenFiles": [
-    "Training/CMU DB/slides/04-storage2.pdf",
     "Training/Erez Webman's Lectures/Storage.md",
+    "Training/Eran's Lectures/Untitled.md",
+    "Training/CMU DB/slides/04-storage2.pdf",
     "Training/Eran's Lectures/Block Diagram.md",
     "Training/Compute & Operators/Plan & Execution.md",
     "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
