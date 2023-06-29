@@ -20,15 +20,26 @@ client agents is on RDB
 client agents chose a Transaction manager in one of the node
 
 
-RDB
+RDB                                                                                DCM
+NORTH
 Client Agents
 Transaction Manager
 Statement Processor
 Parser
-Builder DCA
+Builder DCA (DDL and show stop here to the DCM)
 static optimizer
 dynamic optimizer
-Exec Builder / Planner / Executio
+Exec Builder / Planner / Execution Mgr (same thing) (Ben and Yuval)
+-----------------------//
+SOUTH
+Exec Agent (Ben and Yuval)
+Transaction Agent (Naama)
+Operator (Hilla, Amit, Eran G.)
+Consistency (Barak, Nitsan)
+
+
+
+
 
 
 
