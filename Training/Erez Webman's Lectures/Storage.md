@@ -14,3 +14,4 @@ L2P (L-to-P) (Call also R2P row to physical) -> Logical to physical
 
 > [!NOTE] 
 > Implementation of R2P is B-Tree at Regatta
+> See in confluence why we don't using a Hash Table https://rdbproject.atlassian.net/wiki/spaces/RDBRD/pages/1061814291 

@@ -4,57 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "188f22b746911155",
+        "id": "1a0fcffa7ff9b0a1",
         "type": "tabs",
         "children": [
           {
-            "id": "d010b348eabfaf8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training/Eran's Lectures/Intro notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c37e8c15ba287b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3542fc7ae7fe9b31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fdfee1d63998669",
+            "id": "ab24dcffede59e9a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Training/CMU DB/slides/04-storage2.pdf"
+                "file": "Training/CMU DB/slides/19-multiversioning.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LSA",
+                "query": "segment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -138,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md",
+                "file": "Training/CMU DB/slides/19-multiversioning.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md",
+                "file": "Training/CMU DB/slides/19-multiversioning.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Storage.md"
+                "file": "Training/CMU DB/slides/19-multiversioning.pdf"
               }
             }
           },
@@ -216,20 +178,30 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "db806e4b9ea4f2b9",
+  "active": "6ef9bde2204aa94b",
   "lastOpenFiles": [
-    "Training/CMU DB/CMU Database Systems.md",
-    "Excalidraw/Commit in Distributed Clustered.md",
+    "Training/Erez Webman's Lectures/Storage.md",
+    "Training/Erez Webman's Lectures/Consistency.md",
+    "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
+    "Wifi.md",
+    "Regatta Lunch.md",
+    "Training/Confluence Training.md",
+    "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
     "Training/Compute & Operators/Plan & Execution.md",
     "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
+    "Training/Eran's Lectures/Intro notes.md",
+    "Training/CMU DB/CMU Database Systems.md",
+    "Training/CMU DB/slides/04-storage2.pdf",
+    "Excalidraw/LSA.md",
+    "Excalidraw/Erez - Intro and block device.md",
+    "Training/Eran's Lectures/Regatta's Convention Notes.md",
+    "Daily Notes/2023-06-18.md",
+    "Excalidraw/Commit in Distributed Clustered.md",
     "Training/CMU DB/slides/24-distributedolap.pdf",
     "Training/CMU DB/slides/15-optimization2.pdf",
-    "Training/Confluence Training.md",
     "Images/Pasted image 20230629111902.png",
     "Training/Eran's Lectures/Block Diagram.md",
     "Training/Compute & Operators",
-    "Training/CMU DB/slides/04-storage2.pdf",
-    "Training/Erez Webman's Lectures/Consistency.md",
     "Images/Pasted image 20230629101323.png",
     "Images/Pasted image 20230530172935.png",
     "Training/CMU DB/slides/19-multiversioning.pdf",
@@ -237,29 +209,18 @@
     "Images/diagram_block_1.png",
     "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
     "Training/Eran's Lectures/Arena Pool.md",
-    "Excalidraw/LSA.md",
-    "Training/Eran's Lectures/Intro notes.md",
-    "Training/Eran's Lectures/Regatta's Convention Notes.md",
-    "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
-    "Daily Notes/2023-06-18.md",
     "Daily Notes/2023-06-26.md",
     "Daily Notes/2023-06-19.md",
     "Training/Eran's Lectures/Co-routine (GPT).md",
     "Untitled.md",
     "Daily Notes",
-    "Wifi.md",
-    "Regatta Lunch.md",
     "Training/Eran's Lectures/SetJmp() and LongJmp().md",
     "Excalidraw/False Sharing.md",
     "Images/Pasted image 20230625164449.png",
     "Training/Eran's Lectures",
-    "Training/Erez Webman's Lectures/Storage.md",
     "Excalidraw/Post Commit.md",
     "Excalidraw/Txn Work Cycle.md",
-    "Excalidraw/Conflict Serializable.md",
-    "Excalidraw/MVCC.md",
     "Images/Pasted image 20230620183847.png",
-    "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
     "Training/Web Research",
     "Training/Erez Webman's Lectures",
     "Images/Pasted image 20230608182009.png",
