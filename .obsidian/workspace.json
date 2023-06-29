@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md"
+                "file": "Training/Compute & Operators/Index Lookup vs. Full Scan.md"
               }
             }
           },
@@ -230,6 +229,8 @@
   },
   "active": "09ba0177835a211b",
   "lastOpenFiles": [
+    "Training/CMU DB/CMU Database Systems.md",
+    "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
     "Training/CMU DB/slides/24-distributedolap.pdf",
     "Training/CMU DB/slides/15-optimization2.pdf",
     "Training/Confluence Training.md",
@@ -262,7 +263,6 @@
     "Excalidraw/False Sharing.md",
     "Images/Pasted image 20230625164449.png",
     "Training/Eran's Lectures",
-    "Training/CMU DB/CMU Database Systems.md",
     "Training/Erez Webman's Lectures/Storage.md",
     "Excalidraw/Post Commit.md",
     "Excalidraw/Commit in Distributed Clustered.md",
@@ -273,7 +273,6 @@
     "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
     "Training/Web Research",
     "Training/Erez Webman's Lectures",
-    "Excalidraw",
     "Images/Pasted image 20230608182009.png",
     "Images/Pasted image 20230617151809.png"
   ]
