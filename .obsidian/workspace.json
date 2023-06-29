@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/Confluence Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/Confluence Training.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/Confluence Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md"
+                "file": "Training/Confluence Training.md"
               }
             }
           },
@@ -207,6 +207,7 @@
   },
   "active": "d51d897502c76561",
   "lastOpenFiles": [
+    "Training/Erez Webman's Lectures/Consistency.md",
     "Training/Eran's Lectures/Block Diagram.md",
     "Images/Pasted image 20230629101323.png",
     "Images/Pasted image 20230530172935.png",
@@ -233,7 +234,6 @@
     "Training/Confluence Training.md",
     "Training/Eran's Lectures",
     "Training/CMU DB/CMU Database Systems.md",
-    "Training/Erez Webman's Lectures/Consistency.md",
     "Training/Erez Webman's Lectures/Storage.md",
     "Excalidraw/Post Commit.md",
     "Excalidraw/Commit in Distributed Clustered.md",
