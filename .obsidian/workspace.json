@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20230530172935.png",
+                "file": "Training/Eran's Lectures/Block Diagram.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20230530172935.png",
+                "file": "Training/Eran's Lectures/Block Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20230530172935.png"
+                "file": "Training/Eran's Lectures/Block Diagram.md"
               }
             }
           },
@@ -236,8 +236,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "06b69c0f3903ba46",
+  "active": "d51d897502c76561",
   "lastOpenFiles": [
+    "Images/Pasted image 20230629101323.png",
+    "Images/Pasted image 20230530172935.png",
     "Training/CMU DB/slides/19-multiversioning.pdf",
     "Images/Pasted image 20230608173744.png",
     "Training/Eran's Lectures/Block Diagram.md",
@@ -278,11 +280,9 @@
     "Training/CMU DB/slides/01-introduction.pdf",
     "Training/08-trees2.pdf",
     "Training/CMU DB/slides/26-potpourri.pdf",
-    "Training/CMU DB/slides/25-oracle.pdf",
     "Images/Pasted image 20230608182009.png",
     "Images/Pasted image 20230617151809.png",
     "Images/Pasted image 20230616175934.png",
-    "Images/Pasted image 20230616175801.png",
-    "Images/Pasted image 20230616175556.png"
+    "Images/Pasted image 20230616175801.png"
   ]
 }
