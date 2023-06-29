@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Eran's Lectures/Block Diagram.md",
+                "file": "Training/Erez Webman's Lectures/Storage.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Eran's Lectures/Block Diagram.md",
+                "file": "Training/Erez Webman's Lectures/Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Eran's Lectures/Block Diagram.md"
+                "file": "Training/Erez Webman's Lectures/Storage.md"
               }
             }
           },
@@ -204,11 +203,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dc8bb95476a1d62c",
+  "active": "bd3a50a7d944a5be",
   "lastOpenFiles": [
+    "Training/CMU DB/slides/04-storage2.pdf",
     "Training/Erez Webman's Lectures/Storage.md",
     "Training/Eran's Lectures/Block Diagram.md",
-    "Training/CMU DB/slides/04-storage2.pdf",
     "Training/Compute & Operators/Plan & Execution.md",
     "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
     "Training/Erez Webman's Lectures/Consistency.md",

@@ -17,6 +17,10 @@ L2P (L-to-P) (Call also R2P row to physical) -> Logical to physical
 > See in confluence why we don't using a Hash Table https://rdbproject.atlassian.net/wiki/spaces/RDBRD/pages/1061814291 
 
 
+> [!NOTE] Sort R2P input
+> Entries are sorted in the R2P (B-Tree), R2P input need to be sorted
+
+
 > [!NOTE] Segment
 > R2P is per segment at Regatta
 > Each segment as is own R2P and LSA
