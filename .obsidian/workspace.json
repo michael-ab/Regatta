@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-29 18.07.49.excalidraw.md"
+                "file": "Excalidraw/Regatta Nodes.md"
               }
             }
           },
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-29 18.07.49.excalidraw.md",
+                "file": "Training/Eran's Lectures/Eran Flow Face2Face.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-29 18.07.49.excalidraw.md",
+                "file": "Training/Eran's Lectures/Eran Flow Face2Face.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-29 18.07.49.excalidraw.md"
+                "file": "Training/Eran's Lectures/Eran Flow Face2Face.md"
               }
             }
           },
@@ -203,14 +202,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "82c0d13cfbfa8fd0",
+  "active": "bd3a50a7d944a5be",
   "lastOpenFiles": [
+    "Training/Eran's Lectures/Block Diagram.md",
     "Training/Eran's Lectures/Eran Flow Face2Face.md",
-    "Excalidraw/Drawing 2023-06-29 18.07.49.excalidraw.md",
+    "Excalidraw/Regatta Nodes.md",
     "Training/CMU DB/slides/04-storage2.pdf",
     "Images/Pasted image 20230629180714.png",
     "Training/Erez Webman's Lectures/Storage.md",
-    "Training/Eran's Lectures/Block Diagram.md",
     "Training/Compute & Operators/Plan & Execution.md",
     "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
     "Training/Erez Webman's Lectures/Consistency.md",

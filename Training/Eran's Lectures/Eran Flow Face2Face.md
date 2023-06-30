@@ -10,6 +10,7 @@ Only 1 in the system:
 2. GDB (Global Deadlock Detector)
 3. SPM/DCM
 
+![[Regatta Nodes]]
 Client  N <-> N Cluster
 Drivers on top of client
 
