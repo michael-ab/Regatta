@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1cef8ef2671f831e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Training/Web Research/DMS-HS20-Transactions_CCR.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -86,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 427.5
   },
   "right": {
     "id": "0e6de43b8ef65008",
@@ -103,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md"
+                "file": "Training/Web Research/DMS-HS20-Transactions_CCR.pdf"
               }
             }
           },
@@ -182,10 +192,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dc8bb95476a1d62c",
+  "active": "6ef9bde2204aa94b",
   "lastOpenFiles": [
-    "Training/CMU DB/CMU Database Systems.md",
     "Training/Erez Webman's Lectures/Consistency.md",
+    "Training/CMU DB/slides/18-timestampordering.pdf",
+    "Images/Pasted image 20230604232443.png",
+    "Training/CMU DB/CMU Database Systems.md",
     "Training/Trace & Logs.md",
     "Daily Notes/2023-07-02.md",
     "Training/Eran's Lectures/Eran System Flow Face2Face.md",
@@ -223,12 +235,9 @@
     "Training/Eran's Lectures/Co-routine (GPT).md",
     "Untitled.md",
     "Daily Notes",
-    "Training/Eran's Lectures/SetJmp() and LongJmp().md",
     "Images/Pasted image 20230625164449.png",
     "Training/Eran's Lectures",
     "Images/Pasted image 20230620183847.png",
-    "Training/Web Research",
-    "Training/Erez Webman's Lectures",
-    "Images/Pasted image 20230608182009.png"
+    "Training/Web Research"
   ]
 }
