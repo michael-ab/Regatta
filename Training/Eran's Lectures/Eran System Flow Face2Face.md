@@ -1,6 +1,6 @@
 Several sort of queries:
-1. DDL (Data Definition Language) -> 
-2. DML (Data Manipulation Language) -> INSERT, SELECT, UPDATE, and DELETE commands
+1. DDL (Data Definition Language)
+2. DML (Data Manipulation Language)
 3. DQL
 4. (SHOW)
 ![[Pasted image 20230629180714.png]]

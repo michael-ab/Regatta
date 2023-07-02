@@ -20,28 +20,19 @@
             }
           },
           {
-            "id": "82c0d13cfbfa8fd0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Regatta Nodes.md"
-              }
-            }
-          },
-          {
             "id": "dc8bb95476a1d62c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Eran's Lectures/Block Diagram.md",
+                "file": "Training/Eran's Lectures/Eran System Flow Face2Face.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/Eran's Lectures/Eran System Flow Face2Face.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/Eran's Lectures/Eran System Flow Face2Face.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Confluence Training.md"
+                "file": "Training/Eran's Lectures/Eran System Flow Face2Face.md"
               }
             }
           },
@@ -202,11 +193,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bd3a50a7d944a5be",
+  "active": "dc8bb95476a1d62c",
   "lastOpenFiles": [
-    "Training/Eran's Lectures/Eran Flow Face2Face.md",
     "Training/Eran's Lectures/Block Diagram.md",
+    "Training/Confluence Training.md",
     "Excalidraw/Regatta Nodes.md",
+    "Training/Eran's Lectures/Eran System Flow Face2Face.md",
     "Training/CMU DB/slides/04-storage2.pdf",
     "Images/Pasted image 20230629180714.png",
     "Training/Erez Webman's Lectures/Storage.md",
@@ -217,7 +209,6 @@
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
     "Wifi.md",
     "Regatta Lunch.md",
-    "Training/Confluence Training.md",
     "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
     "Training/Eran's Lectures/Intro notes.md",
     "Training/CMU DB/CMU Database Systems.md",
