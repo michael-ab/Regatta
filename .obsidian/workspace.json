@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/Erez Webman's Lectures/Consistency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md"
+                "file": "Training/Erez Webman's Lectures/Consistency.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "dc8bb95476a1d62c",
   "lastOpenFiles": [
-    "Training/Erez Webman's Lectures/Consistency.md",
     "Training/CMU DB/CMU Database Systems.md",
+    "Training/Erez Webman's Lectures/Consistency.md",
     "Training/Trace & Logs.md",
     "Daily Notes/2023-07-02.md",
     "Training/Eran's Lectures/Eran System Flow Face2Face.md",
