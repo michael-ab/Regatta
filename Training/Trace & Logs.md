@@ -1,4 +1,6 @@
 
+### Confluence Page
+[https://rdbproject.atlassian.net/wiki/spaces/RDBRD/pages/873136162/Traces+How+To](https://rdbproject.atlassian.net/wiki/spaces/RDBRD/pages/873136162/Traces+How+To)
 ### Build all:
 ./rebuild.sh gcc Debug
 
