@@ -26,7 +26,7 @@ client agents chose a Transaction manager in one of the node
 **RDB**                                                                                                                                          **DCM**
 NORTH                                                                                                                        DCM / SMM / SAM
 Client Agents                                                                                     
-Transaction Manager
+Transaction Manager (TxMgr)
 Statement Processor
 Parser
 Builder DCA (DDL and show stop here to the DCM)
