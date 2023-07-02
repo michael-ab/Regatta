@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Training/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Confluence Training.md"
+                "file": "Training/Untitled.md"
               }
             }
           },
@@ -194,9 +194,10 @@
   },
   "active": "bd3a50a7d944a5be",
   "lastOpenFiles": [
+    "Training/Confluence Training.md",
+    "Training/Untitled.md",
     "Training/Eran's Lectures/Eran System Flow Face2Face.md",
     "Training/Eran's Lectures/Block Diagram.md",
-    "Training/Confluence Training.md",
     "Excalidraw/Regatta Nodes.md",
     "Training/CMU DB/slides/04-storage2.pdf",
     "Images/Pasted image 20230629180714.png",
