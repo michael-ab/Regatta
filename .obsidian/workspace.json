@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd3a50a7d944a5be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dc8bb95476a1d62c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Eran's Lectures/Eran System Flow Face2Face.md",
+                "file": "Daily Notes/2023-07-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +94,7 @@
       {
         "id": "ba96b3a4d9624fe4",
         "type": "tabs",
-        "dimension": 35.09615384615385,
+        "dimension": 54.25,
         "children": [
           {
             "id": "e4441df6de92dae8",
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Untitled.md",
+                "file": "Daily Notes/2023-07-02.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Untitled.md",
+                "file": "Daily Notes/2023-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Untitled.md"
+                "file": "Daily Notes/2023-07-02.md"
               }
             }
           },
@@ -161,7 +149,7 @@
       {
         "id": "567e0bb3f1e1aacb",
         "type": "tabs",
-        "dimension": 64.90384615384616,
+        "dimension": 45.75,
         "children": [
           {
             "id": "357b8d2113de26e6",
@@ -178,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,11 +181,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bd3a50a7d944a5be",
+  "active": "dc8bb95476a1d62c",
   "lastOpenFiles": [
-    "Training/Confluence Training.md",
     "Training/Untitled.md",
+    "Daily Notes/2023-07-02.md",
     "Training/Eran's Lectures/Eran System Flow Face2Face.md",
+    "Training/Confluence Training.md",
     "Training/Eran's Lectures/Block Diagram.md",
     "Excalidraw/Regatta Nodes.md",
     "Training/CMU DB/slides/04-storage2.pdf",
@@ -233,7 +223,6 @@
     "Untitled.md",
     "Daily Notes",
     "Training/Eran's Lectures/SetJmp() and LongJmp().md",
-    "Excalidraw/False Sharing.md",
     "Images/Pasted image 20230625164449.png",
     "Training/Eran's Lectures",
     "Images/Pasted image 20230620183847.png",
