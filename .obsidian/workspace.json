@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "13e067b751351997",
+        "id": "9e4b4da74ec64cde",
         "type": "tabs",
         "children": [
           {
-            "id": "dc8bb95476a1d62c",
+            "id": "f4fa30dfc87e38a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Erez Webman's Lectures/Consistency.md",
+                "file": "Training/Eran's Lectures/Eran System Flow Face2Face.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1cef8ef2671f831e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Training/Web Research/DMS-HS20-Transactions_CCR.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
+                "file": "Training/Eran's Lectures/Eran System Flow Face2Face.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
+                "file": "Training/Eran's Lectures/Eran System Flow Face2Face.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Web Research/DMS-HS20-Transactions_CCR.pdf"
+                "file": "Training/Eran's Lectures/Eran System Flow Face2Face.md"
               }
             }
           },
@@ -192,8 +181,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6ef9bde2204aa94b",
+  "active": "f4fa30dfc87e38a3",
   "lastOpenFiles": [
+    "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
     "Training/Erez Webman's Lectures/Consistency.md",
     "Training/CMU DB/slides/18-timestampordering.pdf",
     "Images/Pasted image 20230604232443.png",
@@ -213,7 +203,6 @@
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
     "Wifi.md",
     "Regatta Lunch.md",
-    "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
     "Training/Eran's Lectures/Intro notes.md",
     "Excalidraw/LSA.md",
     "Excalidraw/Erez - Intro and block device.md",
