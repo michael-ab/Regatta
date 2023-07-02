@@ -23,9 +23,9 @@ client agents is on RDB
 client agents chose a Transaction manager in one of the node
 
 
-RDB                                                                                DCM
-NORTH
-Client Agents                                                  DCM / SMM / SAM
+**RDB**                                                                                                                                          **DCM**
+NORTH                                                                                                                        DCM / SMM / SAM
+Client Agents                                                                                     
 Transaction Manager
 Statement Processor
 Parser
