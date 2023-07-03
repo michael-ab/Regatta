@@ -96,7 +96,6 @@ while (pRequest->getStatus() == regatta_api::Request::Status::kPending){
 }
 if (pRequest->getStatus() == regatta_api::Request::Status::kDone)
      pRequest->getConnection(&pConn);
-
 ```
 
 ## Callback example:
@@ -128,7 +127,6 @@ void connect(void* context)
         // failed to start
     }
 }
-
 ```
 
 ## Execute example:
@@ -163,5 +161,23 @@ if (pReq->getStatus() != regatta_api::Request::Status::kCompleted) {
         pReq->hasMoreResultSets(&not_done);
     }
 }
-
 ```
+
+### F2F Eran
+
+2 connections types:
+1. Asynchrony
+2. Synchrony (serial connection)
+
+We can choose different permission per:
+1. connection
+2. Transaction
+3. Batch
+
+In this context:
+```
+connection == session
+```
+
+In the end of a transaction we can **commit** or **rollback**
+
