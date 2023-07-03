@@ -11,9 +11,11 @@
             "id": "f37c9832b7f3f94d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MobaXterm/3_TransferFilesMobaXtermWINDOWS.pdf"
+                "file": "Regatta Lunch.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MobaXterm/3_TransferFilesMobaXtermWINDOWS.pdf",
+                "file": "Regatta Lunch.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MobaXterm/3_TransferFilesMobaXtermWINDOWS.pdf",
+                "file": "Regatta Lunch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MobaXterm/3_TransferFilesMobaXtermWINDOWS.pdf"
+                "file": "Regatta Lunch.md"
               }
             }
           },
@@ -181,8 +183,8 @@
   },
   "active": "f37c9832b7f3f94d",
   "lastOpenFiles": [
-    "Training/Eran's Lectures/Regatta Client API.md",
     "MobaXterm/3_TransferFilesMobaXtermWINDOWS.pdf",
+    "Training/Eran's Lectures/Regatta Client API.md",
     "MobaX/Unconfirmed 593909.crdownload",
     "MobaXterm",
     "Training/Eran's Lectures/Untitled Diagram.svg",
