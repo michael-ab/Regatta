@@ -181,3 +181,13 @@ connection == session
 
 In the end of a transaction we can **commit** or **rollback**
 
+Serial Connection: 1 operation at the time
+- JDBC/OBDC -> Only one statement at the time
+
+In serial connection we can close connection when a transaction is running using another thread
+![[Training/Eran's Lectures/Untitled Diagram.svg]]
+
+SQLType -> for the return type
+
+Yoav, Ariel K. -> Client 
+Yana -> Serial Connection
