@@ -16,13 +16,18 @@ The Regatta API incorporates connection caching, eliminating the need for user-l
 
 Result cursors in the database allow applications to retrieve and process the rows of a result set one by one, rather than all at once, which can be more efficient in terms of memory usage and network bandwidth. The Regatta API only supports client-side cursors and forward cursors. All rows are pushed to the client machine, and consumed rows are discarded.
 
+
+> [!NOTE] ChatGPT What is a result cursor?
+>   
+A result cursor, in the context of databases, is a pointer or iterator-like object that allows you to traverse the results of a database query. It provides a way to retrieve and access individual rows or records returned by the query.
+
 ## Signal Handling
 
-When executing regatta threads, the program alters the default operating system signal handling to that of regatta, which includes signals like SIGSEGV, SIGINT, SIGTERM, SIGFPE, SIGBUS, SIGILL, and SIGQUIT. Users have the option to choose whether to retain their thread's default signal handling or allow regatta to switch to its signal handling within the client options.
+When executing Regatta threads, the program alters the default operating system signal handling to that of Regatta, which includes signals like SIGSEGV, SIGINT, SIGTERM, SIGFPE, SIGBUS, SIGILL, and SIGQUIT. Users have the option to choose whether to retain their thread's default signal handling or allow Regatta to switch to its signal handling within the client options.
 
 ## Tracer
 
-The tracer in regatta records sequences of events or steps during database execution, providing log messages with information such as timestamp, source location, log level, and contextual data. Traces help developers and system administrators gain insights into program execution, identify potential issues, and analyze performance bottlenecks.
+The tracer in Regatta records sequences of events or steps during database execution, providing log messages with information such as timestamp, source location, log level, and contextual data. Traces help developers and system administrators gain insights into program execution, identify potential issues, and analyze performance bottlenecks.
 
 ## Usage
 
