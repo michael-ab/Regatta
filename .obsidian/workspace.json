@@ -11,11 +11,9 @@
             "id": "f37c9832b7f3f94d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Training/Eran's Lectures/Regatta Client API.md",
-                "mode": "source",
-                "source": false
+                "file": "MobaXterm/3_TransferFilesMobaXtermWINDOWS.pdf"
               }
             }
           }
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Eran's Lectures/Regatta Client API.md",
+                "file": "MobaXterm/3_TransferFilesMobaXtermWINDOWS.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Eran's Lectures/Regatta Client API.md",
+                "file": "MobaXterm/3_TransferFilesMobaXtermWINDOWS.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Eran's Lectures/Regatta Client API.md"
+                "file": "MobaXterm/3_TransferFilesMobaXtermWINDOWS.pdf"
               }
             }
           },
@@ -184,6 +182,9 @@
   "active": "f37c9832b7f3f94d",
   "lastOpenFiles": [
     "Training/Eran's Lectures/Regatta Client API.md",
+    "MobaXterm/3_TransferFilesMobaXtermWINDOWS.pdf",
+    "MobaX/Unconfirmed 593909.crdownload",
+    "MobaXterm",
     "Training/Eran's Lectures/Untitled Diagram.svg",
     "Training/Eran's Lectures/Untitled.md",
     "Training/Eran's Lectures/Eran System Flow Face2Face.md",
@@ -224,9 +225,6 @@
     "Training/Eran's Lectures/Arena Pool.md",
     "Daily Notes/2023-06-26.md",
     "Daily Notes/2023-06-19.md",
-    "Daily Notes",
-    "Images/Pasted image 20230625164449.png",
-    "Training/Eran's Lectures",
-    "Training/Web Research"
+    "Images/Pasted image 20230625164449.png"
   ]
 }
