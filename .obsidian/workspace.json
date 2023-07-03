@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Eran's Lectures/Eran System Flow Face2Face.md",
+                "file": "Training/Eran's Lectures/Regatta Client API Prolog.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Eran's Lectures/Eran System Flow Face2Face.md",
+                "file": "Training/Eran's Lectures/Regatta Client API Prolog.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Eran's Lectures/Eran System Flow Face2Face.md",
+                "file": "Training/Eran's Lectures/Regatta Client API Prolog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Eran's Lectures/Eran System Flow Face2Face.md"
+                "file": "Training/Eran's Lectures/Regatta Client API Prolog.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "f4fa30dfc87e38a3",
   "lastOpenFiles": [
-    "Training/CMU DB/CMU Database Systems.md",
     "Training/Eran's Lectures/Eran System Flow Face2Face.md",
+    "Training/Eran's Lectures/Regatta Client API Prolog.md",
+    "Training/CMU DB/CMU Database Systems.md",
     "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
     "Training/Erez Webman's Lectures/Consistency.md",
     "Training/CMU DB/slides/18-timestampordering.pdf",
