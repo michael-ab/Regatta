@@ -17,6 +17,5 @@ postgres=# select current_schema();
 ```
 2. The current schema is public:
 ```java
-private final String url = "jdbc:postgresql://localhost/michael" +
-            "?currentSchema=public";
+private final String url = "jdbc:postgresql://localhost/michael" + "?currentSchema=public";
 ```
