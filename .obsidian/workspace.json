@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Training/CMU DB/slides/03-storage1.pdf"
+                "file": "JAVA/761. Learning Java An Introduction to Real-World Programming with Java, 5th Edition.pdf"
               }
             }
           }
@@ -64,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/CMU DB/slides/03-storage1.pdf",
+                "file": "JAVA/761. Learning Java An Introduction to Real-World Programming with Java, 5th Edition.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/CMU DB/slides/03-storage1.pdf",
+                "file": "JAVA/761. Learning Java An Introduction to Real-World Programming with Java, 5th Edition.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/CMU DB/slides/03-storage1.pdf"
+                "file": "JAVA/761. Learning Java An Introduction to Real-World Programming with Java, 5th Edition.pdf"
               }
             }
           },
@@ -181,6 +180,12 @@
   },
   "active": "f37c9832b7f3f94d",
   "lastOpenFiles": [
+    "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf",
+    "JAVA/761. Learning Java An Introduction to Real-World Programming with Java, 5th Edition.pdf",
+    "Wifi.md",
+    "JAVA",
+    "Training/CMU DB/slides/03-storage1.pdf",
+    "Training/Untitled",
     "Training/CMU DB/CMU Database Systems.md",
     "Daily Notes/2023-07-05.md",
     "Training/PostgreSQL Notes.md",
@@ -201,31 +206,24 @@
     "Training/Confluence Training.md",
     "Training/Eran's Lectures/Block Diagram.md",
     "Excalidraw/Regatta Nodes.md",
-    "Training/CMU DB/slides/04-storage2.pdf",
     "Images/Pasted image 20230629180714.png",
     "Training/Erez Webman's Lectures/Storage.md",
     "Training/Compute & Operators/Plan & Execution.md",
     "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
-    "Training/CMU DB/slides/19-multiversioning.pdf",
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
-    "Wifi.md",
     "Training/Eran's Lectures/Intro notes.md",
     "Excalidraw/LSA.md",
     "Excalidraw/Erez - Intro and block device.md",
     "Training/Eran's Lectures/Regatta's Convention Notes.md",
     "Daily Notes/2023-06-18.md",
     "Excalidraw/Commit in Distributed Clustered.md",
-    "Training/CMU DB/slides/24-distributedolap.pdf",
-    "Training/CMU DB/slides/15-optimization2.pdf",
     "Images/Pasted image 20230629111902.png",
-    "Training/Compute & Operators",
     "Images/Pasted image 20230629101323.png",
     "Images/Pasted image 20230530172935.png",
     "Images/Pasted image 20230608173744.png",
     "Images/diagram_block_1.png",
     "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
     "Training/Eran's Lectures/Arena Pool.md",
-    "Daily Notes/2023-06-26.md",
     "Images/Pasted image 20230625164449.png"
   ]
 }
