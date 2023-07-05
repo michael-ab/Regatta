@@ -11,11 +11,9 @@
             "id": "f37c9832b7f3f94d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
-                "mode": "source",
-                "source": false
+                "file": "Training/CMU DB/slides/03-storage1.pdf"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/CMU DB/slides/03-storage1.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md",
+                "file": "Training/CMU DB/slides/03-storage1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/CMU DB/CMU Database Systems.md"
+                "file": "Training/CMU DB/slides/03-storage1.pdf"
               }
             }
           },
@@ -183,6 +181,7 @@
   },
   "active": "f37c9832b7f3f94d",
   "lastOpenFiles": [
+    "Training/CMU DB/CMU Database Systems.md",
     "Daily Notes/2023-07-05.md",
     "Training/PostgreSQL Notes.md",
     "Regatta Lunch.md",
@@ -193,7 +192,6 @@
     "Training/Eran's Lectures/Untitled Diagram.svg",
     "Training/Eran's Lectures/Untitled.md",
     "Training/Eran's Lectures/Eran System Flow Face2Face.md",
-    "Training/CMU DB/CMU Database Systems.md",
     "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
     "Training/Erez Webman's Lectures/Consistency.md",
     "Training/CMU DB/slides/18-timestampordering.pdf",
