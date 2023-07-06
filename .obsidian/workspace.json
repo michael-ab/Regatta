@@ -35,9 +35,11 @@
             "id": "c80853193e0c24c7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf"
+                "file": "Daily Notes/2023-07-06.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf",
+                "file": "Daily Notes/2023-07-06.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf",
+                "file": "Daily Notes/2023-07-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf"
+                "file": "Daily Notes/2023-07-06.md"
               }
             }
           },
@@ -205,8 +207,9 @@
   },
   "active": "c80853193e0c24c7",
   "lastOpenFiles": [
-    "Wifi.md",
     "JAVA/OOP_Java_Lectures.pdf",
+    "Daily Notes/2023-07-06.md",
+    "Wifi.md",
     "Training/Confluence Training.md",
     "Commands.md",
     "Daily Notes/2023-07-05.md",
@@ -243,7 +246,6 @@
     "Excalidraw/Erez - Intro and block device.md",
     "Training/Eran's Lectures/Regatta's Convention Notes.md",
     "Daily Notes/2023-06-18.md",
-    "Excalidraw/Commit in Distributed Clustered.md",
     "Images/Pasted image 20230629111902.png",
     "Images/Pasted image 20230629101323.png",
     "Images/Pasted image 20230530172935.png",
