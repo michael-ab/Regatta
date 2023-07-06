@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf"
+                "file": "JAVA/OOP_Java_Lectures.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 359.5
   },
   "right": {
     "id": "0e6de43b8ef65008",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf",
+                "file": "JAVA/OOP_Java_Lectures.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf",
+                "file": "JAVA/OOP_Java_Lectures.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf"
+                "file": "JAVA/OOP_Java_Lectures.pdf"
               }
             }
           },
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,9 +180,10 @@
   },
   "active": "f37c9832b7f3f94d",
   "lastOpenFiles": [
+    "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf",
+    "JAVA/OOP_Java_Lectures.pdf",
     "JAVA/OOP_Java_Exercices.pdf",
     "JAVA/761. Learning Java An Introduction to Real-World Programming with Java, 5th Edition.pdf",
-    "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf",
     "Wifi.md",
     "JAVA",
     "Training/CMU DB/slides/03-storage1.pdf",
@@ -200,7 +201,6 @@
     "Training/Eran's Lectures/Eran System Flow Face2Face.md",
     "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
     "Training/Erez Webman's Lectures/Consistency.md",
-    "Training/CMU DB/slides/18-timestampordering.pdf",
     "Images/Pasted image 20230604232443.png",
     "Training/Trace & Logs.md",
     "Daily Notes/2023-07-02.md",
