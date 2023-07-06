@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commands.md",
+                "file": "Training/Confluence Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commands.md",
+                "file": "JAVA/OOP_Java_Lectures.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commands.md",
+                "file": "JAVA/OOP_Java_Lectures.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commands.md"
+                "file": "JAVA/OOP_Java_Lectures.pdf"
               }
             }
           },
@@ -203,12 +203,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "211da30258a80068",
+  "active": "c80853193e0c24c7",
   "lastOpenFiles": [
     "Wifi.md",
+    "JAVA/OOP_Java_Lectures.pdf",
+    "Training/Confluence Training.md",
     "Commands.md",
     "Daily Notes/2023-07-05.md",
-    "JAVA/OOP_Java_Lectures.pdf",
     "Training/PDBG.md",
     "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf",
     "JAVA/OOP_Java_Exercices.pdf",
@@ -230,7 +231,6 @@
     "Images/Pasted image 20230604232443.png",
     "Training/Trace & Logs.md",
     "Daily Notes/2023-07-02.md",
-    "Training/Confluence Training.md",
     "Training/Eran's Lectures/Block Diagram.md",
     "Excalidraw/Regatta Nodes.md",
     "Images/Pasted image 20230629180714.png",
@@ -249,7 +249,6 @@
     "Images/Pasted image 20230530172935.png",
     "Images/Pasted image 20230608173744.png",
     "Images/diagram_block_1.png",
-    "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
     "Images/Pasted image 20230625164449.png"
   ]
 }
