@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-07-05.md",
+                "file": "Wifi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "211da30258a80068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf",
+                "file": "Commands.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf",
+                "file": "Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf"
+                "file": "Commands.md"
               }
             }
           },
@@ -191,15 +203,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c80853193e0c24c7",
+  "active": "211da30258a80068",
   "lastOpenFiles": [
+    "Wifi.md",
+    "Commands.md",
     "Daily Notes/2023-07-05.md",
-    "Training/PDBG.md",
     "JAVA/OOP_Java_Lectures.pdf",
+    "Training/PDBG.md",
     "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf",
     "JAVA/OOP_Java_Exercices.pdf",
     "JAVA/761. Learning Java An Introduction to Real-World Programming with Java, 5th Edition.pdf",
-    "Wifi.md",
     "JAVA",
     "Training/CMU DB/slides/03-storage1.pdf",
     "Training/Untitled",
