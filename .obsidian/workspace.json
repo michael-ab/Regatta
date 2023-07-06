@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c80853193e0c24c7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "JAVA/OOP_Java_Lectures.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-07-05.md",
+                "file": "JAVA/OOP_Java_Lectures.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-07-05.md",
+                "file": "JAVA/OOP_Java_Lectures.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-07-05.md"
+                "file": "JAVA/OOP_Java_Lectures.pdf"
               }
             }
           },
@@ -180,8 +191,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f37c9832b7f3f94d",
+  "active": "c80853193e0c24c7",
   "lastOpenFiles": [
+    "Daily Notes/2023-07-05.md",
     "Training/PDBG.md",
     "JAVA/OOP_Java_Lectures.pdf",
     "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf",
@@ -192,7 +204,6 @@
     "Training/CMU DB/slides/03-storage1.pdf",
     "Training/Untitled",
     "Training/CMU DB/CMU Database Systems.md",
-    "Daily Notes/2023-07-05.md",
     "Training/PostgreSQL Notes.md",
     "Regatta Lunch.md",
     "MobaXterm/3_TransferFilesMobaXtermWINDOWS.pdf",
