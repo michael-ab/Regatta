@@ -11,9 +11,11 @@
             "id": "f37c9832b7f3f94d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf"
+                "file": "Training/PDBG.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf",
+                "file": "Training/PDBG.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf",
+                "file": "Training/PDBG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf"
+                "file": "Training/PDBG.md"
               }
             }
           },
@@ -180,8 +182,9 @@
   },
   "active": "f37c9832b7f3f94d",
   "lastOpenFiles": [
-    "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf",
     "JAVA/OOP_Java_Lectures.pdf",
+    "Training/PDBG.md",
+    "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf",
     "JAVA/OOP_Java_Exercices.pdf",
     "JAVA/761. Learning Java An Introduction to Real-World Programming with Java, 5th Edition.pdf",
     "Wifi.md",
@@ -199,7 +202,6 @@
     "Training/Eran's Lectures/Untitled Diagram.svg",
     "Training/Eran's Lectures/Untitled.md",
     "Training/Eran's Lectures/Eran System Flow Face2Face.md",
-    "Training/Web Research/DMS-HS20-Transactions_CCR.pdf",
     "Training/Erez Webman's Lectures/Consistency.md",
     "Images/Pasted image 20230604232443.png",
     "Training/Trace & Logs.md",
@@ -224,7 +226,6 @@
     "Images/Pasted image 20230608173744.png",
     "Images/diagram_block_1.png",
     "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
-    "Training/Eran's Lectures/Arena Pool.md",
     "Images/Pasted image 20230625164449.png"
   ]
 }
