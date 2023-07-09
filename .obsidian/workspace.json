@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md"
+                "file": "Excalidraw/Serial Connection Diagram Flow.md"
               }
             }
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
+                "file": "Excalidraw/Serial Connection Diagram Flow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
+                "file": "Excalidraw/Serial Connection Diagram Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md"
+                "file": "Excalidraw/Serial Connection Diagram Flow.md"
               }
             }
           },
@@ -183,7 +183,7 @@
   "lastOpenFiles": [
     "Wifi.md",
     "Commands.md",
-    "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
+    "Excalidraw/Serial Connection Diagram Flow.md",
     "Excalidraw/Conflict Serializable.md",
     "Excalidraw/Erez - Intro and block device.md",
     "Daily Notes/2023-07-09.md",
