@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-07-09.md",
+                "file": "Training/Confluence Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-07-09.md",
+                "file": "Training/Confluence Training.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-07-09.md",
+                "file": "Training/Confluence Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-07-09.md"
+                "file": "Training/Confluence Training.md"
               }
             }
           },
@@ -217,12 +217,12 @@
   },
   "active": "c80853193e0c24c7",
   "lastOpenFiles": [
+    "Daily Notes/2023-07-09.md",
     "JAVA/JDBC.md",
     "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
     "Commands.md",
     "Wifi.md",
     "Training/Confluence Training.md",
-    "Daily Notes/2023-07-09.md",
     "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
     "Daily Notes/2023-07-06.md",
     "JAVA/OOP_Java_Lectures.pdf",
