@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-07-09.md",
+                "file": "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-07-09.md",
+                "file": "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-07-09.md"
+                "file": "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md"
               }
             }
           },
@@ -216,10 +216,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c80853193e0c24c7",
+  "active": "4ab6311840422a5e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
     "Daily Notes/2023-07-09.md",
+    "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
     "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
     "Daily Notes/2023-07-06.md",
     "JAVA/OOP_Java_Lectures.pdf",
