@@ -8,43 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f37c9832b7f3f94d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wifi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "211da30258a80068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c80853193e0c24c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-07-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ab6311840422a5e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -53,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-07-09.md",
+                "file": "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-07-09.md",
+                "file": "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-07-09.md"
+                "file": "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md"
               }
             }
           },
@@ -212,17 +175,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "c80853193e0c24c7",
   "lastOpenFiles": [
-    "Training/Confluence Training.md",
-    "Daily Notes/2023-07-09.md",
-    "JAVA/JDBC.md",
-    "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
-    "Commands.md",
     "Wifi.md",
+    "Commands.md",
+    "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
+    "Excalidraw/Conflict Serializable.md",
+    "Excalidraw/Erez - Intro and block device.md",
+    "Daily Notes/2023-07-09.md",
+    "Excalidraw/False Sharing.md",
+    "Training/Confluence Training.md",
+    "JAVA/JDBC.md",
     "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
     "Daily Notes/2023-07-06.md",
     "JAVA/OOP_Java_Lectures.pdf",
@@ -253,10 +220,7 @@
     "Images/Pasted image 20230629180714.png",
     "Training/Erez Webman's Lectures/Storage.md",
     "Training/Compute & Operators/Plan & Execution.md",
-    "Training/Compute & Operators/Index Lookup vs. Full Scan.md",
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
-    "Training/Eran's Lectures/Intro notes.md",
-    "Excalidraw/LSA.md",
     "Images/Pasted image 20230629111902.png",
     "Images/Pasted image 20230629101323.png",
     "Images/Pasted image 20230530172935.png",
