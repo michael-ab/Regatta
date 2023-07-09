@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -215,16 +215,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6ef9bde2204aa94b",
+  "active": "c80853193e0c24c7",
   "lastOpenFiles": [
-    "Training/Confluence Training.md",
+    "JAVA/JDBC.md",
     "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
+    "Commands.md",
+    "Wifi.md",
+    "Training/Confluence Training.md",
     "Daily Notes/2023-07-09.md",
     "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
     "Daily Notes/2023-07-06.md",
     "JAVA/OOP_Java_Lectures.pdf",
-    "Wifi.md",
-    "Commands.md",
     "Daily Notes/2023-07-05.md",
     "Training/PDBG.md",
     "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf",
@@ -256,7 +257,6 @@
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
     "Training/Eran's Lectures/Intro notes.md",
     "Excalidraw/LSA.md",
-    "Excalidraw/Erez - Intro and block device.md",
     "Images/Pasted image 20230629111902.png",
     "Images/Pasted image 20230629101323.png",
     "Images/Pasted image 20230530172935.png",
