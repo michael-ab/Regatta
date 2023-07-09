@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-07-09.md",
+                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "group by",
+                "query": "pimpl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-07-09.md",
+                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-07-09.md",
+                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-07-09.md"
+                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md"
               }
             }
           },
@@ -207,8 +208,8 @@
   },
   "active": "c80853193e0c24c7",
   "lastOpenFiles": [
-    "Daily Notes/2023-07-06.md",
     "Daily Notes/2023-07-09.md",
+    "Daily Notes/2023-07-06.md",
     "JAVA/OOP_Java_Lectures.pdf",
     "Wifi.md",
     "Training/Confluence Training.md",
