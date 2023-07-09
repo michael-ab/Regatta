@@ -37,14 +37,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
+                "file": "Daily Notes/2023-07-09.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ab6311840422a5e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
+                "file": "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
+                "file": "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md"
+                "file": "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md"
               }
             }
           },
@@ -206,9 +216,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c80853193e0c24c7",
+  "active": "4ab6311840422a5e",
   "lastOpenFiles": [
     "Daily Notes/2023-07-09.md",
+    "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
+    "Excalidraw/Drawing 2023-07-09 10.50.16.excalidraw.md",
     "Daily Notes/2023-07-06.md",
     "JAVA/OOP_Java_Lectures.pdf",
     "Wifi.md",
@@ -246,8 +258,6 @@
     "Training/Eran's Lectures/Intro notes.md",
     "Excalidraw/LSA.md",
     "Excalidraw/Erez - Intro and block device.md",
-    "Training/Eran's Lectures/Regatta's Convention Notes.md",
-    "Daily Notes/2023-06-18.md",
     "Images/Pasted image 20230629111902.png",
     "Images/Pasted image 20230629101323.png",
     "Images/Pasted image 20230530172935.png",
