@@ -62,4 +62,9 @@ CheckIfClosed() throw exception if connection is closed.
 ![[JAVA/Untitled Diagram.svg]]
 We have holdability only for JDBC, not for the native client.
 
-
+#### Execute
+4 types of executes:
+1. ExecuteQuery() return resultSet
+2. Execute() return boolean. Need to call getResultSet() to get the result set.
+3. Execute() with Update count (ExecuteUpdate()). Throw exception if we send a statement with resultSet.
+4. ExecuteBatch() to execute a batch of statements. ExecuteBatch is for statement without resultSet (update, insert, delete, etc.). ExecuteBatch need to throw an exception if it contains statements which can have a resultSet but to facilitate the implementation in Regatta we don't throw exception. 

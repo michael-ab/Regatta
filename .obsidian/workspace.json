@@ -11,8 +11,12 @@
             "id": "dcbb66d5fafb524f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/JDBC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JAVA/JDBC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JAVA/JDBC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JAVA/JDBC.md"
+              }
             }
           },
           {
@@ -173,7 +181,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eda9c89bdc3a0d76",
+  "active": "dcbb66d5fafb524f",
   "lastOpenFiles": [
     "JAVA/JDBC.md",
     "Regatta Lunch.md",
