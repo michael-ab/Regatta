@@ -11,11 +11,9 @@
             "id": "dcbb66d5fafb524f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
-                "mode": "source",
-                "source": false
+                "file": "JAVA/OOP_Java_Lectures.pdf"
               }
             }
           }
@@ -66,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -103,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
+                "file": "JAVA/OOP_Java_Lectures.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
+                "file": "JAVA/OOP_Java_Lectures.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md"
+                "file": "JAVA/OOP_Java_Lectures.pdf"
               }
             }
           },
@@ -184,6 +181,7 @@
   },
   "active": "dcbb66d5fafb524f",
   "lastOpenFiles": [
+    "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
     "JAVA/JDBC.md",
     "Regatta Lunch.md",
     "JAVA/OOP_Java_Lectures.pdf",
@@ -199,7 +197,6 @@
     "Excalidraw/Erez - Intro and block device.md",
     "Excalidraw/False Sharing.md",
     "Training/Confluence Training.md",
-    "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
     "Daily Notes/2023-07-06.md",
     "Daily Notes/2023-07-05.md",
     "Training/PDBG.md",
