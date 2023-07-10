@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-07-10.md",
+                "file": "Regatta Lunch.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-07-10.md",
+                "file": "Regatta Lunch.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-07-10.md",
+                "file": "Regatta Lunch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-07-10.md"
+                "file": "Regatta Lunch.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "c80853193e0c24c7",
   "lastOpenFiles": [
-    "JAVA/OOP_Java_Lectures.pdf",
     "Daily Notes/2023-07-10.md",
+    "JAVA/OOP_Java_Lectures.pdf",
     "JAVA/JDBC.md",
     "Excalidraw/Serial Connection Diagram Flow.md",
     "Training/Trace & Logs.md",
