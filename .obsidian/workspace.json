@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/JDBC.md",
+                "file": "Training/Trace & Logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/JDBC.md",
+                "file": "Training/Trace & Logs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/JDBC.md",
+                "file": "Training/Trace & Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/JDBC.md"
+                "file": "Training/Trace & Logs.md"
               }
             }
           },
@@ -183,11 +183,11 @@
   },
   "active": "c80853193e0c24c7",
   "lastOpenFiles": [
-    "Daily Notes/2023-07-09.md",
+    "Commands.md",
     "JAVA/JDBC.md",
+    "Daily Notes/2023-07-09.md",
     "Excalidraw/Serial Connection Diagram Flow.md",
     "Wifi.md",
-    "Commands.md",
     "Excalidraw/Conflict Serializable.md",
     "Excalidraw/Erez - Intro and block device.md",
     "Excalidraw/False Sharing.md",
