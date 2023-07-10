@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6f98773dd9bc21d6",
+        "id": "f67edb37173590d1",
         "type": "tabs",
         "children": [
           {
-            "id": "f9d3022f30231602",
+            "id": "dcbb66d5fafb524f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/JDBC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42d100cf7d43c2c7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -192,14 +173,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "42d100cf7d43c2c7",
+  "active": "eda9c89bdc3a0d76",
   "lastOpenFiles": [
     "JAVA/JDBC.md",
+    "Regatta Lunch.md",
+    "JAVA/OOP_Java_Lectures.pdf",
     "JAVA/OOP_Java_Exercices.pdf",
     "JAVA/Untitled Diagram.svg",
     "Daily Notes/2023-07-10.md",
-    "Regatta Lunch.md",
-    "JAVA/OOP_Java_Lectures.pdf",
     "Excalidraw/Serial Connection Diagram Flow.md",
     "Training/Trace & Logs.md",
     "Commands.md",
