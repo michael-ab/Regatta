@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42d100cf7d43c2c7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "JAVA/OOP_Java_Lectures.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/JDBC.md",
+                "file": "JAVA/OOP_Java_Lectures.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/JDBC.md",
+                "file": "JAVA/OOP_Java_Lectures.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/JDBC.md"
+                "file": "JAVA/OOP_Java_Lectures.pdf"
               }
             }
           },
@@ -181,9 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f9d3022f30231602",
+  "active": "42d100cf7d43c2c7",
   "lastOpenFiles": [
     "JAVA/JDBC.md",
+    "JAVA/OOP_Java_Exercices.pdf",
     "JAVA/Untitled Diagram.svg",
     "Daily Notes/2023-07-10.md",
     "Regatta Lunch.md",
@@ -202,7 +214,6 @@
     "Daily Notes/2023-07-05.md",
     "Training/PDBG.md",
     "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf",
-    "JAVA/OOP_Java_Exercices.pdf",
     "JAVA/761. Learning Java An Introduction to Real-World Programming with Java, 5th Edition.pdf",
     "JAVA",
     "Training/CMU DB/slides/03-storage1.pdf",

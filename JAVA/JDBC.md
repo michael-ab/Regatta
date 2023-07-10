@@ -60,4 +60,6 @@ The return from c++ (reg_init.cc) need to be cast with reinteprete_cast to java 
 CheckIfClosed() throw exception if connection is closed.
 
 ![[JAVA/Untitled Diagram.svg]]
-We have holda
+We have holdability only for JDBC, not for the native client.
+
+
