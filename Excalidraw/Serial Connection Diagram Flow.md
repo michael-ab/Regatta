@@ -44,6 +44,9 @@ End of uncommitted execution ^vzztvkea
 
 Serial Connection Diagram Flow ^yEDrQC2y
 
+Initialize
+connection ^KdwyGpZY
+
 %%
 # Drawing
 ```json
@@ -54,8 +57,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 	"elements": [
 		{
 			"type": "ellipse",
-			"version": 138,
-			"versionNonce": 1349369378,
+			"version": 191,
+			"versionNonce": 911150014,
 			"isDeleted": false,
 			"id": "W9_dz5E95pfthvj4pgrd5",
 			"fillStyle": "solid",
@@ -64,8 +67,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -760.0000000000001,
-			"y": -714.6666666666669,
+			"x": -784.0000000000001,
+			"y": -702.6666666666669,
 			"strokeColor": "#000000",
 			"backgroundColor": "#868e96",
 			"width": 202,
@@ -97,16 +100,20 @@ Serial Connection Diagram Flow ^yEDrQC2y
 				{
 					"id": "mIx6qXJgJJww9BWKJb3UI",
 					"type": "arrow"
+				},
+				{
+					"id": "yQgsvuRlgi01lL8NQMh9g",
+					"type": "arrow"
 				}
 			],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 103,
-			"versionNonce": 1613333886,
+			"version": 155,
+			"versionNonce": 1657214754,
 			"isDeleted": false,
 			"id": "JRx3rvjW",
 			"fillStyle": "hachure",
@@ -115,8 +122,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -699.9377662841188,
-			"y": -660.724801521505,
+			"x": -723.9377662841188,
+			"y": -648.724801521505,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 82.03996276855469,
@@ -127,7 +134,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -143,8 +150,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "ellipse",
-			"version": 173,
-			"versionNonce": 893000034,
+			"version": 192,
+			"versionNonce": 1647502334,
 			"isDeleted": false,
 			"id": "2eQyJ6dEpSSBHsQRMvsLR",
 			"fillStyle": "solid",
@@ -188,14 +195,14 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					"type": "arrow"
 				}
 			],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 154,
-			"versionNonce": 473714238,
+			"version": 173,
+			"versionNonce": 970711778,
 			"isDeleted": false,
 			"id": "vmm1530p",
 			"fillStyle": "hachure",
@@ -216,7 +223,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -232,8 +239,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "ellipse",
-			"version": 246,
-			"versionNonce": 254098594,
+			"version": 283,
+			"versionNonce": 1282520126,
 			"isDeleted": false,
 			"id": "26ydKMV_rooMfN5SjHg3q",
 			"fillStyle": "solid",
@@ -242,7 +249,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 304,
+			"x": 340,
 			"y": -553.8333333333335,
 			"strokeColor": "#000000",
 			"backgroundColor": "#868e96",
@@ -281,14 +288,14 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					"type": "arrow"
 				}
 			],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 228,
-			"versionNonce": 1581524962,
+			"version": 265,
+			"versionNonce": 870397602,
 			"isDeleted": false,
 			"id": "DG0tZ02v",
 			"fillStyle": "hachure",
@@ -297,7 +304,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 343.09024122320557,
+			"x": 379.09024122320557,
 			"y": -517.3914681881716,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -309,7 +316,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -325,8 +332,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "ellipse",
-			"version": 427,
-			"versionNonce": 895237950,
+			"version": 446,
+			"versionNonce": 1592556670,
 			"isDeleted": false,
 			"id": "C3jaRf-bBQGfNBgdXwdKn",
 			"fillStyle": "solid",
@@ -370,14 +377,14 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					"type": "arrow"
 				}
 			],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 422,
-			"versionNonce": 1053547298,
+			"version": 441,
+			"versionNonce": 830870114,
 			"isDeleted": false,
 			"id": "z67YIUzX",
 			"fillStyle": "hachure",
@@ -398,7 +405,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -414,8 +421,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "ellipse",
-			"version": 329,
-			"versionNonce": 1221353470,
+			"version": 444,
+			"versionNonce": 526662846,
 			"isDeleted": false,
 			"id": "4gm69Jfm6tI_HgOqgWtyo",
 			"fillStyle": "solid",
@@ -451,14 +458,14 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					"type": "arrow"
 				}
 			],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 333,
-			"versionNonce": 545585826,
+			"version": 448,
+			"versionNonce": 630814242,
 			"isDeleted": false,
 			"id": "WVZh2H10",
 			"fillStyle": "hachure",
@@ -479,7 +486,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -495,8 +502,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "ellipse",
-			"version": 450,
-			"versionNonce": 1381431422,
+			"version": 544,
+			"versionNonce": 863630590,
 			"isDeleted": false,
 			"id": "u8yqQ53uo8fo9Y_5_12FG",
 			"fillStyle": "solid",
@@ -526,16 +533,20 @@ Serial Connection Diagram Flow ^yEDrQC2y
 				{
 					"id": "iW3UYQYLY6yKX5OApXlzQ",
 					"type": "arrow"
+				},
+				{
+					"id": "yQgsvuRlgi01lL8NQMh9g",
+					"type": "arrow"
 				}
 			],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 462,
-			"versionNonce": 941570238,
+			"version": 555,
+			"versionNonce": 1359634914,
 			"isDeleted": false,
 			"id": "iJCM6bdz",
 			"fillStyle": "hachure",
@@ -556,7 +567,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -572,8 +583,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "arrow",
-			"version": 316,
-			"versionNonce": 455560290,
+			"version": 435,
+			"versionNonce": 1689167166,
 			"isDeleted": false,
 			"id": "8vMzDEcZhf36-14HzVDE7",
 			"fillStyle": "solid",
@@ -582,12 +593,12 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -246.1934880442846,
-			"y": -634.9929409448978,
+			"x": -246.2233409399829,
+			"y": -632.4381946924124,
 			"strokeColor": "#000000",
 			"backgroundColor": "#868e96",
-			"width": 303.9924859659097,
-			"height": 5.521972431702466,
+			"width": 327.90281606127803,
+			"height": 1.4612905308475774,
 			"seed": 1335219390,
 			"groupIds": [
 				"b4e3rTZMUJY3gulLYW6iD"
@@ -601,18 +612,18 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					"id": "CMLEpUOg"
 				}
 			],
-			"updated": 1688916359799,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "2eQyJ6dEpSSBHsQRMvsLR",
-				"focus": -0.0004603383689363419,
-				"gap": 10.55928882365977
+				"gap": 10.55928882365977,
+				"focus": -0.0004603383689363419
 			},
 			"endBinding": {
 				"elementId": "W9_dz5E95pfthvj4pgrd5",
-				"focus": 0.009439757121016964,
-				"gap": 7.874154140287274
+				"gap": 7.874154140287274,
+				"focus": 0.009439757121016964
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -623,15 +634,15 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					0
 				],
 				[
-					-303.9924859659097,
-					-5.521972431702466
+					-327.90281606127803,
+					1.4612905308475774
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 61,
-			"versionNonce": 1937076478,
+			"version": 80,
+			"versionNonce": 2129122722,
 			"isDeleted": false,
 			"id": "CMLEpUOg",
 			"fillStyle": "solid",
@@ -652,7 +663,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -668,8 +679,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "arrow",
-			"version": 310,
-			"versionNonce": 2063822882,
+			"version": 379,
+			"versionNonce": 610487678,
 			"isDeleted": false,
 			"id": "GqoMIFpHeI5yI96VTM1gp",
 			"fillStyle": "solid",
@@ -678,12 +689,12 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -22.84454202610857,
-			"y": -622.0367676149139,
+			"x": -22.858417727060726,
+			"y": -622.0369596877105,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 336.8701037809529,
-			"height": 101.61322892730414,
+			"width": 369.861545427763,
+			"height": 105.71565108626771,
 			"seed": 1001776190,
 			"groupIds": [
 				"b4e3rTZMUJY3gulLYW6iD"
@@ -697,18 +708,18 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					"id": "pYpA4hWm"
 				}
 			],
-			"updated": 1688916359799,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "2eQyJ6dEpSSBHsQRMvsLR",
-				"focus": 0.13165801457161636,
-				"gap": 11.789574494711246
+				"gap": 11.789574494711246,
+				"focus": 0.13165801457161636
 			},
 			"endBinding": {
 				"elementId": "26ydKMV_rooMfN5SjHg3q",
-				"focus": -0.13856540787617933,
-				"gap": 4.197022909667041
+				"gap": 4.197022909667041,
+				"focus": -0.13856540787617933
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -719,19 +730,19 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					0
 				],
 				[
-					158.4719930065006,
-					2.1936303600115252
+					158.48586870745277,
+					2.1938224328081333
 				],
 				[
-					336.8701037809529,
-					101.61322892730414
+					369.861545427763,
+					105.71565108626771
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 36,
-			"versionNonce": 265986366,
+			"version": 55,
+			"versionNonce": 1080086882,
 			"isDeleted": false,
 			"id": "pYpA4hWm",
 			"fillStyle": "solid",
@@ -752,7 +763,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -768,8 +779,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "arrow",
-			"version": 282,
-			"versionNonce": 455416802,
+			"version": 363,
+			"versionNonce": 265874878,
 			"isDeleted": false,
 			"id": "7cQgotqEYkzjZXZuXWL2f",
 			"fillStyle": "solid",
@@ -778,12 +789,12 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -26.46220246964168,
-			"y": -598.4017212651324,
+			"x": -26.567249873069244,
+			"y": -598.4722761129137,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 327.3927152787209,
-			"height": 185,
+			"width": 363.73555114536975,
+			"height": 97.29580552467803,
 			"seed": 1340777442,
 			"groupIds": [
 				"b4e3rTZMUJY3gulLYW6iD"
@@ -797,18 +808,18 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					"id": "vzztvkea"
 				}
 			],
-			"updated": 1688916359799,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "2eQyJ6dEpSSBHsQRMvsLR",
-				"focus": -0.38633408841418654,
-				"gap": 16.51886101524623
+				"gap": 16.51886101524623,
+				"focus": -0.38633408841418654
 			},
 			"endBinding": {
 				"elementId": "26ydKMV_rooMfN5SjHg3q",
-				"focus": 0.3999383329596845,
-				"gap": 8.529297090856915
+				"gap": 8.529297090856915,
+				"focus": 0.3999383329596845
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": "arrow",
@@ -819,19 +830,19 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					0
 				],
 				[
-					144.7563201167007,
-					97.22525067689674
+					144.86136752012825,
+					97.29580552467803
 				],
 				[
-					327.3927152787209,
-					90.99161671425685
+					363.73555114536975,
+					90.66347703968569
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 67,
-			"versionNonce": 11520382,
+			"version": 88,
+			"versionNonce": 683955490,
 			"isDeleted": false,
 			"id": "vzztvkea",
 			"fillStyle": "solid",
@@ -844,32 +855,32 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"y": -577.009803921569,
 			"strokeColor": "#000000",
 			"backgroundColor": "#868e96",
-			"width": 177.01593017578125,
-			"height": 105,
+			"width": 282.015869140625,
+			"height": 70,
 			"seed": 1926151138,
 			"groupIds": [
 				"b4e3rTZMUJY3gulLYW6iD"
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
-			"text": "End of \nuncommitted \nexecution",
+			"text": "End of uncommitted \nexecution",
 			"rawText": "End of uncommitted execution",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "7cQgotqEYkzjZXZuXWL2f",
 			"originalText": "End of uncommitted execution",
 			"lineHeight": 1.25,
-			"baseline": 95
+			"baseline": 60
 		},
 		{
 			"type": "arrow",
-			"version": 369,
-			"versionNonce": 1771786146,
+			"version": 471,
+			"versionNonce": 1949337086,
 			"isDeleted": false,
 			"id": "UBVZCE4Z-bB-8v48flnWx",
 			"fillStyle": "solid",
@@ -878,12 +889,12 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -563.8043849692449,
-			"y": -698.0254222988954,
+			"x": -589.1159356673955,
+			"y": -686.9904441631043,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 916.8974498669425,
-			"height": 240.11280298325767,
+			"width": 975.4905495602096,
+			"height": 241.2842020270209,
 			"seed": 48542242,
 			"groupIds": [
 				"b4e3rTZMUJY3gulLYW6iD"
@@ -897,18 +908,18 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					"id": "AYrMUPBY"
 				}
 			],
-			"updated": 1688916359799,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "W9_dz5E95pfthvj4pgrd5",
-				"focus": -0.4459563758658205,
-				"gap": 18.603916941620326
+				"gap": 18.603916941620326,
+				"focus": -0.4459563758658205
 			},
 			"endBinding": {
 				"elementId": "26ydKMV_rooMfN5SjHg3q",
-				"focus": 0.5388581247807858,
-				"gap": 10.56862892117087
+				"gap": 10.56862892117087,
+				"focus": 0.5388581247807858
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -919,19 +930,19 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					0
 				],
 				[
-					432.0985026163037,
-					-97.15104828934057
+					457.41005331445433,
+					-108.18602642513167
 				],
 				[
-					916.8974498669425,
-					142.9617546939171
+					975.4905495602096,
+					133.09817560188924
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 38,
-			"versionNonce": 624290238,
+			"version": 57,
+			"versionNonce": 159473890,
 			"isDeleted": false,
 			"id": "AYrMUPBY",
 			"fillStyle": "solid",
@@ -952,7 +963,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -968,8 +979,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "arrow",
-			"version": 753,
-			"versionNonce": 982846306,
+			"version": 855,
+			"versionNonce": 1382749758,
 			"isDeleted": false,
 			"id": "IW1F4dCZaRbQ6ylIJf6M2",
 			"fillStyle": "solid",
@@ -978,12 +989,12 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 301.0270409718936,
-			"y": -451.2454662132662,
+			"x": 336.92477829385894,
+			"y": -451.6108186607486,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 872.6791794786519,
-			"height": 176.10132937471337,
+			"width": 928.6656317734369,
+			"height": 167.89167855875348,
 			"seed": 1756793570,
 			"groupIds": [
 				"b4e3rTZMUJY3gulLYW6iD"
@@ -997,18 +1008,18 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					"id": "kyoS7cH8"
 				}
 			],
-			"updated": 1688916359800,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "26ydKMV_rooMfN5SjHg3q",
-				"focus": -0.3313729994407655,
-				"gap": 11.115731899722547
+				"gap": 11.115731899722547,
+				"focus": -0.3313729994407655
 			},
 			"endBinding": {
 				"elementId": "W9_dz5E95pfthvj4pgrd5",
-				"focus": 0.03787838380716569,
-				"gap": 14.58100724394076
+				"gap": 14.58100724394076,
+				"focus": 0.03787838380716569
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1019,19 +1030,19 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					0
 				],
 				[
-					-582.7067416188754,
-					40.79513559494359
+					-618.6044789408409,
+					41.16048804242598
 				],
 				[
-					-872.6791794786519,
-					-135.30619377976979
+					-928.6656317734369,
+					-126.7311905163275
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 66,
-			"versionNonce": 1284375038,
+			"version": 85,
+			"versionNonce": 774304930,
 			"isDeleted": false,
 			"id": "kyoS7cH8",
 			"fillStyle": "solid",
@@ -1052,7 +1063,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1068,8 +1079,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "arrow",
-			"version": 758,
-			"versionNonce": 73486114,
+			"version": 827,
+			"versionNonce": 1667866238,
 			"isDeleted": false,
 			"id": "qg5J4S7Aa8x6FV43rUX98",
 			"fillStyle": "solid",
@@ -1078,12 +1089,12 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 359.0632409030741,
-			"y": -410.0141339403159,
+			"x": 386.6742734474596,
+			"y": -413.23809767372285,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 320.37700350717876,
-			"height": 199.08183287420073,
+			"width": 348.0931293716809,
+			"height": 202.3413760853885,
 			"seed": 1851996926,
 			"groupIds": [
 				"b4e3rTZMUJY3gulLYW6iD"
@@ -1097,18 +1108,18 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					"id": "AoDV7uSq"
 				}
 			],
-			"updated": 1688916359800,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "26ydKMV_rooMfN5SjHg3q",
-				"focus": -0.1699925629962645,
-				"gap": 8.160792674212288
+				"gap": 8.160792674212288,
+				"focus": -0.1699925629962645
 			},
 			"endBinding": {
 				"elementId": "C3jaRf-bBQGfNBgdXwdKn",
-				"focus": -0.034924326141760685,
-				"gap": 10.99400604373065
+				"gap": 10.99400604373065,
+				"focus": -0.034924326141760685
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1119,19 +1130,19 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					0
 				],
 				[
-					-120.76912325601506,
-					131.50433001874694
+					-148.3801558004006,
+					134.7282937521539
 				],
 				[
-					-320.37700350717876,
-					199.08183287420073
+					-348.0931293716809,
+					202.3413760853885
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 36,
-			"versionNonce": 968430142,
+			"version": 55,
+			"versionNonce": 409210978,
 			"isDeleted": false,
 			"id": "AoDV7uSq",
 			"fillStyle": "solid",
@@ -1152,7 +1163,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1168,8 +1179,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "arrow",
-			"version": 761,
-			"versionNonce": 1759198462,
+			"version": 812,
+			"versionNonce": 468524734,
 			"isDeleted": false,
 			"id": "kZPeJUqsZq-CQjRKSGln-",
 			"fillStyle": "solid",
@@ -1178,12 +1189,12 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -116.00613033873242,
-			"y": -547.8974712272784,
+			"x": -116.0095185475524,
+			"y": -547.9117470606709,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 56.004671437476134,
-			"height": 289.62894826144634,
+			"width": 56.00806875430048,
+			"height": 289.6433353673367,
 			"seed": 1851996926,
 			"groupIds": [
 				"b4e3rTZMUJY3gulLYW6iD"
@@ -1197,18 +1208,18 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					"id": "cvjXjcEX"
 				}
 			],
-			"updated": 1688916360085,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "2eQyJ6dEpSSBHsQRMvsLR",
-				"focus": 0.015013264228203115,
-				"gap": 14.716258644540702
+				"gap": 14.716258644540702,
+				"focus": 0.015013264228203115
 			},
 			"endBinding": {
 				"elementId": "C3jaRf-bBQGfNBgdXwdKn",
-				"focus": 0.0848835810802265,
-				"gap": 12.601407615805925
+				"gap": 12.601407615805925,
+				"focus": 0.0848835810802265
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1219,19 +1230,19 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					0
 				],
 				[
-					49.3002479857912,
-					207.72100063904276
+					49.30363619461119,
+					207.73527647243526
 				],
 				[
-					56.004671437476134,
-					289.62894826144634
+					56.00806875430048,
+					289.6433353673367
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 34,
-			"versionNonce": 664279678,
+			"version": 53,
+			"versionNonce": 1007137826,
 			"isDeleted": false,
 			"id": "cvjXjcEX",
 			"fillStyle": "solid",
@@ -1252,7 +1263,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1268,8 +1279,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "arrow",
-			"version": 728,
-			"versionNonce": 1850568354,
+			"version": 812,
+			"versionNonce": 815175422,
 			"isDeleted": false,
 			"id": "mIx6qXJgJJww9BWKJb3UI",
 			"fillStyle": "solid",
@@ -1278,12 +1289,12 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -618.7173062851919,
-			"y": -559.4344772893959,
+			"x": -635.7786936219686,
+			"y": -549.5805897788989,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 450.17540973297173,
-			"height": 359.27628687557046,
+			"width": 467.29342115097245,
+			"height": 349.4566293410882,
 			"seed": 1851996926,
 			"groupIds": [
 				"b4e3rTZMUJY3gulLYW6iD"
@@ -1297,18 +1308,18 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					"id": "KUItVI0p"
 				}
 			],
-			"updated": 1688916359800,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "W9_dz5E95pfthvj4pgrd5",
-				"focus": 0.3314717526955274,
-				"gap": 17.459690718672775
+				"gap": 17.459690718672775,
+				"focus": 0.3314717526955274
 			},
 			"endBinding": {
 				"elementId": "C3jaRf-bBQGfNBgdXwdKn",
-				"focus": -0.4105653711181062,
-				"gap": 11.424821463068767
+				"gap": 11.424821463068767,
+				"focus": -0.4105653711181062
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1319,19 +1330,19 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					0
 				],
 				[
-					202.0114239322504,
-					209.25800670116018
+					219.07281126902717,
+					199.4041191906632
 				],
 				[
-					450.17540973297173,
-					359.27628687557046
+					467.29342115097245,
+					349.4566293410882
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 34,
-			"versionNonce": 1290541758,
+			"version": 53,
+			"versionNonce": 989913058,
 			"isDeleted": false,
 			"id": "KUItVI0p",
 			"fillStyle": "solid",
@@ -1352,7 +1363,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1368,8 +1379,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "arrow",
-			"version": 367,
-			"versionNonce": 1101744738,
+			"version": 616,
+			"versionNonce": 434571070,
 			"isDeleted": false,
 			"id": "i5_Psd1Yr1lZQAapHAai6",
 			"fillStyle": "solid",
@@ -1378,12 +1389,12 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -66.51121128878557,
-			"y": -91.77515507894465,
+			"x": -66.5112773752387,
+			"y": -91.77595741590892,
 			"strokeColor": "#000000",
 			"backgroundColor": "#868e96",
-			"width": 11.533720300131563,
-			"height": 140.02764097441582,
+			"width": 11.533860290910184,
+			"height": 140.02934056292483,
 			"seed": 587840226,
 			"groupIds": [
 				"b4e3rTZMUJY3gulLYW6iD"
@@ -1397,18 +1408,18 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					"id": "NfDD2bmo"
 				}
 			],
-			"updated": 1688916359801,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "C3jaRf-bBQGfNBgdXwdKn",
-				"focus": 0.1145827551746519,
-				"gap": 10.976494126668442
+				"gap": 10.976494126668442,
+				"focus": 0.1145827551746519
 			},
 			"endBinding": {
 				"elementId": "4gm69Jfm6tI_HgOqgWtyo",
-				"focus": -0.03147419512878383,
-				"gap": 2.700638365712834
+				"gap": 2.700638365712834,
+				"focus": -0.03147419512878383
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1419,15 +1430,15 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					0
 				],
 				[
-					11.533720300131563,
-					140.02764097441582
+					11.533860290910184,
+					140.02934056292483
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 48,
-			"versionNonce": 1616253694,
+			"version": 67,
+			"versionNonce": 559846306,
 			"isDeleted": false,
 			"id": "NfDD2bmo",
 			"fillStyle": "solid",
@@ -1448,7 +1459,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1464,8 +1475,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "arrow",
-			"version": 445,
-			"versionNonce": 1817685538,
+			"version": 842,
+			"versionNonce": 406810494,
 			"isDeleted": false,
 			"id": "iW3UYQYLY6yKX5OApXlzQ",
 			"fillStyle": "solid",
@@ -1474,12 +1485,12 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -50.08857650193638,
-			"y": 198.1547504645054,
+			"x": -50.08858038409488,
+			"y": 198.1544253834105,
 			"strokeColor": "#000000",
 			"backgroundColor": "#868e96",
-			"width": 1.7714400027464094,
-			"height": 148.33543144312654,
+			"width": 1.7714630591618246,
+			"height": 148.33736212286897,
 			"seed": 159301182,
 			"groupIds": [
 				"b4e3rTZMUJY3gulLYW6iD"
@@ -1493,18 +1504,18 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					"id": "iDVuDpMT"
 				}
 			],
-			"updated": 1688916359801,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "4gm69Jfm6tI_HgOqgWtyo",
-				"focus": 0.05237704206406516,
-				"gap": 4.563145446078323
+				"gap": 4.563145446078323,
+				"focus": 0.05237704206406516
 			},
 			"endBinding": {
 				"elementId": "u8yqQ53uo8fo9Y_5_12FG",
-				"focus": -0.07611341651716425,
-				"gap": 6.083005872415484
+				"gap": 6.083005872415484,
+				"focus": -0.07611341651716425
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1515,15 +1526,15 @@ Serial Connection Diagram Flow ^yEDrQC2y
 					0
 				],
 				[
-					1.7714400027464094,
-					148.33543144312654
+					1.7714630591618246,
+					148.33736212286897
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 44,
-			"versionNonce": 475464510,
+			"version": 63,
+			"versionNonce": 558878562,
 			"isDeleted": false,
 			"id": "iDVuDpMT",
 			"fillStyle": "solid",
@@ -1544,7 +1555,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688916352816,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1560,8 +1571,8 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		},
 		{
 			"type": "rectangle",
-			"version": 98,
-			"versionNonce": 2135376418,
+			"version": 104,
+			"versionNonce": 937480126,
 			"isDeleted": false,
 			"id": "KgyRF0PxnfXMG25b-ArTd",
 			"fillStyle": "solid",
@@ -1582,14 +1593,14 @@ Serial Connection Diagram Flow ^yEDrQC2y
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1688913331112,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 101,
-			"versionNonce": 10792958,
+			"version": 107,
+			"versionNonce": 1327731490,
 			"isDeleted": false,
 			"id": "yEDrQC2y",
 			"fillStyle": "solid",
@@ -1608,7 +1619,7 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688913297822,
+			"updated": 1688971320494,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1621,6 +1632,138 @@ Serial Connection Diagram Flow ^yEDrQC2y
 			"originalText": "Serial Connection Diagram Flow",
 			"lineHeight": 1.25,
 			"baseline": 32
+		},
+		{
+			"id": "yQgsvuRlgi01lL8NQMh9g",
+			"type": "arrow",
+			"x": -143.3725490196075,
+			"y": 396.07352941176396,
+			"width": 545.5873302897303,
+			"height": 944.4976512791868,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1347307710,
+			"version": 245,
+			"versionNonce": 1424762878,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "KdwyGpZY"
+				}
+			],
+			"updated": 1688971320494,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-358.33333333333337,
+					-386.6666666666665
+				],
+				[
+					-545.5873302897303,
+					-944.4976512791868
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "u8yqQ53uo8fo9Y_5_12FG",
+				"focus": -0.6453074702345023,
+				"gap": 9.303843855599027
+			},
+			"endBinding": {
+				"elementId": "W9_dz5E95pfthvj4pgrd5",
+				"focus": 0.32496131808214807,
+				"gap": 11.359191971748047
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "KdwyGpZY",
+			"type": "text",
+			"x": -588.8978531781362,
+			"y": -35.59313725490256,
+			"width": 174.38394165039062,
+			"height": 90,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1524692834,
+			"version": 39,
+			"versionNonce": 1565056738,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1688971320494,
+			"link": null,
+			"locked": false,
+			"text": "Initialize\nconnection",
+			"rawText": "Initialize\nconnection",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 77,
+			"containerId": "yQgsvuRlgi01lL8NQMh9g",
+			"originalText": "Initialize\nconnection",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "ehhWxCh3",
+			"type": "text",
+			"x": -510.7058823529409,
+			"y": -13.093137254902558,
+			"width": 18,
+			"height": 45,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 617510590,
+			"version": 9,
+			"versionNonce": 526547006,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1688971320494,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 32,
+			"containerId": "yQgsvuRlgi01lL8NQMh9g",
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -1636,12 +1779,12 @@ Serial Connection Diagram Flow ^yEDrQC2y
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 36,
 		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": "arrow",
-		"currentItemEndArrowhead": null,
-		"scrollX": 1114.2058823529408,
-		"scrollY": 1002.2598039215691,
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 1454.3725490196077,
+		"scrollY": 1236.9264705882358,
 		"zoom": {
-			"value": 0.6000000000000001
+			"value": 0.5
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

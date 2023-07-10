@@ -11,11 +11,9 @@
             "id": "c80853193e0c24c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Training/Trace & Logs.md",
-                "mode": "source",
-                "source": false
+                "file": "JAVA/OOP_Java_Lectures.pdf"
               }
             }
           }
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Trace & Logs.md",
+                "file": "JAVA/OOP_Java_Lectures.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Trace & Logs.md",
+                "file": "JAVA/OOP_Java_Lectures.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Trace & Logs.md"
+                "file": "JAVA/OOP_Java_Lectures.pdf"
               }
             }
           },
@@ -183,10 +181,11 @@
   },
   "active": "c80853193e0c24c7",
   "lastOpenFiles": [
-    "Commands.md",
     "JAVA/JDBC.md",
-    "Daily Notes/2023-07-09.md",
     "Excalidraw/Serial Connection Diagram Flow.md",
+    "Training/Trace & Logs.md",
+    "Commands.md",
+    "Daily Notes/2023-07-09.md",
     "Wifi.md",
     "Excalidraw/Conflict Serializable.md",
     "Excalidraw/Erez - Intro and block device.md",
@@ -215,7 +214,6 @@
     "Training/Eran's Lectures/Eran System Flow Face2Face.md",
     "Training/Erez Webman's Lectures/Consistency.md",
     "Images/Pasted image 20230604232443.png",
-    "Training/Trace & Logs.md",
     "Daily Notes/2023-07-02.md",
     "Training/Eran's Lectures/Block Diagram.md",
     "Excalidraw/Regatta Nodes.md",
