@@ -11,9 +11,11 @@
             "id": "c80853193e0c24c7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf"
+                "file": "Daily Notes/2023-07-10.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf",
+                "file": "Daily Notes/2023-07-10.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf",
+                "file": "Daily Notes/2023-07-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/OOP_Java_Lectures.pdf"
+                "file": "Daily Notes/2023-07-10.md"
               }
             }
           },
@@ -181,6 +183,8 @@
   },
   "active": "c80853193e0c24c7",
   "lastOpenFiles": [
+    "JAVA/OOP_Java_Lectures.pdf",
+    "Daily Notes/2023-07-10.md",
     "JAVA/JDBC.md",
     "Excalidraw/Serial Connection Diagram Flow.md",
     "Training/Trace & Logs.md",
@@ -193,7 +197,6 @@
     "Training/Confluence Training.md",
     "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
     "Daily Notes/2023-07-06.md",
-    "JAVA/OOP_Java_Lectures.pdf",
     "Daily Notes/2023-07-05.md",
     "Training/PDBG.md",
     "JAVA/Java APIs, Extensions and Libraries, 2nd Edition.pdf",
@@ -218,8 +221,6 @@
     "Training/Eran's Lectures/Block Diagram.md",
     "Excalidraw/Regatta Nodes.md",
     "Images/Pasted image 20230629180714.png",
-    "Training/Erez Webman's Lectures/Storage.md",
-    "Training/Compute & Operators/Plan & Execution.md",
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
     "Images/Pasted image 20230629111902.png",
     "Images/Pasted image 20230629101323.png",
