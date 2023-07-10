@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/JDBC.md",
+                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e02b3df7d1186ce6",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/JDBC.md",
+                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/JDBC.md",
+                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/JDBC.md"
+                "file": "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md"
               }
             }
           },
