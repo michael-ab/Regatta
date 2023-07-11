@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eea97af644d78ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Client Mock.md",
+                "file": "Links.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Client Mock.md",
+                "file": "Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Client Mock.md"
+                "file": "Links.md"
               }
             }
           },
@@ -194,11 +206,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24c18081f721d185",
+  "active": "eea97af644d78ece",
   "lastOpenFiles": [
     "Training/Confluence Training.md",
-    "Daily Notes/2023-07-09.md",
+    "Links.md",
     "Tasks/Client Mock.md",
+    "Daily Notes/2023-07-09.md",
     "JAVA/OOP_Java_Lectures.pdf",
     "Tasks",
     "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
