@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/ExecuteBatch.md",
+                "file": "Tasks/Client Mock.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/ExecuteBatch.md",
+                "file": "Tasks/Client Mock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/ExecuteBatch.md"
+                "file": "Tasks/Client Mock.md"
               }
             }
           },
@@ -204,10 +204,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7ff2eabffd2ec9d",
+  "active": "24c18081f721d185",
   "lastOpenFiles": [
-    "Links.md",
     "Excalidraw/ExecuteBatch.md",
+    "Links.md",
     "Tasks/Client Mock.md",
     "Training/Confluence Training.md",
     "Daily Notes/2023-07-09.md",
