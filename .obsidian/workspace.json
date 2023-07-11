@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-07-09.md",
+                "file": "Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-07-09.md",
+                "file": "Commands.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-07-09.md",
+                "file": "Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-07-09.md"
+                "file": "Commands.md"
               }
             }
           },
@@ -206,11 +206,11 @@
   },
   "active": "24c18081f721d185",
   "lastOpenFiles": [
+    "Daily Notes/2023-07-09.md",
     "Tasks/Client Mock.md",
     "Excalidraw/ExecuteBatch.md",
     "Links.md",
     "Training/Confluence Training.md",
-    "Daily Notes/2023-07-09.md",
     "JAVA/OOP_Java_Lectures.pdf",
     "Tasks",
     "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
