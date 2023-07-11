@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Tasks/Client Mock.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Tasks/Client Mock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Confluence Training.md"
+                "file": "Tasks/Client Mock.md"
               }
             }
           },
@@ -193,8 +194,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcbb66d5fafb524f",
+  "active": "24c18081f721d185",
   "lastOpenFiles": [
+    "Training/Confluence Training.md",
     "Daily Notes/2023-07-09.md",
     "Tasks/Client Mock.md",
     "JAVA/OOP_Java_Lectures.pdf",
@@ -212,7 +214,6 @@
     "Excalidraw/Conflict Serializable.md",
     "Excalidraw/Erez - Intro and block device.md",
     "Excalidraw/False Sharing.md",
-    "Training/Confluence Training.md",
     "Daily Notes/2023-07-06.md",
     "Daily Notes/2023-07-05.md",
     "Training/PDBG.md",
