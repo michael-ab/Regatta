@@ -12,7 +12,7 @@ RegattaClient::closeSerialConn(pSerialConn);
 RegattaClient:freeSerialConn(pSerialConn);
 ```
 
-### ExecuteBatch function for Serial Conn
+### ExecuteBatch() function for Serial Conn
 ![[ExecuteBatch]]
 
 
