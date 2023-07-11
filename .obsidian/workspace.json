@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Client Mock.md",
+                "file": "Daily Notes/2023-07-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Client Mock.md",
+                "file": "Daily Notes/2023-07-09.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Client Mock.md",
+                "file": "Daily Notes/2023-07-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Client Mock.md"
+                "file": "Daily Notes/2023-07-09.md"
               }
             }
           },
@@ -206,9 +206,9 @@
   },
   "active": "24c18081f721d185",
   "lastOpenFiles": [
+    "Tasks/Client Mock.md",
     "Excalidraw/ExecuteBatch.md",
     "Links.md",
-    "Tasks/Client Mock.md",
     "Training/Confluence Training.md",
     "Daily Notes/2023-07-09.md",
     "JAVA/OOP_Java_Lectures.pdf",
