@@ -11,3 +11,4 @@ pSerialConn->commit();
 RegattaClient::closeSerialConn(pSerialConn);
 RegattaClient:freeSerialConn(pSerialConn);
 ```
+
