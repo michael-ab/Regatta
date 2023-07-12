@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "897f7784409c2b88",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Serial Connection Diagram Flow.md"
+              }
+            }
+          },
+          {
             "id": "24c18081f721d185",
             "type": "leaf",
             "state": {
@@ -41,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/JDBC.md",
+                "file": "Excalidraw/Serial Connection Diagram Flow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/JDBC.md",
+                "file": "Excalidraw/Serial Connection Diagram Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/JDBC.md"
+                "file": "Excalidraw/Serial Connection Diagram Flow.md"
               }
             }
           },
@@ -203,8 +214,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcbb66d5fafb524f",
+  "active": "897f7784409c2b88",
   "lastOpenFiles": [
+    "JAVA/JDBC.md",
     "Training/Confluence Training.md",
     "Daily Notes/2023-07-09.md",
     "Excalidraw/ExecuteBatch.md",
@@ -214,7 +226,6 @@
     "JAVA/OOP_Java_Lectures.pdf",
     "Tasks",
     "Training/Eran's Lectures/PIMPL (Pointer to IMPLementation).md",
-    "JAVA/JDBC.md",
     "Regatta Lunch.md",
     "JAVA/OOP_Java_Exercices.pdf",
     "JAVA/Untitled Diagram.svg",
