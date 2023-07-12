@@ -51,7 +51,9 @@ Initialize
 connection ^KdwyGpZY
 
 When the thread which 
-have a req in pro ^pqBBeujJ
+have a "operation" will finish 
+the serial conn will move to
+closed by itself ^pqBBeujJ
 
 %%
 # Drawing
@@ -245,8 +247,8 @@ have a req in pro ^pqBBeujJ
 		},
 		{
 			"type": "ellipse",
-			"version": 283,
-			"versionNonce": 1282520126,
+			"version": 284,
+			"versionNonce": 631712162,
 			"isDeleted": false,
 			"id": "26ydKMV_rooMfN5SjHg3q",
 			"fillStyle": "solid",
@@ -255,7 +257,7 @@ have a req in pro ^pqBBeujJ
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 340,
+			"x": 341.6666666666665,
 			"y": -553.8333333333335,
 			"strokeColor": "#000000",
 			"backgroundColor": "#868e96",
@@ -294,14 +296,14 @@ have a req in pro ^pqBBeujJ
 					"type": "arrow"
 				}
 			],
-			"updated": 1688971320494,
+			"updated": 1689167295511,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 265,
-			"versionNonce": 870397602,
+			"version": 266,
+			"versionNonce": 1257453950,
 			"isDeleted": false,
 			"id": "DG0tZ02v",
 			"fillStyle": "hachure",
@@ -310,7 +312,7 @@ have a req in pro ^pqBBeujJ
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 379.09024122320557,
+			"x": 380.7569078898721,
 			"y": -517.3914681881716,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -322,7 +324,7 @@ have a req in pro ^pqBBeujJ
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688971320494,
+			"updated": 1689167295511,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -685,8 +687,8 @@ have a req in pro ^pqBBeujJ
 		},
 		{
 			"type": "arrow",
-			"version": 381,
-			"versionNonce": 349893630,
+			"version": 382,
+			"versionNonce": 353449186,
 			"isDeleted": false,
 			"id": "GqoMIFpHeI5yI96VTM1gp",
 			"fillStyle": "solid",
@@ -699,8 +701,8 @@ have a req in pro ^pqBBeujJ
 			"y": -622.0369596877105,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 369.861545427763,
-			"height": 105.71565108626771,
+			"width": 371.406132120409,
+			"height": 105.89103393850837,
 			"seed": 1001776190,
 			"groupIds": [
 				"b4e3rTZMUJY3gulLYW6iD"
@@ -714,7 +716,7 @@ have a req in pro ^pqBBeujJ
 					"id": "pYpA4hWm"
 				}
 			],
-			"updated": 1689167060323,
+			"updated": 1689167295518,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -740,8 +742,8 @@ have a req in pro ^pqBBeujJ
 					2.1938224328081333
 				],
 				[
-					369.861545427763,
-					105.71565108626771
+					371.406132120409,
+					105.89103393850837
 				]
 			]
 		},
@@ -785,8 +787,8 @@ have a req in pro ^pqBBeujJ
 		},
 		{
 			"type": "arrow",
-			"version": 365,
-			"versionNonce": 1764834174,
+			"version": 366,
+			"versionNonce": 2081793378,
 			"isDeleted": false,
 			"id": "7cQgotqEYkzjZXZuXWL2f",
 			"fillStyle": "solid",
@@ -799,7 +801,7 @@ have a req in pro ^pqBBeujJ
 			"y": -598.4722761129137,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 363.7355511453698,
+			"width": 365.4096689292486,
 			"height": 97.29580552467803,
 			"seed": 1340777442,
 			"groupIds": [
@@ -814,7 +816,7 @@ have a req in pro ^pqBBeujJ
 					"id": "vzztvkea"
 				}
 			],
-			"updated": 1689167060321,
+			"updated": 1689167295512,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -840,8 +842,8 @@ have a req in pro ^pqBBeujJ
 					97.29580552467803
 				],
 				[
-					363.7355511453698,
-					90.66347703968569
+					365.4096689292486,
+					90.64726965588733
 				]
 			]
 		},
@@ -885,8 +887,8 @@ have a req in pro ^pqBBeujJ
 		},
 		{
 			"type": "arrow",
-			"version": 473,
-			"versionNonce": 1781580642,
+			"version": 474,
+			"versionNonce": 898324926,
 			"isDeleted": false,
 			"id": "UBVZCE4Z-bB-8v48flnWx",
 			"fillStyle": "solid",
@@ -899,8 +901,8 @@ have a req in pro ^pqBBeujJ
 			"y": -686.9904441631043,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 975.4905495602096,
-			"height": 241.2842020270209,
+			"width": 977.033588915768,
+			"height": 241.33534213222777,
 			"seed": 48542242,
 			"groupIds": [
 				"b4e3rTZMUJY3gulLYW6iD"
@@ -914,7 +916,7 @@ have a req in pro ^pqBBeujJ
 					"id": "AYrMUPBY"
 				}
 			],
-			"updated": 1689167060321,
+			"updated": 1689167295513,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -940,8 +942,8 @@ have a req in pro ^pqBBeujJ
 					-108.18602642513167
 				],
 				[
-					975.4905495602096,
-					133.09817560188924
+					977.033588915768,
+					133.1493157070961
 				]
 			]
 		},
@@ -985,8 +987,8 @@ have a req in pro ^pqBBeujJ
 		},
 		{
 			"type": "arrow",
-			"version": 857,
-			"versionNonce": 549002174,
+			"version": 858,
+			"versionNonce": 1052682530,
 			"isDeleted": false,
 			"id": "IW1F4dCZaRbQ6ylIJf6M2",
 			"fillStyle": "solid",
@@ -995,11 +997,11 @@ have a req in pro ^pqBBeujJ
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 336.92477829385894,
-			"y": -451.6108186607486,
+			"x": 338.58287256443987,
+			"y": -451.6265916713046,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 928.6656317734369,
+			"width": 930.3237260440178,
 			"height": 167.89167855875348,
 			"seed": 1756793570,
 			"groupIds": [
@@ -1014,7 +1016,7 @@ have a req in pro ^pqBBeujJ
 					"id": "kyoS7cH8"
 				}
 			],
-			"updated": 1689167060322,
+			"updated": 1689167295515,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1036,12 +1038,12 @@ have a req in pro ^pqBBeujJ
 					0
 				],
 				[
-					-618.6044789408409,
-					41.16048804242598
+					-620.2625732114218,
+					41.176261052982
 				],
 				[
-					-928.6656317734369,
-					-126.7311905163275
+					-930.3237260440178,
+					-126.71541750577148
 				]
 			]
 		},
@@ -1085,8 +1087,8 @@ have a req in pro ^pqBBeujJ
 		},
 		{
 			"type": "arrow",
-			"version": 845,
-			"versionNonce": 1445722018,
+			"version": 846,
+			"versionNonce": 280326654,
 			"isDeleted": false,
 			"id": "qg5J4S7Aa8x6FV43rUX98",
 			"fillStyle": "solid",
@@ -1095,12 +1097,12 @@ have a req in pro ^pqBBeujJ
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 386.6742734474596,
-			"y": -413.23809767372285,
+			"x": 388.0088781917389,
+			"y": -413.4525603622279,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 348.0931293716809,
-			"height": 202.3413760853885,
+			"width": 349.4277341159602,
+			"height": 202.55583877389358,
 			"seed": 1851996926,
 			"groupIds": [
 				"b4e3rTZMUJY3gulLYW6iD"
@@ -1114,7 +1116,7 @@ have a req in pro ^pqBBeujJ
 					"id": "AoDV7uSq"
 				}
 			],
-			"updated": 1689167115748,
+			"updated": 1689167295517,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1136,12 +1138,12 @@ have a req in pro ^pqBBeujJ
 					0
 				],
 				[
-					-130.04682246706733,
-					114.72829375215389
+					-131.38142721134665,
+					114.94275644065897
 				],
 				[
-					-348.0931293716809,
-					202.3413760853885
+					-349.4277341159602,
+					202.55583877389358
 				]
 			]
 		},
@@ -1755,11 +1757,11 @@ have a req in pro ^pqBBeujJ
 				"type": 2
 			},
 			"seed": 516993890,
-			"version": 25,
-			"versionNonce": 449900642,
+			"version": 26,
+			"versionNonce": 77960546,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1689167135708,
+			"updated": 1689167406764,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1773,7 +1775,11 @@ have a req in pro ^pqBBeujJ
 				]
 			],
 			"lastCommittedPoint": null,
-			"startBinding": null,
+			"startBinding": {
+				"elementId": "pqBBeujJ",
+				"focus": 0.44674247959009117,
+				"gap": 13.333333333333485
+			},
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1781,10 +1787,10 @@ have a req in pro ^pqBBeujJ
 		{
 			"id": "pqBBeujJ",
 			"type": "text",
-			"x": 231.62745098039227,
-			"y": -55.59313725490256,
-			"width": 412.1998596191406,
-			"height": 90,
+			"x": 203.294117647059,
+			"y": -70.59313725490256,
+			"width": 401.2957763671875,
+			"height": 140,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1796,22 +1802,27 @@ have a req in pro ^pqBBeujJ
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1874182114,
-			"version": 75,
-			"versionNonce": 1139444386,
+			"version": 191,
+			"versionNonce": 842164670,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1689167204675,
+			"boundElements": [
+				{
+					"id": "97BqUzbEZjKXbFJKY9vZV",
+					"type": "arrow"
+				}
+			],
+			"updated": 1689167406764,
 			"link": null,
 			"locked": false,
-			"text": "When the thread which \nhave a req in pro",
-			"rawText": "When the thread which \nhave a req in pro",
-			"fontSize": 36,
+			"text": "When the thread which \nhave a \"operation\" will finish \nthe serial conn will move to\nclosed by itself",
+			"rawText": "When the thread which \nhave a \"operation\" will finish \nthe serial conn will move to\nclosed by itself",
+			"fontSize": 28,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 77,
+			"baseline": 130,
 			"containerId": null,
-			"originalText": "When the thread which \nhave a req in pro",
+			"originalText": "When the thread which \nhave a \"operation\" will finish \nthe serial conn will move to\nclosed by itself",
 			"lineHeight": 1.25
 		},
 		{
@@ -1862,7 +1873,7 @@ have a req in pro ^pqBBeujJ
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 36,
+		"currentItemFontSize": 28,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
