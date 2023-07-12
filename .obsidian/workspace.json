@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "JAVA/JDBC.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JAVA/JDBC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JAVA/JDBC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JAVA/JDBC.md"
+              }
             }
           },
           {
@@ -200,12 +203,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eda9c89bdc3a0d76",
+  "active": "dcbb66d5fafb524f",
   "lastOpenFiles": [
-    "Daily Notes/2023-07-09.md",
-    "Commands.md",
-    "Excalidraw/ExecuteBatch.md",
     "Training/Confluence Training.md",
+    "Daily Notes/2023-07-09.md",
+    "Excalidraw/ExecuteBatch.md",
+    "Commands.md",
     "Tasks/Client Mock.md",
     "Links.md",
     "JAVA/OOP_Java_Lectures.pdf",
