@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-07-09.md",
+                "file": "JAVA/JDBC.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-07-12.md",
+                "file": "JAVA/JDBC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-07-12.md",
+                "file": "JAVA/JDBC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-07-12.md"
+                "file": "JAVA/JDBC.md"
               }
             }
           },
@@ -213,14 +214,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcbb66d5fafb524f",
+  "active": "24c18081f721d185",
   "lastOpenFiles": [
-    "JAVA/JDBC.md",
-    "Daily Notes/2023-07-12.md",
     "Excalidraw/ExecuteBatch.md",
+    "Daily Notes/2023-07-12.md",
+    "JAVA/JDBC.md",
+    "Daily Notes/2023-07-09.md",
     "Excalidraw/Serial Connection Diagram Flow.md",
     "Training/Confluence Training.md",
-    "Daily Notes/2023-07-09.md",
     "Commands.md",
     "Tasks/Client Mock.md",
     "Links.md",
