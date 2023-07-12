@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/JDBC.md",
+                "file": "Daily Notes/2023-07-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Serial Connection Diagram Flow.md",
+                "file": "Daily Notes/2023-07-12.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Serial Connection Diagram Flow.md",
+                "file": "Daily Notes/2023-07-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Serial Connection Diagram Flow.md"
+                "file": "Daily Notes/2023-07-12.md"
               }
             }
           },
@@ -214,12 +213,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "897f7784409c2b88",
+  "active": "dcbb66d5fafb524f",
   "lastOpenFiles": [
     "JAVA/JDBC.md",
+    "Daily Notes/2023-07-12.md",
+    "Excalidraw/ExecuteBatch.md",
+    "Excalidraw/Serial Connection Diagram Flow.md",
     "Training/Confluence Training.md",
     "Daily Notes/2023-07-09.md",
-    "Excalidraw/ExecuteBatch.md",
     "Commands.md",
     "Tasks/Client Mock.md",
     "Links.md",
@@ -230,7 +231,6 @@
     "JAVA/OOP_Java_Exercices.pdf",
     "JAVA/Untitled Diagram.svg",
     "Daily Notes/2023-07-10.md",
-    "Excalidraw/Serial Connection Diagram Flow.md",
     "Training/Trace & Logs.md",
     "Wifi.md",
     "Excalidraw/Conflict Serializable.md",
@@ -254,7 +254,6 @@
     "Training/Eran's Lectures/Eran System Flow Face2Face.md",
     "Training/Erez Webman's Lectures/Consistency.md",
     "Images/Pasted image 20230604232443.png",
-    "Daily Notes/2023-07-02.md",
     "Images/Pasted image 20230629180714.png",
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
     "Images/Pasted image 20230629111902.png",
