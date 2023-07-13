@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/JDBC.md",
+                "file": "Daily Notes/2023-07-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/JDBC.md",
+                "file": "Daily Notes/2023-07-13.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/JDBC.md",
+                "file": "Daily Notes/2023-07-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/JDBC.md"
+                "file": "Daily Notes/2023-07-13.md"
               }
             }
           },
@@ -216,9 +216,10 @@
   },
   "active": "24c18081f721d185",
   "lastOpenFiles": [
+    "JAVA/JDBC.md",
+    "Daily Notes/2023-07-13.md",
     "Excalidraw/ExecuteBatch.md",
     "Daily Notes/2023-07-12.md",
-    "JAVA/JDBC.md",
     "Daily Notes/2023-07-09.md",
     "Excalidraw/Serial Connection Diagram Flow.md",
     "Training/Confluence Training.md",
@@ -253,7 +254,6 @@
     "Training/Eran's Lectures/Untitled Diagram.svg",
     "Training/Eran's Lectures/Untitled.md",
     "Training/Eran's Lectures/Eran System Flow Face2Face.md",
-    "Training/Erez Webman's Lectures/Consistency.md",
     "Images/Pasted image 20230604232443.png",
     "Images/Pasted image 20230629180714.png",
     "Training/Erez Webman's Lectures/Transaction Work Cycle.svg",
