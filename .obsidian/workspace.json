@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Daily Notes/2023-07-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Daily Notes/2023-07-13.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Confluence Training.md",
+                "file": "Daily Notes/2023-07-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Confluence Training.md"
+                "file": "Daily Notes/2023-07-13.md"
               }
             }
           },
@@ -228,13 +228,13 @@
   },
   "active": "ff549b30c85b8a0e",
   "lastOpenFiles": [
+    "Training/Confluence Training.md",
     "Daily Notes/2023-07-12.md",
     "Excalidraw/Serial Connection Diagram Flow.md",
     "Excalidraw/ExecuteBatch.md",
     "Daily Notes/2023-07-13.md",
     "JAVA/JDBC.md",
     "Daily Notes/2023-07-09.md",
-    "Training/Confluence Training.md",
     "Commands.md",
     "Tasks/Client Mock.md",
     "Links.md",
