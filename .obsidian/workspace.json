@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ff549b30c85b8a0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Training/Confluence Training.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "897f7784409c2b88",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-07-13.md",
+                "file": "Training/Confluence Training.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-07-13.md",
+                "file": "Training/Confluence Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-07-13.md"
+                "file": "Training/Confluence Training.md"
               }
             }
           },
@@ -214,14 +226,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24c18081f721d185",
+  "active": "ff549b30c85b8a0e",
   "lastOpenFiles": [
-    "JAVA/JDBC.md",
-    "Daily Notes/2023-07-13.md",
-    "Excalidraw/ExecuteBatch.md",
     "Daily Notes/2023-07-12.md",
-    "Daily Notes/2023-07-09.md",
     "Excalidraw/Serial Connection Diagram Flow.md",
+    "Excalidraw/ExecuteBatch.md",
+    "Daily Notes/2023-07-13.md",
+    "JAVA/JDBC.md",
+    "Daily Notes/2023-07-09.md",
     "Training/Confluence Training.md",
     "Commands.md",
     "Tasks/Client Mock.md",
